@@ -27,7 +27,7 @@ After improving a translation, it will be immediately published to LeanPub. Amaz
 
 - **Compare with the English version** when needed, in order to understand the original intent. This is especially important if you are confused about some part of the AI translation.
 - **Don't fix what isn't broken**. Only change sentences where the translation is incorrect, or if there is a more suitable way to phrase the sentence. Don't aim for 100% perfection, or you might end up having to rewrite the whole book...
-- **Keep to the original style**, tone, and meaning of the sentences. If something is unclear, look at the english version for reference. The english version is on the branch called `publish`.
+- **Keep to the original style**, tone, and meaning of the sentences. If something is unclear, look at the english version for reference.
 - **Don't add or remove any content**. If you can't figure out how to phrase something correctly, leave the not-to-good phrasing (or leave it in English) rather than removing the sentence.
 - **Make a judgement call for which terminology should be translated**, and which should be left in English. For example terms like "Prompt Engineering" or "Reinforcement Learning".
 - **Don't use AI to translate**! The whole point of this is to get human translation to complement the existing AI translations. But you could use AI to bounce ideas.
