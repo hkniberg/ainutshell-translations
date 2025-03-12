@@ -8,7 +8,7 @@ This repository is public to enable community-submitted improvements to the AI-t
 
 ## Guide for Translators
 
-The book has been AI-translated to 31 languages, all listed at the bottom of this page. Your role as a translator is to **review and improve** these existing translations rather than creating new ones from scratch. Hopefully the AI translations are good enough to provide a good starting point.
+The book has been AI-translated to 31 languages, all listed at the bottom of this page. Your role as a translator is to **review and improve** an existing translation rather than create a new translation from scratch. Hopefully the AI translations are good enough to provide a good starting point.
 
 The book is distributed on two platforms:
 
@@ -20,7 +20,7 @@ After improving a translation, it will be immediately published to LeanPub. Amaz
 ### How to improve a translation
 
 1. **Download the manuscript file and metadata file** for your language. Metadata is stuff like title, subtitle, author info, etc. See the table below for links.
-2. **Review it and make improvements** where needed. Also add your name to the "Translator credits" section in the metadata.
+2. **Review the files and make improvements** where needed. Also add your name to the "Translator credits" section in the metadata.
 3. **Submit** your updated files as a github PR (if you know how to do that), or by emailing the files to ainutshell@ymnig.com.
 
 ### Translator guidelines
