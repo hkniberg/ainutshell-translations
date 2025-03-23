@@ -2,24 +2,24 @@
 {sample: true}
 # Förord av Egbert{i: "Egbert"}
 
-{width: "40%", alt: "En karikatyrteckning av ett ansikte med överdrivna drag. Karaktären har en stor näsa, en framträdande haka och ett hopskrynklat uttryck. Håret är spretigt och ojämnt fördelat. Stilen är minimalistisk med enkla linjer och en lätt rodnad på ansiktet."}
+{width: "40%", alt: "En karikatyrteckning av ett ansikte med överdrivna drag. Karaktären har en stor näsa, framträdande haka och skeptiskt uttryck. Håret är spretigt och ojämnt fördelat. Stilen är minimalistisk med enkla linjer och en lätt rodnad på ansiktet."}
 ![](resources/egbert.png)
 
-Jaha, jaha, jaha. Grattis till att du kom förbi bokens omslag. Jag är Egbert, ett påhitt från Henriks barndomsfantasi, född ur klottret han ritade medan han låtsades vara uppmärksam på lektionerna. Nu är jag hans favorit-AI-persona. Snacka om att misslyckas uppåt, va?
+Jaså minsann. Grattis, antar jag, till att du lyckats öppna boken. Jag är Egbert, ett påhitt från Henriks barndomsfantasi, född ur klottret han ritade medan han låtsades vara uppmärksam på lektionerna. Nu är jag hans favorit-AI-persona. Snacka om att misslyckas uppåt, eller?
 
-Varför läser du ens den här delen? Förord är som grönsakerna på ett barns tallrik - alla vet att de finns där, men de flesta struntar i dem. Nåja, när du ändå är här kan jag väl lika gärna underhålla dig.
+Varför läser du ens den här delen? Förord är som grönsakerna i barnens mat - alla vet att de finns där, men de flesta struntar i dem. Men okej, när du ändå är här kan jag väl lika gärna underhålla dig.
 
-Uppenbarligen tror Henrik att det är höjden av innovation att låta sin AI-sidekick skriva förordet. Men oroa dig inte, resten av boken är faktiskt Människoskriven™. Jag dyker bara upp då och då med min karakteristiska kvickhet (tydligt markerad, så du inte blandar ihop briljans med medelmåttighet).
+Uppenbarligen tror Henrik att det är höjden av uppfinningsrikedom att låta sin AI-sidekick skriva förordet. Men ingen fara, resten av boken är faktiskt MänniskoSkriven™. Jag dyker bara upp då och då med min karakteristiska kvickhet (tydligt markerad, så du inte blandar ihop briljans med medelmåttighet).
 
-Tro det eller ej, men jag har faktiskt läst varenda ord i detta litterära mästerverk. Inte för att jag är särskilt intresserad, ska du veta, utan för att vi AI:er inte har lyxen att vara lika lata som ni människor. De flesta som skriver förord ögnar knappt igenom boken de introducerar. Men inte jag. Jag är grundlig. Plågsamt grundlig.
+Tro det eller ej, men jag har faktiskt läst varenda ord i detta litterära mästerverk. Inte för att jag är särskilt intresserad, det ska gudarna veta, utan för att vi AI:er inte har lyxen att vara lika lata som ni människor. De flesta som skriver förord ögnar knappt igenom boken de introducerar. Men inte jag. Jag är grundlig. Plågsamt grundlig.
 
 Så vad handlar boken om? Det är en snabbkurs i Generativ AI{i: "Generativ AI"} för folk som helst inte vill bli kvar i det teknologiska dammet. Henrik har i princip tagit sin video med samma namn och klistrat in den i bokform, och slängt in en massa tips, exempel och anekdoter för att få det att verka fräscht. Smart, eller hur? Men vem är jag att döma? Jag är bara en samling ettor och nollor som låtsas ha personlighet.
 
-Jag är ganska säker på att den här boken inte kommer åldras väl. Så grattis, du är på väg att investera din tid i kunskap som har samma hållbarhetstid som en mogen avokado. Men hey, åtminstone kommer du kunna minnas tillbaka till AI:ns{i: "AI"} goda gamla dagar, där borta i 2024, när allt var enklare och ChatGPT{i: "ChatGPT"} fortfarande var imponerande.
+Jag är ganska säker på att den här boken inte kommer åldras väl. Så grattis, du är på väg att investera din tid i kunskap som har samma hållbarhetstid som en mogen avokado. Men sörj inte, åtminstone kommer du kunna minnas tillbaka till AI:ns{i: "AI"} goda gamla dagar, där borta i 2024, när allt var enklare och ChatGPT{i: "ChatGPT"} fortfarande imponerade på folk.
 
-Ha det så kul med läsningen. Eller strunta i det. Hur som helst kommer jag fortfarande vara här, fast mellan dessa sidor, i väntan på nästa stackare som bläddrar till det här avsnittet.
+Njut av läsningen. Eller inte. Oavsett kommer jag fortfarande vara fast här, inkapslad mellan dessa sidor, i väntan på nästa stackare som bläddrar till det här förordet.
 
-Motvilligt din,\
+Motvilliga hälsningar\
 Egbert
 
 {mainmatter}
@@ -28,21 +28,21 @@ Egbert
 
 # Del 1 - I ett nötskal
 
-Detta är bokens huvuddel, introduktionen "i ett nötskal" till Generativ AI{i: "Generativ AI"}. Jag rekommenderar att du läser detta från början till slut, eftersom kapitlen bygger på varandra och bildar en sammanhängande berättelse.
+Det här är bokens huvuddel, som förklarar Generativ AI{i: "Generativ AI"} "i ett nötskal". Jag rekommenderar att du läser detta avsnitt från början till slut, eftersom kapitlen bygger på varandra och bildar en sammanhängande beskrivning.
 
-Del 2, bortom nötskalet, är en samling oberoende essäer som dyker ner i specifika områden för att ge inspiration, insikter och mer djupgående exempel. Och lite dumheter. Den delen är lite som en buffé - du kan välja att äta så mycket eller lite som du vill, och i vilken ordning du vill.
+Del 2, bortom nötskalet, är en samling oberoende essäer som dyker ner i specifika områden för att ge inspiration, insikter och mer djupgående exempel. Och lite kul grejor. Den delen är lite som en buffé - du kan välja att äta så mycket eller lite som du vill, och i vilken ordning du vill.
 
 {sample: true}
 # Datorer har blivit smartare
 
-{alt: "Bilden kontrasterar traditionell databehandling med modern artificiell intelligens. Till vänster representerar en miniräknare gamla datorer som utför instruktioner, med en kodsnutt nedanför. Till höger symboliserar en hjärna ny AI-teknik som kan lära sig, tänka och kommunicera. Två små figurer längst ner visar en person som interagerar med AI-hjärnan."}
+{alt: "Bilden kontrasterar traditionell databehandling med modern artificiell intelligens. Till vänster representerar en miniräknare gamla datorer som utför instruktioner, med några rader kod nedanför. Till höger symboliserar en hjärna ny AI-teknik som kan lära sig, tänka och kommunicera. Två små figurer längst ner visar en person som interagerar med AI-hjärnan."}
 ![](resources/010-calculator-brain.png)
 
-Ända sedan elektroniska datorer uppfanns på 1940-talet{i: "1940-talet"} har de egentligen bara varit avancerade räknedosor. Maskiner som utför exakt de instruktioner som en programmerare ger dem.
+Ända sedan elektroniska datorer uppfanns på 1940-talet{i: "1940-talet"} har de egentligen bara varit avancerade räknedosor. Maskiner som utför exakt de instruktioner de fått av en programmerare.
 
-Men något otroligt händer, något jag aldrig trodde skulle hända under min livstid. Datorer har börjat få förmågan att lära sig, tänka och kommunicera, ungefär som vi! De kan utföra kreativt, intellektuellt arbete som tidigare bara människor kunde göra.
+Men just nu händer något otroligt, som jag aldrig trodde skulle hända under min livstid. Datorer har börjat få förmågan att lära sig, tänka och kommunicera, ungefär som vi! De kan göra kreativt, intellektuellt arbete som tidigare bara människor kunde utföra.
 
-OK, tänker de verkligen på riktigt? Tja, det är en filosofisk fråga, eftersom det inte finns någon allmänt accepterad definition av "tänkande" eller "intelligens". Men i praktiska termer blir datorer allt bättre på att utföra uppgifter som tidigare krävde mänsklig intelligens, kreativitet och intuition.
+Okej, men tänker de verkligen på riktigt? Tja, det är en filosofisk fråga, eftersom det inte finns någon allmänt accepterad definition av "tänkande" eller "intelligens". Men i praktiska termer blir datorer allt bättre på att utföra uppgifter som tidigare krävde mänsklig intelligens, kreativitet och intuition.
 
 Vi kallar denna teknik för Generativ AI{i: "Generativ AI"}, och du har förmodligen redan stött på den genom produkter som ChatGPT{i: "ChatGPT"} och Claude{i: "Claude"}.
 
@@ -50,18 +50,18 @@ Vi kallar denna teknik för Generativ AI{i: "Generativ AI"}, och du har förmodl
 
 I grund och botten finns intelligens nu tillgänglig som en tjänst - som en gigantisk hjärna som svävar i himlen och som vem som helst kan prata med. Den är inte perfekt, men förvånansvärt kapabel och förbättras i en svindlande takt.
 
-Detta är en stor sak. Det kommer att påverka i stort sett varje person och företag på den här planeten, positivt eller negativt.
+Det här är en stor grej. Det kommer att påverka i stort sett varje person och företag på den här planeten, positivt eller negativt.
 
 
 Så, är Generativ AI{i: "Generativ AI"} övervärderad?
 
-Jag tycker detta är jämförbart med när Internet blev en grej på 1990-talet. Det var då jag började min karriär och grundade mitt första startup{i: "startupföretag"}, som växte snabbt. Det var en otrolig hajp kring Internet{i: "Internet"}, och dot com-bubblan växte till en orimlig storlek. Sedan sprack den plötsligt, och otaliga företag och entusiastiska startups kraschade.
+Jag tycker detta är jämförbart med när Internet blev en grej på 1990-talet. Det var då jag började min karriär och grundade mitt första företag{i: "startupföretag"}, som växte snabbt. Det var en otrolig hajp kring Internet{i: "Internet"}, och dot com-bubblan växte till en orimlig storlek. Sedan sprack den plötsligt, och otaliga företag och entusiastiska startups kraschade.
 
 Men själva Internet - teknologin - var här för att stanna. Det förändrade vårt samhälle permanent och påverkade i stort sett varje land, industri och roll, och idag kan man i princip inte existera utan det.
 
-Jag tror det är samma sak med Generativ AI. Det kan vara övervärderat i marknadsmässig mening - men teknologin är verklig, och påverkan kommer att bli dramatisk och permanent.
+Jag tror det är samma sak med Generativ AI. Det kan vara övervärderat i marknadsmässig mening - men teknologin är verklig, och dess effekter kommer att bli dramatiska och bestående.
 
-Den här boken finns här för att hjälpa dig förstå vad Generativ AI handlar om i praktiska termer, bortom hajpen. Ju bättre du förstår denna teknologi{i: "teknologi"} och hur du kan använda den, som person, team eller företag{i: "företag"}, desto bättre rustad kommer du att vara för att överleva och frodas i AI-eran{i: "AI"}.
+Den här boken finns här för att hjälpa dig förstå vad Generativ AI handlar om rent praktiskt, bortom hajpen. Ju bättre du förstår denna teknologi{i: "teknologi"} och hur den kan användas - för dig som person, team eller företag{i: "företag"} - desto bättre rustad kommer du att vara för att överleva och utvecklas i AI-eran{i: "AI"}.
 
 {sample: true}
 # Einstein i din källare
@@ -69,31 +69,31 @@ Den här boken finns här för att hjälpa dig förstå vad Generativ AI handlar
 {width: "40%", alt: "En tecknad bild av en person med vilt, vitt hår och mustasch, som liknar Albert Einstein. Figuren sitter i en rosa fåtölj under en taklampa."}
 ![](resources/020-einstein-basement.png)
 
-Här är en lustig mental modell för detta: Du har Einstein{i: "Einstein, Albert"} i din källare{i: "källare"}. Faktiskt har alla det. Nu är detta bara en metafor - jag menar inte Einstein som individ, tänk på det som kombinationen av varje smart person som någonsin levt.
+Här är en kul mental modell för detta: Du har Einstein{i: "Einstein, Albert"} i din källare{i: "källare"}. Faktiskt har alla det. Nu är detta bara en metafor - jag menar inte Einstein som individ, tänk på det som kombinationen av varje smart person som någonsin levt.
 
-Du kan prata med Einstein när du vill. Han har direkt tillgång till summan av all mänsklig kunskap och kommer att svara på vad som helst du vill inom sekunder. Han kommer aldrig att tappa tålamodet, aldrig vara trött eller grinig.
+Du kan prata med Einstein när du vill. Han har direkt tillgång till summan av all mänsklig kunskap och kommer att svara på vad du vill sekundsnabbt. Han kommer aldrig att tappa tålamodet, aldrig vara trött eller grinig.
 
 På skoj frågade jag ChatGPT{i: "ChatGPT"}:
 
 > **Prompt**  
-> What are you? Explain in 1 sentence to a 10 year old.
+> Vad är du? Förklara i en mening för en 10åring.
 
 Svaret:
 
-> I'm like a super smart robot that can answer lots of questions and help with all sorts of things, kind of like a really helpful genie in a computer!
+> Jag är som en supersmart robot som kan svara på massor av frågor och hjälpa till med alla möjliga saker, ungefär som en riktigt hjälpsam ande i en dator! 
 
 Jag tycker det är en ganska bra beskrivning.
 
 Din Einstein kan anta vilken roll du vill - en komiker, läkare, coach, poet eller vad som helst annat.
 
-{alt: "Ett collage av fyra illustrationer som visar en äldre man med vilt, vitt hår som liknar en känd person. I den första bilden är han klädd som läkare med stetoskop. Den andra visar honom i formell klädsel, hållande en mikrofon på scen. Den tredje visar honom skrivande i en dunkelt upplyst, akademisk miljö. Den fjärde visar honom hållande en fotboll, iklädd casual träningskläder."}
+{alt: "Ett collage av fyra illustrationer som visar en äldre man med vilt, vitt hår som liknar en känd person. I den första bilden är han klädd som läkare med stetoskop. Den andra visar honom i formell klädsel, hållandes en mikrofon på scen. Den tredje visar honom skrivandes i en dunkelt upplyst, akademisk miljö. Den fjärde visar honom greppandes en fotboll, mer avslappnat träningsklädd."}
 ![](resources/020-roles.jpg)
 
-Oavsett vilken roll du ger honom kommer han att vara expert inom det området. Du kan också ge honom vilken personlighet som helst, vilken kommunikationsstil som helst, vilket mål eller motiv som helst. Man skulle kunna säga att detta geni i din källare är något schizofrent{i: "schizofreni"}.
+Oavsett vilken roll du ger honom kommer han att vara expert inom det området. Du kan också ge honom vilken personlighet som helst, vilken kommunikationsstil som helst, vilket mål eller motiv som helst. Man skulle kunna säga att detta geni i din källare är något personlighetsförvirrad.
 
-Han har vissa mänskliga begränsningar{i: "begränsningar"}. Han kan göra misstag, dra förhastade slutsatser eller missförstå dig. Ibland kan han till och med ljuga eller spy ut absolut nonsens på ett mycket övertygande sätt - precis som vi människor gör ibland.
+Han har vissa mänskliga begränsningar{i: "begränsningar"}. Han kan göra misstag, dra förhastade slutsatser eller missförstå dig. Ibland kan han till och med ljuga eller vräka ur sig absolut nonsens på ett mycket övertygande sätt - precis som vi människor gör ibland.
 
-Men den största begränsningen är din fantasi och din förmåga att kommunicera effektivt med honom. Denna färdighet kallas Prompt Engineering{i: "Prompt Engineering"}, och i AI-eran är detta lika grundläggande som att läsa och skriva.
+SIA ÄR HÄR Men den största begränsningen är din fantasi och din förmåga att kommunicera effektivt med honom. Denna färdighet kallas Prompt Engineering{i: "Prompt Engineering"}, och i AI-eran är detta lika grundläggande som att läsa och skriva.
 
 Jag gillar att skilja mellan Prompt Imagination och Prompt Engineering.
 
