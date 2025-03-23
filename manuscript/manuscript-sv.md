@@ -93,7 +93,7 @@ Oavsett vilken roll du ger honom kommer han att vara expert inom det området. D
 
 Han har vissa mänskliga begränsningar{i: "begränsningar"}. Han kan göra misstag, dra förhastade slutsatser eller missförstå dig. Ibland kan han till och med ljuga eller vräka ur sig absolut nonsens på ett mycket övertygande sätt - precis som vi människor gör ibland.
 
-SIA ÄR HÄR Men den största begränsningen är din fantasi och din förmåga att kommunicera effektivt med honom. Denna färdighet kallas Prompt Engineering{i: "Prompt Engineering"}, och i AI-eran är detta lika grundläggande som att läsa och skriva.
+SIA ÄR HÄR!! Men den största begränsningen är din fantasi och din förmåga att kommunicera effektivt med honom. Denna färdighet kallas Prompt Engineering{i: "Prompt Engineering"}, och i AI-eran är detta lika grundläggande som att läsa och skriva.
 
 Jag gillar att skilja mellan Prompt Imagination och Prompt Engineering.
 
