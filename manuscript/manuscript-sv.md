@@ -93,7 +93,7 @@ Oavsett vilken roll du ger honom kommer han att vara expert inom det området. D
 
 Han har vissa mänskliga begränsningar{i: "begränsningar"}. Han kan göra misstag, dra förhastade slutsatser eller missförstå dig. Ibland kan han till och med ljuga eller vräka ur sig absolut nonsens på ett mycket övertygande sätt - precis som vi människor gör ibland.
 
-SIA ÄR HÄR!! Men den största begränsningen är din fantasi och din förmåga att kommunicera effektivt med honom. Denna färdighet kallas Prompt Engineering{i: "Prompt Engineering"}, och i AI-eran är detta lika grundläggande som att läsa och skriva.
+Men den största begränsningen är din fantasi och din förmåga att kommunicera effektivt med honom. Denna färdighet kallas Prompt Engineering{i: "Prompt Engineering"}, och i AI-eran är detta lika grundläggande som att läsa och skriva.
 
 Jag gillar att skilja mellan Prompt Imagination och Prompt Engineering.
 
@@ -105,11 +105,11 @@ Jag gillar att skilja mellan Prompt Imagination och Prompt Engineering.
 
 
 
-Så vad kan Einstein egentligen göra för dig?
+Så vad kan Einstein faktiskt hjälpa dig med?
 
 Antalet användningsområden är så brett att det ibland är svårt att svara på. Det är lite som att fråga "Vad kan jag använda elektricitet{i: "elektricitet"} till" - svaret är "tja, nästan vad som helst". Men oroa dig inte, den här boken är fullspäckad med praktiska exempel.
 
-De flesta underskattar kraftigt vad denna Einstein-figur kan göra. Det är som att gå till den riktiga Einstein och be honom korrekturläsa en gymnasierapport. Eller att anställa en världsberömd 5-stjärnig kock och låta honom hacka lök.
+De flesta underskattar kraftigt vad denna Einstein-figur kan göra. Det är som att gå till den riktiga Einstein och be honom korrekturläsa skolläxorna. Eller att anställa en världsberömd 5-stjärnig kock och låta honom hacka lök.
 
 Ju mer du interagerar med Einstein, desto fler överraskande och kraftfulla sätt kommer du att upptäcka hur han kan hjälpa dig, din familj{i: "familjer"}, ditt team, ditt företag eller världen.
 
@@ -129,16 +129,16 @@ AI står som du förmodligen vet för Artificiell Intelligens{i: "Artificiell In
 
 Generativ AI{i: "Generativ AI"} är AI som genererar nytt originellt innehåll, istället för att bara hitta eller klassificera befintligt innehåll. Det är G:et i GPT.
 
-Stora språkmodeller{i: "Stora språkmodeller"} (eller LLM) är en typ av Generativ AI som kan kommunicera med vanligt mänskligt språk.
+Stora språkmodeller{i: "Stora språkmodeller"} (eller LLM, Large Language Model) är en typ av Generativ AI som kan kommunicera med vanligt mänskligt språk.
 
 ChatGPT{i: "ChatGPT"} är en produkt från företaget OpenAI{i: "OpenAI"}. Det började som en LLM, i grund och botten en avancerad chatbot, men med en ny arkitektur kallad Transformatorarkitekturen{i: "Transformatorarkitektur"}. Det är T:et i GPT.
 
-Transformatorarkitekturen introducerades i en banbrytande artikel från 2017 med titeln _"Attention is All You Need"_{i: "*Attention is All You Need*"} av forskare vid Google{i: "Google"} och University of Toronto{i: "University of Toronto"}. Den har citerats över 100 000 gånger och är i princip den hemliga såsen bakom de flesta moderna AI-språkmodeller.
+Transformatorarkitekturen introducerades i en banbrytande artikel från 2017 med titeln _"Attention is All You Need"_{i: "*Attention is All You Need*"} av forskare vid Google{i: "Google"} och University of Toronto{i: "University of Toronto"}. Den har citerats över 100 000 gånger och är i princip den hemliga ingrediensen bakom de flesta moderna AI-språkmodeller.
 
 {width: 80%, alt: "Titelsida på en forskningsartikel med titeln "Attention Is All You Need" med flera författare listade tillsammans med deras tillhörigheter och kontaktmejl. Artikelns sammanfattning är delvis synlig och diskuterar en ny nätverksarkitektur kallad "the Transformer.""}
 ![](resources/030-transformer.png)
 
-När ChatGPT släpptes i november 2022 blev det viralt - en miljon användare inom 5 dagar, över 100 miljoner användare två månader senare. Denna märkliga lilla chatbot var så duktig på mänskligt språk (faktiskt de _flesta_ mänskliga språk) att vem som helst kunde använda den. Du behövde inte vara en AI-expert eller programmerare.
+När ChatGPT släpptes i november 2022 blev den viral - en miljon användare inom 5 dagar, över 100 miljoner användare två månader senare. Denna märkliga lilla chatbot var så duktig på mänskligt språk (faktiskt de _flesta_ mänskliga språk) att vem som helst kunde använda den. Du behövde inte vara en AI-expert eller programmerare.
 
 OpenAI var inte det enda företaget som arbetade med den här typen av teknologi, men ChatGPT blev gnistan som utlöste den Generativa AI-revolutionen. Dammluckorna hade öppnats, och ChatGPT blev ansiktet utåt för hela denna företeelse.
 
@@ -156,9 +156,9 @@ I resten av den här boken kommer jag att använda termen "AI-klient"{i: "AI-kli
 
 Så hur fungerar det egentligen?&#x20;
 
-En LLM (large language model) är ett Artificiellt Neuralt Nätverk{i: "Artificiellt neuralt nätverk"}. I grund och botten är det en samling siffror, eller parametrar, som är sammankopplade med varandra, ungefär som hur vår hjärna är en samling neuroner, eller hjärnceller, som är sammankopplade med varandra.
+En LLM (Large Language Model) är ett Artificiellt Neuralt Nätverk{i: "Artificiellt neuralt nätverk"}. I grund och botten är det en samling siffror, eller parametrar, som är sammankopplade med varandra, ungefär som hur vår hjärna är en samling neuroner, eller hjärnceller, som är sammankopplade med varandra.
 
-Internt hanterar Neurala Nätverk{i: "Artificiellt neuralt nätverk"} endast siffror. Du skickar in siffror, och beroende på hur parametrarna är inställda kommer andra siffror ut. Men alla typer av innehåll, som text eller bilder, kan representeras som siffror. Så Neurala Nätverk kan faktiskt användas för alla typer av media. Till exempel använder självkörande bilar neurala nätverk för att bearbeta visuell input från kameror och andra sensorer{i: "sensorer"}, som genererar kontrollsignaler som "justera styrning 5 grader höger" eller "använd 20% bromskraft".
+Internt hanterar Neurala Nätverk{i: "Artificiellt neuralt nätverk"} endast siffror. Du skickar in siffror, och beroende på hur parametrarna är inställda kommer andra siffror ut. Men alla typer av innehåll, som text eller bilder, kan representeras som siffror. Så Neurala Nätverk kan faktiskt användas för alla typer av media. Till exempel använder självkörande bilar neurala nätverk för att bearbeta visuell input från kameror och andra sensorer{i: "sensorer"}, vilka genererar kontrollsignaler som "justera styrningen 5 grader höger" eller "använd 20% bromskraft".
 
 LLMs{i: "LLMs"} är Neurala Nätverk{i: "Artificiellt neuralt nätverk"} som är optimerade för att förstå och generera text. Du kanske har hört termerna "token"{i: "token"} och "tokengränser"{i: "tokengränser"}. En token är en liten del text, vanligtvis ett ord eller en del av ett ord. Internt läser och genererar LLMs tokens. Det du ser är ord och meningar. Tekniskt sett arbetar de med tokens snarare än ord, men jag kommer bara att kalla det "ord" i det här kapitlet för att göra det lättare att förstå.
 
@@ -171,9 +171,9 @@ Hur bestämde den sig för ordet "djur?" Den beräknar sannolikheter för alla m
 
 Så en LLM är i grunden en "gissa-nästa-ord-maskin"{i: "gissa-nästa-ord-maskin"}.
 
-Det pågår faktiskt mer än bara statistisk textprediktion - det sker en viss nivå av förståelse. Kommer du ihåg artikeln "Attention is All You Need"{i: "Attention is All You Need"} som nämndes i föregående kapitel? Ett av dess viktigaste koncept var uppmärksamhetsmekanismen{i: "uppmärksamhetsmekanism"}.
+Det händer faktiskt mer än bara statistisk textförutsägelse - det sker en viss nivå av förståelse. Kommer du ihåg artikeln "Attention is All You Need"{i: "Attention is All You Need"} som nämndes i föregående kapitel? Ett av dess viktigaste koncept var uppmärksamhetsmekanismen{i: "uppmärksamhetsmekanism"}.
 
-Tänk på hur du läser en mening - din hjärna fokuserar automatiskt på de viktiga orden och liksom glider över de mindre viktiga (som "en"). Det är i princip vad uppmärksamhet gör - det hjälper AI:n att räkna ut vilka delar av texten som verkligen betyder något. Till exempel, när frasen "fladdermusen flög på natten" bearbetas, hjälper uppmärksamhetsmekanismen modellen att fokusera mer på ordet "flög" för att förstå att "fladdermus" syftar på djuret snarare än något annat. Att förstå relationerna och beroendeförhållandena mellan ord är nyckeln till att förstå mänskligt språk{i: "förståelse av mänskligt språk"}.
+Tänk på hur du läser en mening - din hjärna fokuserar automatiskt på de viktiga orden och liksom glider över de mindre viktiga (som "en"). Det är i princip vad uppmärksamhet gör - det hjälper AI:n att räkna ut vilka delar av texten som verkligen betyder något. Till exempel, när frasen "händer ritar i sanden" bearbetas, hjälper uppmärksamhetsmekanismen modellen att fokusera mer på ordet "ritar" för att förstå att "händer" syftar på kroppens händer snarare än något annat som händer. Att förstå relationerna och beroendeförhållandena mellan ord är nyckeln till att förstå mänskligt språk{i: "förståelse av mänskligt språk"}.
 
 Det intressanta är att om vi tar outputen och kombinerar den med inputen och skickar det genom det neurala nätverket igen, kommer det att fortsätta lägga till nya ord. Och när vi upprepar det får vi meningar och stycken. Det är vad din AI-klient gör när den svarar på dina prompts{i: "AI-klient prompts"}.
 
@@ -182,9 +182,9 @@ Det intressanta är att om vi tar outputen och kombinerar den med inputen och sk
 
 
 
-Till exempel, här är vad jag fick när jag skrev "Generera en kort berättelse om en flygande valp".
+Till exempel, det här blev resultatet när jag skrev "Generera en kort berättelse om en flygande valp".
 
-> Max var ingen vanlig valp. Medan andra hundar jagade ekorrar och grävde hål i trädgården, tillbringade Max sina dagar med att längtansfullt stirra upp mot himlen. Hans ägare tyckte det var gulligt hur han kunde sitta i timmar och titta på fåglar som svävade förbi, men de hade ingen aning om vad som egentligen pågick i Max lurviga lilla huvud. För ser ni, Max hade en hemlighet - en som skulle vända hela grannskapet upp och ner om någon någonsin fick reda på den. Denna lekfulla golden retriever-valp kunde flyga.
+> Max var ingen vanlig valp. Medans andra hundar jagade ekorrar och grävde hål i trädgården, tillbringade Max sina dagar med att längtansfullt stirra upp mot himlen. Hans ägare tyckte det var gulligt hur han kunde sitta i timmar och titta på fåglar som svävade förbi, men de hade ingen aning om vad som egentligen pågick i Max lurviga lilla huvud. För ser ni, Max hade en hemlighet - en som skulle vända hela grannskapet upp och ner om någon någonsin fick reda på den. Denna lekfulla golden retriever-valp kunde flyga.
 
 Sedan skrev jag "Lägg till en mörk vändning i berättelsen", och historien fortsatte:
 
