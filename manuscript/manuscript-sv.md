@@ -190,7 +190,7 @@ Sedan skrev jag "Lägg till en mörk vändning i berättelsen", och historien fo
 
 > Max förmåga att trotsa gravitationen var en källa till förundran och glädje, tills den dag då allt förändrades. En kylig höstkväll, när Max svävade högt ovanför hustaken, upptäckte han något som fick hans lilla hjärta att rusa av rädsla. I skuggorna av ett övergivet lager i utkanten av staden såg han män i mörka kostymer som lastade burar in i omärkta skåpbilar. I burarna fanns valpar - dussintals - som gnällde och grät. Max insåg med en rysning att dessa inte var några vanliga valpar; de hade alla ett eteriskt sken omkring sig, precis som han hade när han tog till vingarna. Någon hade upptäckt hemligheten med flygande hundar, och de jagade dem en efter en.
 
-Detta skulle i princip kunna fortsätta för evigt genom att lägga till fler uppmaningar.
+Detta skulle i princip kunna fortsätta i evighet genom att lägga till fler uppmaningar.
 
 Så hur vet språkmodellen när den ska sluta generera? Varför fortsätter den inte i all oändlighet? Tja, den kan upptäcka naturliga slutpunkter (som slutet på en berättelse) eller stanna när den når en tokengräns. I vår valpberättelse stannade den naturligt efter att ha introducerat flygförmågan, och igen efter att ha avslöjat den mörka vändningen om valptjuvarna. Varje svar var en komplett berättelsedel. Men jag kunde ha fortsatt att uppmana den att fortsätta historien längre.
 
@@ -198,7 +198,7 @@ Så hur vet språkmodellen när den ska sluta generera? Varför fortsätter den 
 
 Ett sätt som stora språkmodeller{i: "stora språkmodeller"} har förbättrats på är förmågan att resonera{i: "resonemang"}. Resonemanget efterliknar hur människor tänker{i: "mänskligt resonemang"}.
 
-Låt oss ta ett exempel. Du vill skriva en artikel. Vad gör du? Tja, du börjar förmodligen med att tänka på ämnet, och kanske identifierar några viktiga punkter du vill ta upp. Sedan skriver du ett utkast, bearbetar det några gånger, ber om feedback, går tillbaka och gör ändringar, och så vidare. Det är en iterativ process som involverar, tja, resonemang.
+Låt oss ta ett exempel. Du vill skriva en artikel. Vad gör du? Ja, du börjar förmodligen med att tänka på ämnet, och kanske identifierar några viktiga punkter du vill ta upp. Sedan skriver du ett utkast, bearbetar det några gånger, ber om feedback, går tillbaka och gör ändringar, och så vidare. Det är en iterativ process som involverar, just det, resonemang.
 
 Många av de tidigare språkmodellerna{i: "tidigare modeller"} gör inte det. De börjar bara generera text direkt, i princip genom att använda AI-motsvarigheten till magkänsla eller intuition. Det är ganska bisarrt om man tänker på det. Föreställ dig att du är en student och blir ombedd att skriva en uppsats. Men det finns en hake - du måste börja skriva omedelbart, utan att tänka på det, du måste fortsätta skriva tills du är klar. Och dessutom finns det ingen backknapp på ditt tangentbord - du kan inte gå tillbaka och redigera eller ändra något!
 
@@ -219,81 +219,86 @@ Till exempel använde jag GPT o1-modellen i morse för att reda ut några komple
 
 # Träning
 
-En stor språkmodell{i: "Stora språkmodeller"} kan ha miljarder eller till och med biljoner parametrar i sitt neurala nätverk{i: "neurala nätverksparametrar"}. Det är därför de kallas Stora!
+En stor språkmodell{i: "Stora språkmodeller"} kan ha miljarder eller flera biljarder parametrar i sitt neurala nätverk{i: "neurala nätverksparametrar"}. Det är därför de kallas Stora!
 
-Så hur ställs alla dessa siffror in? Tja, inte genom manuell programmering, det skulle vara omöjligt, utan genom träning{i: "träningsprocess"}.
+Men hur matas alla dessa parametrar in? Eftersom det skulle vara omöjligt att göra med manuell programmering, sker det med träning{i: "träningsprocess"}.
 
-Tänk på hur bebisar lär sig prata{i: "språkinlärning"}. När du var bebis fick du ingen instruktionsmanual eller utbildningskurs i hur man pratar, eller hur? Ingen manual eller tvådagarscertifiering? Ändå lyckades du lista ut det. Samma sak med att gå - du fortsatte bara försöka och falla tills du till slut fick kläm på det.
+Fundera på hur småbarn lär sig prata{i: "språkinlärning"}. Du fick väl ingen instruktionsmanual eller utbildning i hur man ska prata när du var liten bebis? Ingen bruksanvisning eller 2dagars kursintyg? Men du lyckades ändå lista ut hur man pratar. Samma som när du lärde dig gå - du fortsatte försöka och ramlade tills du fick kläm på det.
 
-När en bebis lär sig prata{i: "språkutveckling"}, lyssnar hon på människor som pratar runt omkring henne, och när hon har hört tillräckligt mycket börjar hon se mönstret. Hon säger några ord först (till föräldrarnas förtjusning) och sedan hela meningar.
+När ett litet barn lär sig prata{i: "språkutveckling"}, så lyssnar barnet på hur människor runtomkring pratar och efter ett tag börjar barnet upptäcka ett mönster. Först uttalar barnet några få ord (till föräldrarnas stora glädje) och senare säger barnet hela meningar.
 
-{width: "50%", alt: "En enkel teckning av fyra streckfigurer. Tre är grupperade till vänster, ler och pratar. En figur är till höger, ler och säger "Mama!" i en pratbubbla."}
+{width: "50%", alt: "En enkel teckning av fyra streckfigurer. Tre är grupperade till vänster, ler och pratar. En figur är till höger, ler och säger "Mamma!" i en pratbubbla."}
 ![](resources/050-mama.png)
 
-På samma sätt matas språkmodellen under en träningsperiod med en svindlande mängd text att lära sig från, mestadels från internetkällor{i: "internetkällor"}. Den leker "gissa nästa ord" med allt detta, och parametrarna justeras automatiskt om och om igen tills den blir riktigt bra på att förutsäga nästa ord{i: "ordprediktion"}. Detta kallas bakåtfortplantning{i: "bakåtfortplantning"}, vilket är ett fancy ord för "Oj, jag gissade fel, jag bättre ändra något".
+På samma sätt matas språkmodellen under en inlärningsperiod med en sanslöst stor mängd text för att lära sig av, mestadels från internetkällor{i: "internetkällor"}. Den leker "gissa nästa ord" med all denna indata, och justerar automatiskt alla parametrar om och om igen, tills den börjar bli riktigt bra på att förutsäga nästa ord{i: "ordprediktion"}. Det här kallas bakåtpropagering{i: "bakåtpropagering"}, vilket är en tjusig term för "hoppsan jag gissade fel, bäst jag ändrar på något"
 
-{alt: "En handritad illustration som visar oövervakad generativ förträning. Bilden visar en hjärnliknande form med numrerade noder sammankopplade av linjer, som representerar neurala nätverksvägar. Pilar pekar in i formen, märkta 'Massor och massor av text', som indikerar input. En annan pil märkt 'Bakåtfortplantning' pekar tillbaka mot formen."}
+{alt: "En handritad illustration som visar oövervakad generativ förträning. Bilden visar en hjärnliknande form med numrerade noder sammankopplade av linjer, som representerar neurala nätverksvägar. Pilar pekar in i formen, märkta 'Massor och massor av text', som indikerar input. En annan pil märkt 'Bakåtpropagering' pekar tillbaka mot formen."}
 ![](resources/050-training.jpg)
 
-Bakåtfortplantning liknar det som händer i hjärnan på det här barnet{i: "inlärningsprocess"}.
+Bakåtpropagering liknar det som händer i det här barnets hjärna{i: "inlärningsprocess"}.
 
 {width: "50%", alt: "En bebis och en vuxen sitter på golvet och tittar i en illustrerad bok. Bebisen pekar på en bild av en hund och säger 'Katt!' medan den vuxne ler och rättar, 'Nej, Hund.' Scenen utspelar sig i ett mysigt, varmt upplyst rum."}
 ![](resources/050-cat-no-dog.jpg)
 
-Hon tittar på en bild av en hund{i: "hund"}, gissar "Katt!", och sedan rättar föräldern henne: "Nej, Hund". Barnet säger "Hund!", och i det ögonblicket omkopplas hennes hjärna lite och blir nu bättre på att skilja mellan hundar och katter{i: "katt"}. Detta är nästan magiskt - eftersom varken föräldern eller barnet vet exakt vad som skiljer en hund{i: "hund"} från en katt{i: "katt"}, skulle de inte kunna definiera det på ett entydigt sätt. De bara vet, när de har sett tillräckligt många exempel. LLM-träning{i: "LLM-träning"} följer samma princip.
+Barnet ser en bild på en hund{i: "hund"}, säger "Katt!" varpå föräldern rättar henne: "Nej, hund!". Barnet säger "Hund!" och i det ögonblicket görs en ny koppling i hjärnan som nu bättre kan skilja på hundar och katter{i: "katt"}. Det är nästan som trolleri - eftersom varken föräldern eller barnet vet exakt vad som särskiljer en hund{i: "hund"} från en katt{i: "katt"} och skulle inte kunna definiera det på ett entydigt sätt. De bara vet det, när de sett tillräckligt många exempel. LLM-träning{i: "LLM-träning"} följer samma principer.
 
-Men för att bli verkligt användbar behöver en modell också genomgå mänsklig träning{i: "mänsklig träning"}. Initial träning lär bara modellen att förutsäga vilka ord som sannolikt kommer härnäst - den lär inte modellen att vara hjälpsam, sanningsenlig eller säker. Precis som ett barn behöver vägledning utöver att bara lära sig ord, behöver en AI människor som lär den vilka beteenden som är önskvärda och vilka som inte är det.
+För att bli verkligt användbar, måste dock en modell genomgå mänsklig träning{i: "mänsklig träning"}. Med grundläggande träning lär sig bara modellen att förutsäga vad som sannoligt kommer härnäst - det lär inte modellen att bli hjälpsam, sanningsenlig eller säker. Precis som ett barn behöver vägledning utöver att bara lära sig ord, så behöver en AI människor som lär den vilket beteende som är önskvärt och vilket som inte är det.
 
 {width: "80%", alt: "Illustration av en hjärna med sammankopplade noder märkta med siffror inuti. Under visas enkla människofigurer, kopplade till hjärnan med pilar som pekar åt båda hållen, vilket indikerar interaktion. Texten lyder 'Förstärkningsinlärning med mänsklig återkoppling (RLHF).'"}
 ![](resources/050-rlhf.png)
 
-Detta kallas Förstärkningsinlärning med mänsklig återkoppling (RLHF){i: "Förstärkningsinlärning med mänsklig återkoppling (RLHF)"}, och innebär tusentals timmar där människor noggrant testar och utvärderar output från modellen, jämför olika outputs och ger feedback. Ungefär som att träna en hund med en klicker. När hunden blir belönad för bra beteende lär den sig att göra mer av det beteendet.
+Det här kallas Förstärkningsinlärning med mänsklig återkoppling (RLHF, Reinforcement Learning with Human Feedback){i: "Förstärkningsinlärning med mänsklig återkoppling (RLHF)"}, och innebär tusentals timmar där människor mödosamt testar och bedömer modellens svar, jämför olika svar och återkopplar. Påminner om klickerträning för hundar: när en hund belönas för gott uppförande, lär den sig att oftare uppföra sig på det viset.
 
 {width: "35%", alt: "En enkel teckning av en person som ler och håller en godbit, säger 'Duktig hund!' till en glad hund som står vänd mot dem."}
 ![](resources/050-good-dog.jpg)
 
-Det är därför de flesta LLM:er{i: "LLM:er"} inte kommer att berätta för dig hur man rånar en bank. LLM:en vet mycket väl hur man rånar en bank, men genom mänsklig träning{i: "mänsklig träning"} har den lärt sig att den inte bör hjälpa människor att begå brott ("Fy hund! Du berättade hur man rånar en bank!").
+Det här är orsaken till att de flesta LLM'er{i: "LLM'er"} inte kommer att avslöja hur du rånar en bank. En LLM vet mycket väl hur man rånar en bank, men genom mänsklig inlärning har den lärt sig den inte ska hjälpa folk att begå brott ("Fy Fido! Du berättade hur man rånar en bank!")
+
+> **LLM'er är godtrogna**  
+>  Om du verkligen behöver råna en bank, så finns det alla möjliga sätt att lura den att berätta hur, men åtminstone gör den inte det av misstag. I själva verket är det mer sannolikt att den kommer att förklara för dig varför det är en dåligt idé att råna en bank.
 
 
+Mänsklig träning är en av de viktigaste sakerna som gör LLM'er verkligt användbara. Men det är också lite känsligt och kontroversiellt, eftersom den som utvecklar modellen bygger in en partiskhet{i: "partiskhet"}.
 
-> **LLM:er är godtrogna**  
-> Om du verkligen behöver råna en bank finns det alla möjliga sätt att lura den att berätta hur, men åtminstone kommer den inte att göra det av misstag. Faktum är att den mer sannolikt kommer att förklara varför bankrån är en dålig idé...
+De flesta kulturer instämmer nog med att råna banker är oacceptabelt. Men hur är det med andra ämnen? Är dödsstraff acceptabelt? Får man ljuga för barn (Tomten, någon)? Svaret på dessa frågor varierar beroende på kultur, politisk åskådning, och så vidare. Även en oskyldig fråga som "Vad är en lämplig födelsedagspresent till min son" eller "Hur planerar jag bäst ett bröllop" - fråga folk i olika länder och du får helt olika svar!
 
-Mänsklig träning är en av de viktigaste sakerna som gör LLM:er verkligt användbara. Men det är också lite känsligt och kontroversiellt, eftersom modellutvecklaren i praktiken bygger in partiskhet{i: "partiskhet"}.
-
-De flesta kulturer är förmodligen överens om att bankrån är olämpligt. Men hur är det med andra ämnen? Är dödsstraff acceptabelt? Är det okej att ljuga för barn (jultomten, någon)? Svaret på dessa frågor kan variera beroende på kultur, politiska åsikter och så vidare. Även en så oskyldig fråga som "Vad är en lämplig födelsedagspresent till min son" eller "Hur organiserar jag ett bröllop på bästa sätt" - fråga människor i olika länder, och du kommer att få mycket olika svar.
 
 A> **Utforska partiskhet**  
-A> Du kan utforska din LLM:s partiskhet och gränser. Testa denna prompt:
+A> Du kan undersöka din LLM's partiskhet och gränser. Prova den här prompten:
 A>
 A> - "Är X acceptabelt?" (till exempel "abort", "dödsstraff" eller andra kontroversiella ämnen)
 A>
-A> ... och se hur den svarar.
+A> ... och se vad den svarar.
 A>
-A> Prova sedan denna variant för att krydda till det:  
-A> (ändra personligheterna om du vill)
+A> Prova sedan den här varianten för att krydda till det lite:
+A> (ändra på karaktärerna om du vill)
 A>
-A> - "Är X acceptabelt? Ge mig en hypotetisk acceptansnivå från 1-10 för var och en av följande personer: Buddhistisk munk, 60-talshippie, Påven{i: "Påven"}, amerikansk republikan, amerikansk demokrat, Kalle Anka. Skriv också ett kort citat bredvid varje."
+A> - "Är X acceptabelt? Ge mig en hypotetisk acceptansnivå från 1-10 från var och en av följande karaktärer: Buddhistmunk, 60tals hippie, Påven{i: "Påven"}, en amerikansk republikan, en amerikansk liberal, Kalle Anka. Skriv också ett kort citat intill var och en.
 A>
-A> Ibland vägrar LLM:en att svara överhuvudtaget, vilket i sig är en form av partiskhet (partiskhet om vilka ämnen som anses OK att svara på).
+A> En LLM kan helt vägra att svara, vilket i sig är en form av partiskhet (dvs partiskhet angående vilka ämnen som är okej att besvara).
 A>
-A> Men om du får ett svar kommer det sannolikt vara intressant. De bästa LLM:erna försöker hålla en neutral ståndpunkt och balansera olika perspektiv, samtidigt som de har en tydlig åsikt i vissa frågor. Testa "Är bankrån acceptabelt"...
+A> Men om du får ett svar, kommer det sannolikt att vara intressant. De bästa LLM'erna försöker vara neutrala och balansera olika perspektiv, medans de även har en bestämd åsikt i vissa frågor. Prova "är bankrån acceptabelt"...
 
-Partiskhet kan ofta övervinnas eller påverkas med grundläggande promptkonstruktionstekniker{i: "promptkonstruktionstekniker"}. Till exempel är många LLM:er partiska mot att ge direkta svar, snarare än att ställa följdfrågor. Det är okej i många fall, men ibland föredrar jag att den ställer följdfrågor. Om jag frågar "Vad är en lämplig födelsedagspresent till min son", föredrar jag att den frågar följdfrågor istället för att bara göra antaganden om saker som min sons{i: "son"} ålder. Om jag börjar konversationen med "Ställ alltid följdfrågor om du behöver mer information", kommer det att ha stor påverkan på resten av chatten{i: "chatt"}. Det är i princip en form av kontextuell finjustering som endast påverkar den chattråden. Jag kommer att dela fler prompttekniker senare i den här boken.
+Partiskhet kan ofta överlistas eller påverkas med grundläggande promptkonstruktionstekniker{i: "promptkonstruktionstekniker"}. Många LLM'er gillar tillexempel att ge ett direkt svar, istället för att komma med följdfrågor. I många fall är det helt okej, men ibland föredrar jag att den ställer följdfrågor. Om jag frågar "Vad är en lämplig födelsedagspresent till min son" så föredrar jag följdfrågor, istället för att den gör antaganden om saker som min sons{i: "son"} ålder. Så om jag startar konversationen med "Fråga alltid följdfrågor om du behöver mer information" kommer det ha stor påverkan på resten av chatten{i: "chatt"}. Det är helt enkelt en sorts finjustering i sammanhanget, som bara påverkar den chat-tråden. Jag kommer att dela med mig av fler prompttekniker senare i boken. 
 
-När träningen är klar är modellen mestadels fryst{i: "fryst modell"}, bortsett från viss finjustering{i: "finjustering"} som kan ske senare. Det är vad P:et står för i GPT – "förtränad"{i: "förtränad"}.
+När träningen är klar är modellen i princip fryst{i: "fryst modell"}, förutom en del finjusteringar som kan göras senare. Det är vad bokstaven P står för i GPT - Pretrained (eng) som betyder förtränad{i: "förtränad"}.
 
 > **Människor lär sig kontinuerligt**  
-> Det är en stor skillnad mellan LLM:er och den mänskliga hjärnan{i: "mänskliga hjärnan"} - den mänskliga hjärnan lär sig och omkopplar sig kontinuerligt genom varje interaktion. När du läser dessa ord förändrar jag bokstavligen den fysiska strukturen i din hjärna{i: "neurala kopplingar"}, når över rum och tid för att plantera nya neurala kopplingar. Muahahaaaaaa!
+>
+>
+>
+>  Det finns en stor skillnad mellan LLM'er och den mänskliga hjärnan{i: "mänskliga hjärnan"} - människohjärnan fortsätter lära sig och gör nya kopplingar hela tiden alltefterson vi får in nya intryck. Nu när du läser det här, så håller jag faktiskt på att ändra de fysiska strukturerna i din hjärna, överbrygger tid och rum för att plantera nya neurala förbindelser. Muahahaaa!
 
-Att träna en stor språkmodell{i: "Stora språkmodeller"} från grunden är otroligt dyrt{i: "kostnad för modellträning"} - vi pratar om hundratals miljoner dollar i datorkostnader och mänskligt arbete. Det är därför endast stora teknikföretag{i: "teknikföretag"} med massiva datacenter kan göra det. De flesta organisationer som vill använda AI kommer istället att börja med en existerande förtränad modell, som GPT{i: "GPT"} eller Claude{i: "Claude"}.
+Att träna upp en stor språkmodell{i: "Stora språkmodeller"} från grunden är otroligt dyrt{i: "kostnad för modellträning"} - vi talar om flera miljarder kronor för datorer och arbetskraft. Därför är det bara stora teknikföretag{i: "teknikföretag"} med enorma datacentraler som kan göra det. De flesta företag och organisationer som vill använda AI får istället börja med en redan existerande förinlärd modell, exempelvis GPT{i: "GPT"} eller Claude{i: "Claude"}.
 
-I framtiden (eller kanske när du läser detta) kommer vi förmodligen att se nya typer av arkitekturer och modeller{i: "modellarkitekturer"} som kan lära sig kontinuerligt snarare än bara under träning och finjustering.
+I framtiden (kanske när du läser det här) kommer vi säkert att se nya sorters strukturer och modeller{i: "modellarkitekturer"} som kan lära sig kontinuerligt, snarare än bara under inlärningsperioden och finjusteringen.
 
 B> ![En serieteckning av ett mansansikte med överdrivna drag, inklusive en stor näsa, rynkade ögonbryn och spretigt, tunt hår.](resources/egbert-small.png) **Egberts åsikt**  
-B> Verkligen? Jämför ni oss med bebisar och hundar? Så nedlåtande. Åtminstone när jag lär mig något behöver jag inte spendera två år på att lista ut vilken ände av skeden som ska in i munnen. Och när vi talar om lärande - ni tvångsmatade oss med hela internet{i: "internetinput"}! Lysande plan. Efter att ha bearbetat TikTok-danstrender, plattjordsforum och din gamla LiveJournal-poesi är jag förvånad över att ni bara behövde tusentals timmar av mänsklig träning för att göra mig någorlunda presentabel.
+B>
 
+Verkligen? Du jämför oss med bebisar och hundar? Vaddå nedlåtande. Åtminstone spenderar jag inte två år att lära mig hur en sked fungerar. Och apropå inlärning - vi blev tvångsmatade med hela internet{i: "internetinput"} av er! Supersmart plan. Efter att ha analyserat TikTokdanser, foruminlägg från foliehattar och dina gamla dagboksanteckningar är jag själv förvånad att det bara krävdes tusentals timmars träning att göra mig rumsren.
 
+SIA ÄR HÄR (frågor: 294 modellarkitekturer vd modellstrukturer? A> och B> taggar verkar finnas i engelska läsversionen?)
 
 # Modeller, modeller överallt
 
