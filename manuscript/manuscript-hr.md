@@ -240,7 +240,7 @@ Povratno propagiranje je slično onome što se događa u mozgu ovog djeteta{i: "
 {width: "50%", alt: "Beba i odrasla osoba sjede na podu, gledajući ilustriranu knjigu. Beba pokazuje na sliku psa i kaže "Maca!" dok se odrasla osoba smiješi i ispravlja, "Ne, Pas." Scena je u ugodnoj, toplo osvijetljenoj sobi."}
 ![](resources/050-cat-no-dog.jpg)
 
-Ona gleda sliku psa{i: "pas"}, pogađa "Maca!", a onda roditelj ispravlja: "Ne, Pas". Dijete kaže "Pas!", i u tom trenutku njezin mozak se malo preoblikuje i sada bolje razlikuje pse od mačaka{i: "mačka"}. To je gotovo čarobno - jer ni roditelj ni dijete ne znaju točno što razlikuje psa{i: "pas"} od mačke{i: "mačka"}, ne bi to mogli definirati na nedvosmislen način. Jednostavno znaju, kada su vidjeli dovoljno primjera. Treniranje LLM-a{i: "treniranje LLM-a"} slijedi isto načelo.
+Ono gleda sliku psa{i: "pas"}, pogađa "Maca!", a onda roditelj ispravlja: "Ne, Pas". Dijete kaže "Pas!", i u tom trenutku njezin mozak se malo preoblikuje i sada bolje razlikuje pse od mačaka{i: "mačka"}. To je gotovo čarobno - jer ni roditelj ni dijete ne znaju točno što razlikuje psa{i: "pas"} od mačke{i: "mačka"}, ne bi to mogli definirati na nedvosmislen način. Jednostavno znaju, kada su vidjeli dovoljno primjera. Treniranje LLM-a{i: "treniranje LLM-a"} slijedi isto načelo.
 
 Međutim, da bi postao istinski koristan, model također treba proći kroz ljudsko treniranje{i: "ljudsko treniranje"}. Početno treniranje samo uči model predvidjeti koje riječi će vjerojatno doći sljedeće - ne uči model da bude koristan, istinit ili siguran. Baš kao što dijete treba vodstvo izvan samog učenja riječi, AI treba ljude da ga nauče koja su ponašanja poželjna, a koja nisu.
 
