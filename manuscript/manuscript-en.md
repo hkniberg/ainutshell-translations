@@ -34,7 +34,7 @@ Part 2, beyond the nutshell, is a collection of independent essays that dive int
 {sample: true}
 # Computers Have Gotten Smarter
 
-{alt: "The image contrasts traditional computing with modern artificial intelligence. On the left, a calculator represents old-style computers that execute instructions, with a snippet of code below. On the right, a brain symbolizes new AI technology that can learn, think, and communicate. Two small figures at the bottom depict a person interacting with the AI brain."}
+{alt: "The image contrasts traditional computing with modern artificial intelligence. On the left, a calculator represents old-style computers that execute instructions, with a snippet of code below. On the right, a brain symbolizes new AI technology that can learn, think, and communicate. Three small figures at the bottom depict people interacting with the AI brain."}
 ![](resources/010-calculator-brain.png)
 
 Ever since electronic computers were invented in the 1940s{i: "1940s"} they've really just been glorified calculators. Machines that execute the exact instructions given to them by a programmer.
@@ -990,7 +990,7 @@ When GPT-4{i: "GPT-4"} was released in March 2023, I started using it as coding 
 
 So, I decided to make a career shift{i: "career shift"} and focus entirely on learning and teaching how to make this technology useful. Hence, this book{i: "book"}.
 
-B> ![A cartoon drawing of a man's face with exaggerated features, including a large nose, furrowed brows, and spiky, thin hair.](resources/egbert-small.png) **Egbert's Take**  
+B> ![A cartoon drawing of a man's face with exaggerated features, including a large nose, furrowed brows, and spiky, thin hair.](resources/egbert-small.png) **Egbert's take**  
 B> Seriously, you're impressed by our ability to predict the little egg drop thing? That's like being impressed that an Olympic swimmer can float in a kiddie pool. Cute baby drawing though, I'll give you that.
 
 # The Age of AI
@@ -1040,7 +1040,7 @@ There is also risk of dystopian scenarios{i: "dystopian scenarios"}, where for e
 However, there are also a lot of scenarios where AI can transform the world for the better. Dario Amodei{i: "Amodei, Dario"}, CEO of Anthropic{i: "Anthropic"}, wrote a lovely article about this called ["Machines of Loving Grace"](https://darioamodei.com/machines-of-loving-grace). He outlines several key areas where AI could radically improve human life:
 
 1. **Health and Biology**: AI could help cure most diseases, extend human lifespans{i: "human lifespans"}, and give people more control over their biological processes{i: "biological processes"}. The pace of biological discovery could increase 10x or more.
-2. **Mental Health and Neuroscience**: AI could help cure or prevent most mental illnesses{i: "mental illnesses"}, improve cognitive function{i: "cognitive function"}, and enhance human wellbeing. This includes conditions like depression, PTSD, and addiction.
+2. **Mental Health and Neuroscience**: AI could help cure or prevent most mental illnesses{i: "mental illnesses"}, improve cognitive function{i: "cognitive function"}, and enhance human wellbeing{i: "human wellbeing"}. This includes conditions like depression, PTSD, and addiction.
 3. **Economic Development**: AI could help lift billions out of poverty{i: "poverty"} by accelerating economic growth in developing countries.
 4. **Peace and Governance**: AI could help strengthen democratic institutions, improve government services, and reduce corruption and bias in legal systems{i: "legal systems"}.
 5. **Work and Meaning**: Rather than making human work obsolete, AI could help create new forms of meaningful activity and contribution, while ensuring economic security for all.
