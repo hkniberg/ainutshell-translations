@@ -4658,7 +4658,7 @@ Tak til mine Abundly-kollegaer Nils, Hasse, Åsa, Erik og Johan for at dele denn
 
 Tak til de tidlige læsere og anmeldere, som gav værdifuld feedback og hjalp med at forme denne bog. Særlig tak til Paolo Sammicheli{i: "Sammicheli, Paolo"}, som hjalp mig med at afklare de tekniske aspekter omkring selvudgivelse og Magnus Vinterhav{i: "Vinterhav, Magnus"}, som gav mig detaljeret og ærlig feedback på det første udkast, hvilket virkelig hjalp med at forbedre bogen!
 
-Og tak til Nikolaj Lyngbye Kolbe og hans mange danske sparringspartnere, som sammen med AI har hjulpet mig med oversættelse af denne bog til dansk for at nå ud til et bredere dansk publikum. 
+Og tak til Nikolaj Lyngbye Kolbe og hans danske reviewere, som sammen med AI har hjulpet mig med oversættelse af denne bog til dansk for at nå ud til et bredere dansk publikum. Nikolaj har sammen med Claus Pedersen, Jes Eriksen, Anders Bruun Jakobsen, Anne Schultz Christiansen, Christian Bager Bach Houmann, Dan Sabroe Jensen, Michael Bang, Martin Munk Kristensen, Gert Frost, Henrik Cwarzko, Daniel W. Mathiasen, Karsten Kryger Hansen og Egon Pedersen formået at få det til at fremstå som om, at jeg ligeså godt kunne have været dansker i stedet for svensker...
 
 Og en kæmpestor tak til folkene hos OpenAI{i: "OpenAI"}, Anthropic{i: "Anthropic"} og det bredere AI-fællesskab{i: "AI-fællesskab"} for at bygge fantastiske værktøjer, der gør verden til et mere interessant sted.
 
