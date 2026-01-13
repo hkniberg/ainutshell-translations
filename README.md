@@ -2,7 +2,7 @@
 
 <img src="manuscript/resources/title_page.png" width="300" alt="Book Cover">
 
-This is the source code for the book [Generative AI in a Nutshell - How to Survive and Thrive in the Age of AI](http://ymnig.ai/ainutshell), by Henrik Kniberg. The book is based on the [video with the same title](https://www.youtube.com/watch?v=2IK3DFHRFfw).
+This is the source code for the book [Generative AI in a Nutshell - How to Survive and Thrive in the Age of AI](http://abundly.ai/ainutshell), by Henrik Kniberg. The book is based on the [video with the same title](https://www.youtube.com/watch?v=2IK3DFHRFfw).
 
 This repository is public to enable community-submitted improvements to the AI-translated versions. If you are interested in helping out with this, then I am super grateful!
 
@@ -21,7 +21,7 @@ After improving a translation, it will be immediately published to LeanPub. Amaz
 
 1. **Download the manuscript file and metadata file** for your language. Metadata is stuff like title, subtitle, author info, etc. See the table below for links.
 2. **Review the files and make improvements** where needed. Also add your name to the "Translator credits" section in the metadata.
-3. **Submit** your updated files as a github PR (if you know how to do that), or by emailing the files to ainutshell@ymnig.com.
+3. **Submit** your updated files as a github PR (if you know how to do that), or by emailing the files to ainutshell@abundly.ai.
 
 ### Translator guidelines
 
@@ -29,7 +29,7 @@ After improving a translation, it will be immediately published to LeanPub. Amaz
 - **Don't fix what isn't broken**. Only change sentences where the translation is incorrect, or if there is a more suitable way to phrase the sentence. Don't aim for 100% perfection, or you might end up having to rewrite the whole book...
 - **Keep to the original style**, tone, and meaning of the sentences. If something is unclear, look at the english version for reference.
 - **Don't add or remove any content**. If you can't figure out how to phrase something correctly, leave the not-to-good phrasing (or leave it in English) rather than removing the sentence.
-- **Make a judgement call for which terminology should be translated**, and which should be left in English. For example terms like "Prompt Engineering" or "Reinforcement Learning".
+- **Make a judgement call for which terminology should be translated**, and which should be left in English. For example terms like "Prompt Engineering" or "Reinforcement Learning", you will need to do some research to figure out if those are usually translated to this language, or left in English.
 - **Don't use AI to translate**! The whole point of this is to get human translation to complement the existing AI translations. But you could use AI to bounce ideas.
 - **If a sentence or paragraph is hard to direct-translate, feel free to rephrase** it in a way that makes sense in the target language. You can take some liberties here, as long as you stick to the overall intent of the paragraph (and my informal writing style). For example Egbert's sarcastic comments can be tricky to translate directly.
 - Some images in the book contain English text. Don't bother trying to translate the images.
@@ -40,7 +40,7 @@ After improving a translation, it will be immediately published to LeanPub. Amaz
 
 ## Questions or Issues?
 
-If you have any questions or encounter issues during the translation process, please open an issue in this repository or email ainutshell@ymnig.com.
+If you have any questions or encounter issues during the translation process, please open an issue in this repository or email ainutshell@abundly.ai.
 
 Thank you for contributing to making "Generative AI in a Nutshell" accessible to more readers around the world!
 
