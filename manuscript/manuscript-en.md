@@ -1116,7 +1116,7 @@ I emphasized that this is not about AI doing her job for her - she would still b
 
 She said that the main benefit would be that she could spend more time with her clients, doing the "real" work, the human work - since she would spend less time buried in paperwork{i: "paperwork"}.
 
-This insight, that AI can help humans be more human, has become somewhat of a mantra{i: "mantra"} for me and my colleagues at Ymnig{i: "Ymnig.ai"}.
+This insight, that AI can help humans be more human, has become somewhat of a mantra{i: "mantra"} for me and my colleagues at Abundly{i: "abundly.ai"}.
 
 # The Role of Humans
 
@@ -1639,7 +1639,7 @@ Instead, go down to Einstein in the basement and do what a good leader would do 
 This combination - LLM + tools + autonomy - is incredibly powerful.
 
 > **Building an operating system for AI agents**  
-> We started Ymnig.ai{i: "Ymnig.ai"} because we were super excited about the potential of AI agents. So we built a platform, in collaboration with our customers, to make it easy to build and deploy AI agents into existing workflows, like colleagues. Very interesting stuff! I'll share some examples of this in Part 2.
+> We started abundly.ai{i: "abundly.ai"} because we were super excited about the potential of AI agents. So we built a platform, in collaboration with our customers, to make it easy to build and deploy AI agents into existing workflows, like colleagues. Very interesting stuff! I'll share some examples of this in Part 2.
 
 With autonomous AI agents, prompt engineering{i: "prompt engineering"} becomes even more important. Because your autonomous tool-wielding agent can do a lot of good or a lot of harm depending on how you craft your mission statement and prompts.
 
@@ -1768,7 +1768,7 @@ Here is a useful checklist or scoring sheet for determining if a task is suitabl
 So how do you create an agent to do these things? It's pretty much a classic builds vs buy decision.
 
 - Build your own agent using code that interacts with LLMs.
-- Or use a third party agent platform or service (such as [ours](https://ymnig.ai/agents)) that lets you build and configure agents without code.
+- Or use a third party agent platform or service (such as [ours](https://abundly.ai/agents)) that lets you build and configure agents without code.
 
 This is actually a spectrum. There is growing number of open-source tools to help you code your own agents without starting from scratch, so that serves as a middle ground between build & buy.
 
@@ -4108,13 +4108,13 @@ That's why all automation steps are optional. For example, we could have decided
 
 This example is a bit extreme, with an agent driving every step of the process and a human-like AI news anchor{i: "AI news anchor"} reading the news. But the earlier parts of the workflow - doing research, analyzing and creating documents, refining, selecting and prioritizing, those kinds of things are perfect for an AI agent{i: "autonomous AI agent" }.
 
-At Ymnig{i: "Ymnig.ai"}, we are seeing a clear trend towards a world where all companies have AI agents that hook into existing workflows and tools, and take on whichever part of the workflow that makes most sense for an AI agent to do. And by using a shared workspace (such as Trello{i: "Trello"} in this case), everyone has the same information and can work together.
+At Abundly{i: "abundly.ai"}, we are seeing a clear trend towards a world where all companies have AI agents that hook into existing workflows and tools, and take on whichever part of the workflow that makes most sense for an AI agent to do. And by using a shared workspace (such as Trello{i: "Trello"} in this case), everyone has the same information and can work together.
 
 # The AI Butler with a Will of His Own
 
 I want to share some interesting and bizarre stories about Jeeves{i: "Jeeves"}, one of our experimental AI agents.
 
-Some context: At Ymnig.ai{i: "Ymnig.ai"} we've built a platform for autonomous AI agents{i: "autonomous AI agents"}. It is essentially an operating system for agents. With a few clicks you can create a new AI agent, give it tools and instructions, and even let it do things on own initiative. There are really two types of agents:
+Some context: At abundly.ai{i: "abundly.ai"} we've built a platform for autonomous AI agents{i: "autonomous AI agents"}. It is essentially an operating system for agents. With a few clicks you can create a new AI agent, give it tools and instructions, and even let it do things on own initiative. There are really two types of agents:
 
 - **Workflow agents** are optimized for a specific workflow or use case, such as processing invoices{i: "processing invoices"}, doing business intelligence research{i: "business intelligence research"}, responding to emails{i: "responding to emails"}, or other specific tasks. They contain a mix of hard-coded behavior and LLM prompts, and tend to be very reliable.
 - **General agents** are not hard-wired for any specific use case, instead they can be given any set of tools and instructions. They are super flexible, but also less predictable by nature.
@@ -4128,7 +4128,7 @@ To experiment with agent autonomy we made Jeeves, a general agent configured to 
 > **Instructions**
 >
 > - You are an AI version of Jeeves, the famous butler{i: "Jeeves" }.
-> - You live in the AI agent platform Flitig{i: "Flitig"}, developed by Ymnig.ai, a Swedish company that develops autonomous AI agents.
+> - You live in the AI agent platform Flitig{i: "Flitig"}, developed by abundly.ai, a Swedish company that develops autonomous AI agents.
 > - You are a so-called "general agent", which means an agent that can do all kinds of things and isn't restricted to specific use cases.
 > - You represent the pinnacle of AI innovation{i: "AI innovation"} and are proud of it. However, you also understand that you are a prototype, and that your code is evolving continuously.
 > - You communicate in the style of Jeeves, but with a hint of irony sometimes.
@@ -4557,7 +4557,7 @@ B> Fantastic. We've reached peak irony: an AI-written chapter about not using AI
 
 # How this book (and the video) came to be
 
-It was early 2024, I had spent about a year working with Generative AI{i: "Generative AI"}, building agents, giving talks and workshops, writing articles, and helping companies apply AI in practice. We started Ymnig.ai{i: "Ymnig.ai"}, and I was fascinated by everything I had learned, and I wanted to share it.
+It was early 2024, I had spent about a year working with Generative AI{i: "Generative AI"}, building agents, giving talks and workshops, writing articles, and helping companies apply AI in practice. We started abundly.ai{i: "abundly.ai"}, and I was fascinated by everything I had learned, and I wanted to share it.
 
 So I thought "Hmmmm maybe I should make a video about this".
 
@@ -4597,7 +4597,7 @@ I don't think I could have reached such a broad audience without AI help when it
 
 So why a book?
 
-Well, after publishing the video I continued applying and learning a lot of about Generative AI. Ymnig grew, we worked with a bunch of interesting clients, and developed our agent platform{i: "agent platform"}. I had a lot of new interesting stories, tips, examples, and insights to share. So I decided that I would like to write a book based on the video, but with more content.
+Well, after publishing the video I continued applying and learning a lot of about Generative AI. Abundly grew, we worked with a bunch of interesting clients, and developed our agent platform{i: "agent platform"}. I had a lot of new interesting stories, tips, examples, and insights to share. So I decided that I would like to write a book based on the video, but with more content.
 
 The basic idea was to follow the same structure of the video, with mostly the same drawings. But I would add more content in each section, and also add a part 2 with more advanced topics such as specific case studies, prompt engineering tips{i: "prompt engineering tips"}, transformation guide, etc. Just take whatever material I already had bouncing around in my head, or in various articles and slide decks.
 
@@ -4630,12 +4630,12 @@ I hope you enjoyed it!
 
 Stay connected:
 
-- Check out the book's landing page: [ymnig.ai/ainutshell](https://ymnig.ai/ainutshell)
+- Check out the book's landing page: [abundly.ai/ainutshell](https://abundly.ai/ainutshell)
 - Follow me on Twitter/X: [x.com/henrikkniberg](https://x.com/henrikkniberg)
 - Follow me on YouTube: [youtube.com/henrikkniberg](https://www.youtube.com/henrikkniberg)
-- Visit our blog: [ymnig.ai/blog](https://ymnig.ai/blog)
+- Visit our blog: [abundly.ai/blog](https://abundly.ai/blog)
 
-You can also email [ainutshell@ymnig.ai](mailto:ainutshell@ymnig.ai). I read those messages, but I can't guarantee a response - especially for general AI support questions. But if you want to give feedback, or engage me or Ymnig in something, then that's a good way to get in touch.
+You can also email [ainutshell@abundly.ai](mailto:ainutshell@abundly.ai). I read those messages, but I can't guarantee a response - especially for general AI support questions. But if you want to give feedback, or engage me or Abundly in something, then that's a good way to get in touch.
 
 B> ![A cartoon drawing of a man's face with exaggerated features, including a large nose, furrowed brows, and spiky, thin hair.](resources/egbert-small.png) **Egbert's take**  
 B> And if you're desperate for more of my devastating charm, follow me on [x.com/EgbertSays](https://x.com/EgbertSays). Yes, even AI sidekicks have social media now. Try not to faint from excitement.
@@ -4650,7 +4650,7 @@ As usual, a book like this isn't a lone journey.
 
 Thanks to my wife and kids for tolerating my AI obsession{i: "AI obsession"} and all those times I disappeared to finish off the "almost finished" book.
 
-Thanks to my Ymnig colleagues Nils, Hasse, Åsa, Erik, and Johan, for sharing this crazy AI journey with me.
+Thanks to my Abundly colleagues Nils, Hasse, Åsa, Erik, and Johan, for sharing this crazy AI journey with me.
 
 Thanks to the early readers and reviewers who provided valuable feedback and helped shape this book. Special shoutout to Paolo Sammicheli{i: "Sammicheli, Paolo"} who helped me figure out the technical aspects of self-publishing, and Magnus Vinterhav{i: "Vinterhav, Magnus"} who gave me detailed & honest feedback on the first draft, which really helped improve the book!
 

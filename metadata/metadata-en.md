@@ -16,7 +16,7 @@ How to Survive and Thrive in the Age of AI
 
 # Author blurb
 
-<p>Henrik Kniberg is a cofounder and chief scientist at Ymnig.ai. He is an AI whisperer, trainer, product developer, and author. Henrik is famous for his viral videos "Spotify Engineering Culture", "Agile Product Ownership in a Nutshell", and "Generative AI in a Nutshell", for silly metaphors such as the skateboard metaphor for product development, and for his work as Minecraft developer. He lives in Stockholm with his wife and four kids and a bunch of random music instruments.</p><p><br></p>
+<p>Henrik Kniberg is a cofounder and chief scientist at Abundly.ai. He is an AI whisperer, trainer, product developer, and author. Henrik is famous for his viral videos "Spotify Engineering Culture", "Agile Product Ownership in a Nutshell", and "Generative AI in a Nutshell", for silly metaphors such as the skateboard metaphor for product development, and for his work as Minecraft developer. He lives in Stockholm with his wife and four kids and a bunch of random music instruments.</p><p><br></p>
 
 # Meta description
 
