@@ -2,11 +2,16 @@
 """
 Export a translation from ainutshell-translations to ainutshell repo.
 
+This is the main publishing script. Use this after a translator submits
+improvements to push the translation to the appropriate preview branch.
+
+See also: import-translation.py (for the reverse direction)
+
 This script:
 1. Checks out the preview-<lang> branch in the ainutshell repo
 2. Copies manuscript and metadata from this repo
-3. Handles translated images if they exist
-4. Offers to commit the changes
+3. Updates the LEANPUB_METADATA.* files
+4. Handles translated images if they exist (renames and updates references)
 
 Usage:
     python scripts/export-translation.py <language-code>
@@ -269,30 +274,13 @@ def main():
         print(status)
         print()
         
-        # Suggest commit message
+        # Show next steps
         commit_msg = f"Import {lang} translation from ainutshell-translations"
-        print(f"Suggested commit message: {commit_msg}")
-        print()
-        
-        # Offer to commit
-        response = input("Would you like to commit these changes? [y/N] ").strip().lower()
-        if response == "y":
-            run_cmd(["git", "add", "."], cwd=ainutshell_repo)
-            run_cmd(["git", "commit", "-m", commit_msg], cwd=ainutshell_repo)
-            print("Changes committed!")
-            print()
-            print("Next steps:")
-            print(f"  1. Push: cd {ainutshell_repo} && git push origin {preview_branch}")
-            print("  2. Wait for Leanpub to generate preview PDF")
-            print("  3. Review the PDF")
-            print(f"  4. If OK, create PR from {preview_branch} to publish-{lang}")
-        else:
-            print("Changes not committed. You can commit manually when ready:")
-            print()
-            print(f"  cd {ainutshell_repo}")
-            print(f"  git add .")
-            print(f"  git commit -m \"{commit_msg}\"")
-            print(f"  git push origin {preview_branch}")
+        print("Next steps:")
+        print(f"  cd {ainutshell_repo}")
+        print(f"  git add .")
+        print(f"  git commit -m \"{commit_msg}\"")
+        print(f"  git push origin {preview_branch}")
         
     except subprocess.CalledProcessError as e:
         print(f"Error running command: {e}")

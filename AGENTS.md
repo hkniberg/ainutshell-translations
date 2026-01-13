@@ -18,7 +18,8 @@ ainutshell-translations/
 │   ├── metadata-da.md            # Danish metadata
 │   └── ... (other languages)
 └── scripts/
-    └── export-translation.py     # Export script for publishing
+    ├── export-translation.py     # Export to ainutshell repo (main workflow)
+    └── import-translation.py     # Import from ainutshell repo (reverse sync)
 ```
 
 ## Translation Files
@@ -99,9 +100,19 @@ This will:
 3. Copy `metadata-da.md` → `manuscript/metadata.md`
 4. Update the `LEANPUB_METADATA.*` files with content from the metadata file
 5. If translated images exist in `resources-da/`, copy them to `resources/` with corrected names and update image references
-6. Offer to commit the changes
 
-After committing, the user should push to trigger Leanpub preview generation. Once verified, the user should create a PR from `preview-<lang>` to `publish-<lang>`.
+After running the script, the user should commit and push to trigger Leanpub preview generation. Once verified, the user should create a PR from `preview-<lang>` to `publish-<lang>`.
+
+### Importing a translation (reverse sync)
+
+If someone edited directly on a preview branch in ainutshell and you want to pull those changes back:
+
+```bash
+python scripts/import-translation.py da    # Import Danish only
+python scripts/import-translation.py       # Import all languages
+```
+
+This copies from ainutshell branches back to this repo. Rarely needed since this repo is the source of truth.
 
 ## ainutshell Publishing Repo
 

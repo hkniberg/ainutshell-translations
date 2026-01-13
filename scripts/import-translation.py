@@ -1,4 +1,23 @@
 #!/usr/bin/env python3
+"""
+Import a translation from ainutshell repo to ainutshell-translations.
+
+This is the REVERSE of export-translation.py. Use this to pull changes
+from someone who edited directly on a preview branch in ainutshell,
+or to initially populate this repo from ainutshell branches.
+
+This script:
+1. Finds preview-<lang> branches in the ainutshell repo
+2. Copies manuscript.md to manuscript-<lang>.md
+3. Combines LEANPUB_METADATA.* files into metadata-<lang>.md
+
+Usage:
+    python scripts/import-translation.py [language-code]
+    
+Examples:
+    python scripts/import-translation.py da    # Import Danish only
+    python scripts/import-translation.py       # Import all languages
+"""
 
 import os
 import subprocess
