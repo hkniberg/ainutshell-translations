@@ -25,7 +25,7 @@ ainutshell-translations/
 ## Translation Files
 
 - **Manuscript files**: `manuscript/manuscript-<lang>.md` - The main book content
-- **Metadata files**: `metadata/metadata-<lang>.md` - Title, subtitle, author info, etc.
+- **Metadata files**: `metadata/metadata-<lang>.md` - Title, subtitle, author info, etc. (exported to `LEANPUB_METADATA.*` files in ainutshell, not to `metadata.md`)
 
 ## Translated Images (Optional)
 
@@ -97,9 +97,8 @@ python scripts/export-translation.py da
 This will:
 1. Checkout the `preview-da` branch in the ainutshell repo (assumes sibling directory)
 2. Copy `manuscript-da.md` → `manuscript/manuscript.md`
-3. Copy `metadata-da.md` → `manuscript/metadata.md`
-4. Update the `LEANPUB_METADATA.*` files with content from the metadata file
-5. If translated images exist in `resources-da/`, copy them to `resources/` with corrected names and update image references
+3. Update the `LEANPUB_METADATA.*` files with content from the metadata file
+4. If translated images exist in `resources-da/`, copy them to `resources/` with corrected names and update image references
 
 After running the script, the user should commit and push to trigger Leanpub preview generation. Once verified, the user should create a PR from `preview-<lang>` to `publish-<lang>`.
 

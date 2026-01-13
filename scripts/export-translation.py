@@ -9,8 +9,8 @@ See also: import-translation.py (for the reverse direction)
 
 This script:
 1. Checks out the preview-<lang> branch in the ainutshell repo
-2. Copies manuscript and metadata from this repo
-3. Updates the LEANPUB_METADATA.* files
+2. Copies manuscript from this repo
+3. Updates the LEANPUB_METADATA.* files from metadata-<lang>.md
 4. Handles translated images if they exist (renames and updates references)
 
 Usage:
@@ -178,12 +178,7 @@ def main():
         print(f"Copying manuscript...")
         shutil.copy2(manuscript_src, manuscript_dst)
         
-        # Copy metadata
-        metadata_dst = ainutshell_repo / "manuscript" / "metadata.md"
-        print(f"Copying metadata...")
-        shutil.copy2(metadata_src, metadata_dst)
-        
-        # Update LEANPUB_METADATA files
+        # Update LEANPUB_METADATA files (metadata.md in ainutshell is not used by Leanpub)
         print("Updating LEANPUB_METADATA files...")
         metadata_sections = parse_metadata(metadata_src)
         manuscript_dir = ainutshell_repo / "manuscript"
