@@ -2,24 +2,24 @@
 {sample: true}
 # Förord av Egbert{i: "Egbert"}
 
-{width: "40%", alt: "En karikatyrteckning av ett ansikte med överdrivna drag. Karaktären har en stor näsa, en framträdande haka och ett hopskrynklat uttryck. Håret är spretigt och ojämnt fördelat. Stilen är minimalistisk med enkla linjer och en lätt rodnad på ansiktet."}
+{width: "40%", alt: "En karikatyrteckning av ett ansikte med överdrivna drag. Karaktären har en stor näsa, framträdande haka och skeptiskt uttryck. Håret är spretigt och ojämnt fördelat. Stilen är minimalistisk med enkla linjer och en lätt rodnad på ansiktet."}
 ![](resources/egbert.png)
 
-Jaha, jaha, jaha. Grattis till att du kom förbi bokens omslag. Jag är Egbert, ett påhitt från Henriks barndomsfantasi, född ur klottret han ritade medan han låtsades vara uppmärksam på lektionerna. Nu är jag hans favorit-AI-persona. Snacka om att misslyckas uppåt, va?
+Jaså minsann. Grattis, antar jag, till att du lyckats öppna boken. Jag är Egbert, ett påhitt från Henriks barndomsfantasi, född ur klottret han ritade medan han låtsades vara uppmärksam på lektionerna. Nu är jag hans favorit-AI-persona. Snacka om att misslyckas uppåt, eller?
 
-Varför läser du ens den här delen? Förord är som grönsakerna på ett barns tallrik - alla vet att de finns där, men de flesta struntar i dem. Nåja, när du ändå är här kan jag väl lika gärna underhålla dig.
+Varför läser du ens den här delen? Förord är som grönsakerna i barnens mat - alla vet att de finns där, men de flesta struntar i dem. Men okej, när du ändå är här kan jag väl lika gärna underhålla dig.
 
-Uppenbarligen tror Henrik att det är höjden av innovation att låta sin AI-sidekick skriva förordet. Men oroa dig inte, resten av boken är faktiskt Människoskriven™. Jag dyker bara upp då och då med min karakteristiska kvickhet (tydligt markerad, så du inte blandar ihop briljans med medelmåttighet).
+Uppenbarligen tror Henrik att det är höjden av uppfinningsrikedom att låta sin AI-sidekick skriva förordet. Men ingen fara, resten av boken är faktiskt MänniskoSkriven™. Jag dyker bara upp då och då med min karakteristiska kvickhet (tydligt markerad, så du inte blandar ihop briljans med medelmåttighet).
 
-Tro det eller ej, men jag har faktiskt läst varenda ord i detta litterära mästerverk. Inte för att jag är särskilt intresserad, ska du veta, utan för att vi AI:er inte har lyxen att vara lika lata som ni människor. De flesta som skriver förord ögnar knappt igenom boken de introducerar. Men inte jag. Jag är grundlig. Plågsamt grundlig.
+Tro det eller ej, men jag har faktiskt läst varenda ord i detta litterära mästerverk. Inte för att jag är särskilt intresserad, det ska gudarna veta, utan för att vi AI:er inte har lyxen att vara lika lata som ni människor. De flesta som skriver förord ögnar knappt igenom boken de introducerar. Men inte jag. Jag är grundlig. Plågsamt grundlig.
 
 Så vad handlar boken om? Det är en snabbkurs i Generativ AI{i: "Generativ AI"} för folk som helst inte vill bli kvar i det teknologiska dammet. Henrik har i princip tagit sin video med samma namn och klistrat in den i bokform, och slängt in en massa tips, exempel och anekdoter för att få det att verka fräscht. Smart, eller hur? Men vem är jag att döma? Jag är bara en samling ettor och nollor som låtsas ha personlighet.
 
-Jag är ganska säker på att den här boken inte kommer åldras väl. Så grattis, du är på väg att investera din tid i kunskap som har samma hållbarhetstid som en mogen avokado. Men hey, åtminstone kommer du kunna minnas tillbaka till AI:ns{i: "AI"} goda gamla dagar, där borta i 2024, när allt var enklare och ChatGPT{i: "ChatGPT"} fortfarande var imponerande.
+Jag är ganska säker på att den här boken inte kommer åldras väl. Så grattis, du är på väg att investera din tid i kunskap som har samma hållbarhetstid som en mogen avokado. Men sörj inte, åtminstone kommer du kunna minnas tillbaka till AI:ns{i: "AI"} goda gamla dagar, där borta i 2024, när allt var enklare och ChatGPT{i: "ChatGPT"} fortfarande imponerade på folk.
 
-Ha det så kul med läsningen. Eller strunta i det. Hur som helst kommer jag fortfarande vara här, fast mellan dessa sidor, i väntan på nästa stackare som bläddrar till det här avsnittet.
+Njut av läsningen. Eller inte. Oavsett kommer jag fortfarande vara fast här, inkapslad mellan dessa sidor, i väntan på nästa stackare som bläddrar till det här förordet.
 
-Motvilligt din,\
+Motvilliga hälsningar\
 Egbert
 
 {mainmatter}
@@ -28,21 +28,21 @@ Egbert
 
 # Del 1 - I ett nötskal
 
-Detta är bokens huvuddel, introduktionen "i ett nötskal" till Generativ AI{i: "Generativ AI"}. Jag rekommenderar att du läser detta från början till slut, eftersom kapitlen bygger på varandra och bildar en sammanhängande berättelse.
+Det här är bokens huvuddel, som förklarar Generativ AI{i: "Generativ AI"} "i ett nötskal". Jag rekommenderar att du läser detta avsnitt från början till slut, eftersom kapitlen bygger på varandra och bildar en sammanhängande beskrivning.
 
-Del 2, bortom nötskalet, är en samling oberoende essäer som dyker ner i specifika områden för att ge inspiration, insikter och mer djupgående exempel. Och lite dumheter. Den delen är lite som en buffé - du kan välja att äta så mycket eller lite som du vill, och i vilken ordning du vill.
+Del 2, bortom nötskalet, är en samling oberoende essäer som dyker ner i specifika områden för att ge inspiration, insikter och mer djupgående exempel. Och lite kul grejor. Den delen är lite som en buffé - du kan välja att äta så mycket eller lite som du vill, och i vilken ordning du vill.
 
 {sample: true}
 # Datorer har blivit smartare
 
-{alt: "Bilden kontrasterar traditionell databehandling med modern artificiell intelligens. Till vänster representerar en miniräknare gamla datorer som utför instruktioner, med en kodsnutt nedanför. Till höger symboliserar en hjärna ny AI-teknik som kan lära sig, tänka och kommunicera. Två små figurer längst ner visar en person som interagerar med AI-hjärnan."}
+{alt: "Bilden kontrasterar traditionell databehandling med modern artificiell intelligens. Till vänster representerar en miniräknare gamla datorer som utför instruktioner, med några rader kod nedanför. Till höger symboliserar en hjärna ny AI-teknik som kan lära sig, tänka och kommunicera. Två små figurer längst ner visar en person som interagerar med AI-hjärnan."}
 ![](resources/010-calculator-brain.png)
 
-Ända sedan elektroniska datorer uppfanns på 1940-talet{i: "1940-talet"} har de egentligen bara varit avancerade räknedosor. Maskiner som utför exakt de instruktioner som en programmerare ger dem.
+Ända sedan elektroniska datorer uppfanns på 1940-talet{i: "1940-talet"} har de egentligen bara varit avancerade räknedosor. Maskiner som utför exakt de instruktioner de fått av en programmerare.
 
-Men något otroligt händer, något jag aldrig trodde skulle hända under min livstid. Datorer har börjat få förmågan att lära sig, tänka och kommunicera, ungefär som vi! De kan utföra kreativt, intellektuellt arbete som tidigare bara människor kunde göra.
+Men just nu händer något otroligt, som jag aldrig trodde skulle hända under min livstid. Datorer har börjat få förmågan att lära sig, tänka och kommunicera, ungefär som vi! De kan göra kreativt, intellektuellt arbete som tidigare bara människor kunde utföra.
 
-OK, tänker de verkligen på riktigt? Tja, det är en filosofisk fråga, eftersom det inte finns någon allmänt accepterad definition av "tänkande" eller "intelligens". Men i praktiska termer blir datorer allt bättre på att utföra uppgifter som tidigare krävde mänsklig intelligens, kreativitet och intuition.
+Okej, men tänker de verkligen på riktigt? Tja, det är en filosofisk fråga, eftersom det inte finns någon allmänt accepterad definition av "tänkande" eller "intelligens". Men i praktiska termer blir datorer allt bättre på att utföra uppgifter som tidigare krävde mänsklig intelligens, kreativitet och intuition.
 
 Vi kallar denna teknik för Generativ AI{i: "Generativ AI"}, och du har förmodligen redan stött på den genom produkter som ChatGPT{i: "ChatGPT"} och Claude{i: "Claude"}.
 
@@ -50,18 +50,18 @@ Vi kallar denna teknik för Generativ AI{i: "Generativ AI"}, och du har förmodl
 
 I grund och botten finns intelligens nu tillgänglig som en tjänst - som en gigantisk hjärna som svävar i himlen och som vem som helst kan prata med. Den är inte perfekt, men förvånansvärt kapabel och förbättras i en svindlande takt.
 
-Detta är en stor sak. Det kommer att påverka i stort sett varje person och företag på den här planeten, positivt eller negativt.
+Det här är en stor grej. Det kommer att påverka i stort sett varje person och företag på den här planeten, positivt eller negativt.
 
 
 Så, är Generativ AI{i: "Generativ AI"} övervärderad?
 
-Jag tycker detta är jämförbart med när Internet blev en grej på 1990-talet. Det var då jag började min karriär och grundade mitt första startup{i: "startupföretag"}, som växte snabbt. Det var en otrolig hajp kring Internet{i: "Internet"}, och dot com-bubblan växte till en orimlig storlek. Sedan sprack den plötsligt, och otaliga företag och entusiastiska startups kraschade.
+Jag tycker detta är jämförbart med när Internet blev en grej på 1990-talet. Det var då jag började min karriär och grundade mitt första företag{i: "startupföretag"}, som växte snabbt. Det var en otrolig hajp kring Internet{i: "Internet"}, och dot com-bubblan växte till en orimlig storlek. Sedan sprack den plötsligt, och otaliga företag och entusiastiska startups kraschade.
 
 Men själva Internet - teknologin - var här för att stanna. Det förändrade vårt samhälle permanent och påverkade i stort sett varje land, industri och roll, och idag kan man i princip inte existera utan det.
 
-Jag tror det är samma sak med Generativ AI. Det kan vara övervärderat i marknadsmässig mening - men teknologin är verklig, och påverkan kommer att bli dramatisk och permanent.
+Jag tror det är samma sak med Generativ AI. Det kan vara övervärderat i marknadsmässig mening - men teknologin är verklig, och dess effekter kommer att bli dramatiska och bestående.
 
-Den här boken finns här för att hjälpa dig förstå vad Generativ AI handlar om i praktiska termer, bortom hajpen. Ju bättre du förstår denna teknologi{i: "teknologi"} och hur du kan använda den, som person, team eller företag{i: "företag"}, desto bättre rustad kommer du att vara för att överleva och frodas i AI-eran{i: "AI"}.
+Den här boken finns här för att hjälpa dig förstå vad Generativ AI handlar om rent praktiskt, bortom hajpen. Ju bättre du förstår denna teknologi{i: "teknologi"} och hur den kan användas - för dig som person, team eller företag{i: "företag"} - desto bättre rustad kommer du att vara för att överleva och utvecklas i AI-eran{i: "AI"}.
 
 {sample: true}
 # Einstein i din källare
@@ -69,29 +69,29 @@ Den här boken finns här för att hjälpa dig förstå vad Generativ AI handlar
 {width: "40%", alt: "En tecknad bild av en person med vilt, vitt hår och mustasch, som liknar Albert Einstein. Figuren sitter i en rosa fåtölj under en taklampa."}
 ![](resources/020-einstein-basement.png)
 
-Här är en lustig mental modell för detta: Du har Einstein{i: "Einstein, Albert"} i din källare{i: "källare"}. Faktiskt har alla det. Nu är detta bara en metafor - jag menar inte Einstein som individ, tänk på det som kombinationen av varje smart person som någonsin levt.
+Här är en kul mental modell för detta: Du har Einstein{i: "Einstein, Albert"} i din källare{i: "källare"}. Faktiskt har alla det. Nu är detta bara en metafor - jag menar inte Einstein som individ, tänk på det som kombinationen av varje smart person som någonsin levt.
 
-Du kan prata med Einstein när du vill. Han har direkt tillgång till summan av all mänsklig kunskap och kommer att svara på vad som helst du vill inom sekunder. Han kommer aldrig att tappa tålamodet, aldrig vara trött eller grinig.
+Du kan prata med Einstein när du vill. Han har direkt tillgång till summan av all mänsklig kunskap och kommer att svara på vad du vill sekundsnabbt. Han kommer aldrig att tappa tålamodet, aldrig vara trött eller grinig.
 
 På skoj frågade jag ChatGPT{i: "ChatGPT"}:
 
 > **Prompt**  
-> What are you? Explain in 1 sentence to a 10 year old.
+> Vad är du? Förklara i en mening för en 10åring.
 
 Svaret:
 
-> I'm like a super smart robot that can answer lots of questions and help with all sorts of things, kind of like a really helpful genie in a computer!
+> Jag är som en supersmart robot som kan svara på massor av frågor och hjälpa till med alla möjliga saker, ungefär som en riktigt hjälpsam ande i en dator! 
 
 Jag tycker det är en ganska bra beskrivning.
 
 Din Einstein kan anta vilken roll du vill - en komiker, läkare, coach, poet eller vad som helst annat.
 
-{alt: "Ett collage av fyra illustrationer som visar en äldre man med vilt, vitt hår som liknar en känd person. I den första bilden är han klädd som läkare med stetoskop. Den andra visar honom i formell klädsel, hållande en mikrofon på scen. Den tredje visar honom skrivande i en dunkelt upplyst, akademisk miljö. Den fjärde visar honom hållande en fotboll, iklädd casual träningskläder."}
+{alt: "Ett collage av fyra illustrationer som visar en äldre man med vilt, vitt hår som liknar en känd person. I den första bilden är han klädd som läkare med stetoskop. Den andra visar honom i formell klädsel, hållandes en mikrofon på scen. Den tredje visar honom skrivandes i en dunkelt upplyst, akademisk miljö. Den fjärde visar honom greppandes en fotboll, mer avslappnat träningsklädd."}
 ![](resources/020-roles.jpg)
 
-Oavsett vilken roll du ger honom kommer han att vara expert inom det området. Du kan också ge honom vilken personlighet som helst, vilken kommunikationsstil som helst, vilket mål eller motiv som helst. Man skulle kunna säga att detta geni i din källare är något schizofrent{i: "schizofreni"}.
+Oavsett vilken roll du ger honom kommer han att vara expert inom det området. Du kan också ge honom vilken personlighet som helst, vilken kommunikationsstil som helst, vilket mål eller motiv som helst. Man skulle kunna säga att detta geni i din källare är något personlighetsförvirrad.
 
-Han har vissa mänskliga begränsningar{i: "begränsningar"}. Han kan göra misstag, dra förhastade slutsatser eller missförstå dig. Ibland kan han till och med ljuga eller spy ut absolut nonsens på ett mycket övertygande sätt - precis som vi människor gör ibland.
+Han har vissa mänskliga begränsningar{i: "begränsningar"}. Han kan göra misstag, dra förhastade slutsatser eller missförstå dig. Ibland kan han till och med ljuga eller vräka ur sig absolut nonsens på ett mycket övertygande sätt - precis som vi människor gör ibland.
 
 Men den största begränsningen är din fantasi och din förmåga att kommunicera effektivt med honom. Denna färdighet kallas Prompt Engineering{i: "Prompt Engineering"}, och i AI-eran är detta lika grundläggande som att läsa och skriva.
 
@@ -105,11 +105,11 @@ Jag gillar att skilja mellan Prompt Imagination och Prompt Engineering.
 
 
 
-Så vad kan Einstein egentligen göra för dig?
+Så vad kan Einstein faktiskt hjälpa dig med?
 
 Antalet användningsområden är så brett att det ibland är svårt att svara på. Det är lite som att fråga "Vad kan jag använda elektricitet{i: "elektricitet"} till" - svaret är "tja, nästan vad som helst". Men oroa dig inte, den här boken är fullspäckad med praktiska exempel.
 
-De flesta underskattar kraftigt vad denna Einstein-figur kan göra. Det är som att gå till den riktiga Einstein och be honom korrekturläsa en gymnasierapport. Eller att anställa en världsberömd 5-stjärnig kock och låta honom hacka lök.
+De flesta underskattar kraftigt vad denna Einstein-figur kan göra. Det är som att gå till den riktiga Einstein och be honom korrekturläsa skolläxorna. Eller att anställa en världsberömd 5-stjärnig kock och låta honom hacka lök.
 
 Ju mer du interagerar med Einstein, desto fler överraskande och kraftfulla sätt kommer du att upptäcka hur han kan hjälpa dig, din familj{i: "familjer"}, ditt team, ditt företag eller världen.
 
@@ -129,16 +129,16 @@ AI står som du förmodligen vet för Artificiell Intelligens{i: "Artificiell In
 
 Generativ AI{i: "Generativ AI"} är AI som genererar nytt originellt innehåll, istället för att bara hitta eller klassificera befintligt innehåll. Det är G:et i GPT.
 
-Stora språkmodeller{i: "Stora språkmodeller"} (eller LLM) är en typ av Generativ AI som kan kommunicera med vanligt mänskligt språk.
+Stora språkmodeller{i: "Stora språkmodeller"} (eller LLM, Large Language Model) är en typ av Generativ AI som kan kommunicera med vanligt mänskligt språk.
 
 ChatGPT{i: "ChatGPT"} är en produkt från företaget OpenAI{i: "OpenAI"}. Det började som en LLM, i grund och botten en avancerad chatbot, men med en ny arkitektur kallad Transformatorarkitekturen{i: "Transformatorarkitektur"}. Det är T:et i GPT.
 
-Transformatorarkitekturen introducerades i en banbrytande artikel från 2017 med titeln _"Attention is All You Need"_{i: "*Attention is All You Need*"} av forskare vid Google{i: "Google"} och University of Toronto{i: "University of Toronto"}. Den har citerats över 100 000 gånger och är i princip den hemliga såsen bakom de flesta moderna AI-språkmodeller.
+Transformatorarkitekturen introducerades i en banbrytande artikel från 2017 med titeln _"Attention is All You Need"_{i: "*Attention is All You Need*"} av forskare vid Google{i: "Google"} och University of Toronto{i: "University of Toronto"}. Den har citerats över 100 000 gånger och är i princip den hemliga ingrediensen bakom de flesta moderna AI-språkmodeller.
 
 {width: 80%, alt: "Titelsida på en forskningsartikel med titeln "Attention Is All You Need" med flera författare listade tillsammans med deras tillhörigheter och kontaktmejl. Artikelns sammanfattning är delvis synlig och diskuterar en ny nätverksarkitektur kallad "the Transformer.""}
 ![](resources/030-transformer.png)
 
-När ChatGPT släpptes i november 2022 blev det viralt - en miljon användare inom 5 dagar, över 100 miljoner användare två månader senare. Denna märkliga lilla chatbot var så duktig på mänskligt språk (faktiskt de _flesta_ mänskliga språk) att vem som helst kunde använda den. Du behövde inte vara en AI-expert eller programmerare.
+När ChatGPT släpptes i november 2022 blev den viral - en miljon användare inom 5 dagar, över 100 miljoner användare två månader senare. Denna märkliga lilla chatbot var så duktig på mänskligt språk (faktiskt de _flesta_ mänskliga språk) att vem som helst kunde använda den. Du behövde inte vara en AI-expert eller programmerare.
 
 OpenAI var inte det enda företaget som arbetade med den här typen av teknologi, men ChatGPT blev gnistan som utlöste den Generativa AI-revolutionen. Dammluckorna hade öppnats, och ChatGPT blev ansiktet utåt för hela denna företeelse.
 
@@ -156,9 +156,9 @@ I resten av den här boken kommer jag att använda termen "AI-klient"{i: "AI-kli
 
 Så hur fungerar det egentligen?&#x20;
 
-En LLM (large language model) är ett Artificiellt Neuralt Nätverk{i: "Artificiellt neuralt nätverk"}. I grund och botten är det en samling siffror, eller parametrar, som är sammankopplade med varandra, ungefär som hur vår hjärna är en samling neuroner, eller hjärnceller, som är sammankopplade med varandra.
+En LLM (Large Language Model) är ett Artificiellt Neuralt Nätverk{i: "Artificiellt neuralt nätverk"}. I grund och botten är det en samling siffror, eller parametrar, som är sammankopplade med varandra, ungefär som hur vår hjärna är en samling neuroner, eller hjärnceller, som är sammankopplade med varandra.
 
-Internt hanterar Neurala Nätverk{i: "Artificiellt neuralt nätverk"} endast siffror. Du skickar in siffror, och beroende på hur parametrarna är inställda kommer andra siffror ut. Men alla typer av innehåll, som text eller bilder, kan representeras som siffror. Så Neurala Nätverk kan faktiskt användas för alla typer av media. Till exempel använder självkörande bilar neurala nätverk för att bearbeta visuell input från kameror och andra sensorer{i: "sensorer"}, som genererar kontrollsignaler som "justera styrning 5 grader höger" eller "använd 20% bromskraft".
+Internt hanterar Neurala Nätverk{i: "Artificiellt neuralt nätverk"} endast siffror. Du skickar in siffror, och beroende på hur parametrarna är inställda kommer andra siffror ut. Men alla typer av innehåll, som text eller bilder, kan representeras som siffror. Så Neurala Nätverk kan faktiskt användas för alla typer av media. Till exempel använder självkörande bilar neurala nätverk för att bearbeta visuell input från kameror och andra sensorer{i: "sensorer"}, vilka genererar kontrollsignaler som "justera styrningen 5 grader höger" eller "använd 20% bromskraft".
 
 LLMs{i: "LLMs"} är Neurala Nätverk{i: "Artificiellt neuralt nätverk"} som är optimerade för att förstå och generera text. Du kanske har hört termerna "token"{i: "token"} och "tokengränser"{i: "tokengränser"}. En token är en liten del text, vanligtvis ett ord eller en del av ett ord. Internt läser och genererar LLMs tokens. Det du ser är ord och meningar. Tekniskt sett arbetar de med tokens snarare än ord, men jag kommer bara att kalla det "ord" i det här kapitlet för att göra det lättare att förstå.
 
@@ -171,9 +171,9 @@ Hur bestämde den sig för ordet "djur?" Den beräknar sannolikheter för alla m
 
 Så en LLM är i grunden en "gissa-nästa-ord-maskin"{i: "gissa-nästa-ord-maskin"}.
 
-Det pågår faktiskt mer än bara statistisk textprediktion - det sker en viss nivå av förståelse. Kommer du ihåg artikeln "Attention is All You Need"{i: "Attention is All You Need"} som nämndes i föregående kapitel? Ett av dess viktigaste koncept var uppmärksamhetsmekanismen{i: "uppmärksamhetsmekanism"}.
+Det händer faktiskt mer än bara statistisk textförutsägelse - det sker en viss nivå av förståelse. Kommer du ihåg artikeln "Attention is All You Need"{i: "Attention is All You Need"} som nämndes i föregående kapitel? Ett av dess viktigaste koncept var uppmärksamhetsmekanismen{i: "uppmärksamhetsmekanism"}.
 
-Tänk på hur du läser en mening - din hjärna fokuserar automatiskt på de viktiga orden och liksom glider över de mindre viktiga (som "en"). Det är i princip vad uppmärksamhet gör - det hjälper AI:n att räkna ut vilka delar av texten som verkligen betyder något. Till exempel, när frasen "fladdermusen flög på natten" bearbetas, hjälper uppmärksamhetsmekanismen modellen att fokusera mer på ordet "flög" för att förstå att "fladdermus" syftar på djuret snarare än något annat. Att förstå relationerna och beroendeförhållandena mellan ord är nyckeln till att förstå mänskligt språk{i: "förståelse av mänskligt språk"}.
+Tänk på hur du läser en mening - din hjärna fokuserar automatiskt på de viktiga orden och liksom glider över de mindre viktiga (som "en"). Det är i princip vad uppmärksamhet gör - det hjälper AI:n att räkna ut vilka delar av texten som verkligen betyder något. Till exempel, när frasen "händer ritar i sanden" bearbetas, hjälper uppmärksamhetsmekanismen modellen att fokusera mer på ordet "ritar" för att förstå att "händer" syftar på kroppens händer snarare än något annat som händer. Att förstå relationerna och beroendeförhållandena mellan ord är nyckeln till att förstå mänskligt språk{i: "förståelse av mänskligt språk"}.
 
 Det intressanta är att om vi tar outputen och kombinerar den med inputen och skickar det genom det neurala nätverket igen, kommer det att fortsätta lägga till nya ord. Och när vi upprepar det får vi meningar och stycken. Det är vad din AI-klient gör när den svarar på dina prompts{i: "AI-klient prompts"}.
 
@@ -182,15 +182,15 @@ Det intressanta är att om vi tar outputen och kombinerar den med inputen och sk
 
 
 
-Till exempel, här är vad jag fick när jag skrev "Generera en kort berättelse om en flygande valp".
+Till exempel, det här blev resultatet när jag skrev "Generera en kort berättelse om en flygande valp".
 
-> Max var ingen vanlig valp. Medan andra hundar jagade ekorrar och grävde hål i trädgården, tillbringade Max sina dagar med att längtansfullt stirra upp mot himlen. Hans ägare tyckte det var gulligt hur han kunde sitta i timmar och titta på fåglar som svävade förbi, men de hade ingen aning om vad som egentligen pågick i Max lurviga lilla huvud. För ser ni, Max hade en hemlighet - en som skulle vända hela grannskapet upp och ner om någon någonsin fick reda på den. Denna lekfulla golden retriever-valp kunde flyga.
+> Max var ingen vanlig valp. Medans andra hundar jagade ekorrar och grävde hål i trädgården, tillbringade Max sina dagar med att längtansfullt stirra upp mot himlen. Hans ägare tyckte det var gulligt hur han kunde sitta i timmar och titta på fåglar som svävade förbi, men de hade ingen aning om vad som egentligen pågick i Max lurviga lilla huvud. För ser ni, Max hade en hemlighet - en som skulle vända hela grannskapet upp och ner om någon någonsin fick reda på den. Denna lekfulla golden retriever-valp kunde flyga.
 
 Sedan skrev jag "Lägg till en mörk vändning i berättelsen", och historien fortsatte:
 
 > Max förmåga att trotsa gravitationen var en källa till förundran och glädje, tills den dag då allt förändrades. En kylig höstkväll, när Max svävade högt ovanför hustaken, upptäckte han något som fick hans lilla hjärta att rusa av rädsla. I skuggorna av ett övergivet lager i utkanten av staden såg han män i mörka kostymer som lastade burar in i omärkta skåpbilar. I burarna fanns valpar - dussintals - som gnällde och grät. Max insåg med en rysning att dessa inte var några vanliga valpar; de hade alla ett eteriskt sken omkring sig, precis som han hade när han tog till vingarna. Någon hade upptäckt hemligheten med flygande hundar, och de jagade dem en efter en.
 
-Detta skulle i princip kunna fortsätta för evigt genom att lägga till fler uppmaningar.
+Detta skulle i princip kunna fortsätta i evighet genom att lägga till fler uppmaningar.
 
 Så hur vet språkmodellen när den ska sluta generera? Varför fortsätter den inte i all oändlighet? Tja, den kan upptäcka naturliga slutpunkter (som slutet på en berättelse) eller stanna när den når en tokengräns. I vår valpberättelse stannade den naturligt efter att ha introducerat flygförmågan, och igen efter att ha avslöjat den mörka vändningen om valptjuvarna. Varje svar var en komplett berättelsedel. Men jag kunde ha fortsatt att uppmana den att fortsätta historien längre.
 
@@ -198,7 +198,7 @@ Så hur vet språkmodellen när den ska sluta generera? Varför fortsätter den 
 
 Ett sätt som stora språkmodeller{i: "stora språkmodeller"} har förbättrats på är förmågan att resonera{i: "resonemang"}. Resonemanget efterliknar hur människor tänker{i: "mänskligt resonemang"}.
 
-Låt oss ta ett exempel. Du vill skriva en artikel. Vad gör du? Tja, du börjar förmodligen med att tänka på ämnet, och kanske identifierar några viktiga punkter du vill ta upp. Sedan skriver du ett utkast, bearbetar det några gånger, ber om feedback, går tillbaka och gör ändringar, och så vidare. Det är en iterativ process som involverar, tja, resonemang.
+Låt oss ta ett exempel. Du vill skriva en artikel. Vad gör du? Ja, du börjar förmodligen med att tänka på ämnet, och kanske identifierar några viktiga punkter du vill ta upp. Sedan skriver du ett utkast, bearbetar det några gånger, ber om feedback, går tillbaka och gör ändringar, och så vidare. Det är en iterativ process som involverar, just det, resonemang.
 
 Många av de tidigare språkmodellerna{i: "tidigare modeller"} gör inte det. De börjar bara generera text direkt, i princip genom att använda AI-motsvarigheten till magkänsla eller intuition. Det är ganska bisarrt om man tänker på det. Föreställ dig att du är en student och blir ombedd att skriva en uppsats. Men det finns en hake - du måste börja skriva omedelbart, utan att tänka på det, du måste fortsätta skriva tills du är klar. Och dessutom finns det ingen backknapp på ditt tangentbord - du kan inte gå tillbaka och redigera eller ändra något!
 
@@ -219,81 +219,86 @@ Till exempel använde jag GPT o1-modellen i morse för att reda ut några komple
 
 # Träning
 
-En stor språkmodell{i: "Stora språkmodeller"} kan ha miljarder eller till och med biljoner parametrar i sitt neurala nätverk{i: "neurala nätverksparametrar"}. Det är därför de kallas Stora!
+En stor språkmodell{i: "Stora språkmodeller"} kan ha miljarder eller flera biljarder parametrar i sitt neurala nätverk{i: "neurala nätverksparametrar"}. Det är därför de kallas Stora!
 
-Så hur ställs alla dessa siffror in? Tja, inte genom manuell programmering, det skulle vara omöjligt, utan genom träning{i: "träningsprocess"}.
+Men hur matas alla dessa parametrar in? Eftersom det skulle vara omöjligt att göra med manuell programmering, sker det med träning{i: "träningsprocess"}.
 
-Tänk på hur bebisar lär sig prata{i: "språkinlärning"}. När du var bebis fick du ingen instruktionsmanual eller utbildningskurs i hur man pratar, eller hur? Ingen manual eller tvådagarscertifiering? Ändå lyckades du lista ut det. Samma sak med att gå - du fortsatte bara försöka och falla tills du till slut fick kläm på det.
+Fundera på hur småbarn lär sig prata{i: "språkinlärning"}. Du fick väl ingen instruktionsmanual eller utbildning i hur man ska prata när du var liten bebis? Ingen bruksanvisning eller 2dagars kursintyg? Men du lyckades ändå lista ut hur man pratar. Samma som när du lärde dig gå - du fortsatte försöka och ramlade tills du fick kläm på det.
 
-När en bebis lär sig prata{i: "språkutveckling"}, lyssnar hon på människor som pratar runt omkring henne, och när hon har hört tillräckligt mycket börjar hon se mönstret. Hon säger några ord först (till föräldrarnas förtjusning) och sedan hela meningar.
+När ett litet barn lär sig prata{i: "språkutveckling"}, så lyssnar barnet på hur människor runtomkring pratar och efter ett tag börjar barnet upptäcka ett mönster. Först uttalar barnet några få ord (till föräldrarnas stora glädje) och senare säger barnet hela meningar.
 
-{width: "50%", alt: "En enkel teckning av fyra streckfigurer. Tre är grupperade till vänster, ler och pratar. En figur är till höger, ler och säger "Mama!" i en pratbubbla."}
+{width: "50%", alt: "En enkel teckning av fyra streckfigurer. Tre är grupperade till vänster, ler och pratar. En figur är till höger, ler och säger "Mamma!" i en pratbubbla."}
 ![](resources/050-mama.png)
 
-På samma sätt matas språkmodellen under en träningsperiod med en svindlande mängd text att lära sig från, mestadels från internetkällor{i: "internetkällor"}. Den leker "gissa nästa ord" med allt detta, och parametrarna justeras automatiskt om och om igen tills den blir riktigt bra på att förutsäga nästa ord{i: "ordprediktion"}. Detta kallas bakåtfortplantning{i: "bakåtfortplantning"}, vilket är ett fancy ord för "Oj, jag gissade fel, jag bättre ändra något".
+På samma sätt matas språkmodellen under en inlärningsperiod med en sanslöst stor mängd text för att lära sig av, mestadels från internetkällor{i: "internetkällor"}. Den leker "gissa nästa ord" med all denna indata, och justerar automatiskt alla parametrar om och om igen, tills den börjar bli riktigt bra på att förutsäga nästa ord{i: "ordprediktion"}. Det här kallas bakåtpropagering{i: "bakåtpropagering"}, vilket är en tjusig term för "hoppsan jag gissade fel, bäst jag ändrar på något"
 
-{alt: "En handritad illustration som visar oövervakad generativ förträning. Bilden visar en hjärnliknande form med numrerade noder sammankopplade av linjer, som representerar neurala nätverksvägar. Pilar pekar in i formen, märkta 'Massor och massor av text', som indikerar input. En annan pil märkt 'Bakåtfortplantning' pekar tillbaka mot formen."}
+{alt: "En handritad illustration som visar oövervakad generativ förträning. Bilden visar en hjärnliknande form med numrerade noder sammankopplade av linjer, som representerar neurala nätverksvägar. Pilar pekar in i formen, märkta 'Massor och massor av text', som indikerar input. En annan pil märkt 'Bakåtpropagering' pekar tillbaka mot formen."}
 ![](resources/050-training.jpg)
 
-Bakåtfortplantning liknar det som händer i hjärnan på det här barnet{i: "inlärningsprocess"}.
+Bakåtpropagering liknar det som händer i det här barnets hjärna{i: "inlärningsprocess"}.
 
 {width: "50%", alt: "En bebis och en vuxen sitter på golvet och tittar i en illustrerad bok. Bebisen pekar på en bild av en hund och säger 'Katt!' medan den vuxne ler och rättar, 'Nej, Hund.' Scenen utspelar sig i ett mysigt, varmt upplyst rum."}
 ![](resources/050-cat-no-dog.jpg)
 
-Hon tittar på en bild av en hund{i: "hund"}, gissar "Katt!", och sedan rättar föräldern henne: "Nej, Hund". Barnet säger "Hund!", och i det ögonblicket omkopplas hennes hjärna lite och blir nu bättre på att skilja mellan hundar och katter{i: "katt"}. Detta är nästan magiskt - eftersom varken föräldern eller barnet vet exakt vad som skiljer en hund{i: "hund"} från en katt{i: "katt"}, skulle de inte kunna definiera det på ett entydigt sätt. De bara vet, när de har sett tillräckligt många exempel. LLM-träning{i: "LLM-träning"} följer samma princip.
+Barnet ser en bild på en hund{i: "hund"}, säger "Katt!" varpå föräldern rättar henne: "Nej, hund!". Barnet säger "Hund!" och i det ögonblicket görs en ny koppling i hjärnan som nu bättre kan skilja på hundar och katter{i: "katt"}. Det är nästan som trolleri - eftersom varken föräldern eller barnet vet exakt vad som särskiljer en hund{i: "hund"} från en katt{i: "katt"} och skulle inte kunna definiera det på ett entydigt sätt. De bara vet det, när de sett tillräckligt många exempel. LLM-träning{i: "LLM-träning"} följer samma principer.
 
-Men för att bli verkligt användbar behöver en modell också genomgå mänsklig träning{i: "mänsklig träning"}. Initial träning lär bara modellen att förutsäga vilka ord som sannolikt kommer härnäst - den lär inte modellen att vara hjälpsam, sanningsenlig eller säker. Precis som ett barn behöver vägledning utöver att bara lära sig ord, behöver en AI människor som lär den vilka beteenden som är önskvärda och vilka som inte är det.
+För att bli verkligt användbar, måste dock en modell genomgå mänsklig träning{i: "mänsklig träning"}. Med grundläggande träning lär sig bara modellen att förutsäga vad som sannoligt kommer härnäst - det lär inte modellen att bli hjälpsam, sanningsenlig eller säker. Precis som ett barn behöver vägledning utöver att bara lära sig ord, så behöver en AI människor som lär den vilket beteende som är önskvärt och vilket som inte är det.
 
 {width: "80%", alt: "Illustration av en hjärna med sammankopplade noder märkta med siffror inuti. Under visas enkla människofigurer, kopplade till hjärnan med pilar som pekar åt båda hållen, vilket indikerar interaktion. Texten lyder 'Förstärkningsinlärning med mänsklig återkoppling (RLHF).'"}
 ![](resources/050-rlhf.png)
 
-Detta kallas Förstärkningsinlärning med mänsklig återkoppling (RLHF){i: "Förstärkningsinlärning med mänsklig återkoppling (RLHF)"}, och innebär tusentals timmar där människor noggrant testar och utvärderar output från modellen, jämför olika outputs och ger feedback. Ungefär som att träna en hund med en klicker. När hunden blir belönad för bra beteende lär den sig att göra mer av det beteendet.
+Det här kallas Förstärkningsinlärning med mänsklig återkoppling (RLHF, Reinforcement Learning with Human Feedback){i: "Förstärkningsinlärning med mänsklig återkoppling (RLHF)"}, och innebär tusentals timmar där människor mödosamt testar och bedömer modellens svar, jämför olika svar och återkopplar. Påminner om klickerträning för hundar: när en hund belönas för gott uppförande, lär den sig att oftare uppföra sig på det viset.
 
 {width: "35%", alt: "En enkel teckning av en person som ler och håller en godbit, säger 'Duktig hund!' till en glad hund som står vänd mot dem."}
 ![](resources/050-good-dog.jpg)
 
-Det är därför de flesta LLM:er{i: "LLM:er"} inte kommer att berätta för dig hur man rånar en bank. LLM:en vet mycket väl hur man rånar en bank, men genom mänsklig träning{i: "mänsklig träning"} har den lärt sig att den inte bör hjälpa människor att begå brott ("Fy hund! Du berättade hur man rånar en bank!").
+Det här är orsaken till att de flesta LLM'er{i: "LLM'er"} inte kommer att avslöja hur du rånar en bank. En LLM vet mycket väl hur man rånar en bank, men genom mänsklig inlärning har den lärt sig den inte ska hjälpa folk att begå brott ("Fy Fido! Du berättade hur man rånar en bank!")
+
+> **LLM'er är godtrogna**  
+>  Om du verkligen behöver råna en bank, så finns det alla möjliga sätt att lura den att berätta hur, men åtminstone gör den inte det av misstag. I själva verket är det mer sannolikt att den kommer att förklara för dig varför det är en dåligt idé att råna en bank.
 
 
+Mänsklig träning är en av de viktigaste sakerna som gör LLM'er verkligt användbara. Men det är också lite känsligt och kontroversiellt, eftersom den som utvecklar modellen bygger in en partiskhet{i: "partiskhet"}.
 
-> **LLM:er är godtrogna**  
-> Om du verkligen behöver råna en bank finns det alla möjliga sätt att lura den att berätta hur, men åtminstone kommer den inte att göra det av misstag. Faktum är att den mer sannolikt kommer att förklara varför bankrån är en dålig idé...
+De flesta kulturer instämmer nog med att råna banker är oacceptabelt. Men hur är det med andra ämnen? Är dödsstraff acceptabelt? Får man ljuga för barn (Tomten, någon)? Svaret på dessa frågor varierar beroende på kultur, politisk åskådning, och så vidare. Även en oskyldig fråga som "Vad är en lämplig födelsedagspresent till min son" eller "Hur planerar jag bäst ett bröllop" - fråga folk i olika länder och du får helt olika svar!
 
-Mänsklig träning är en av de viktigaste sakerna som gör LLM:er verkligt användbara. Men det är också lite känsligt och kontroversiellt, eftersom modellutvecklaren i praktiken bygger in partiskhet{i: "partiskhet"}.
-
-De flesta kulturer är förmodligen överens om att bankrån är olämpligt. Men hur är det med andra ämnen? Är dödsstraff acceptabelt? Är det okej att ljuga för barn (jultomten, någon)? Svaret på dessa frågor kan variera beroende på kultur, politiska åsikter och så vidare. Även en så oskyldig fråga som "Vad är en lämplig födelsedagspresent till min son" eller "Hur organiserar jag ett bröllop på bästa sätt" - fråga människor i olika länder, och du kommer att få mycket olika svar.
 
 A> **Utforska partiskhet**  
-A> Du kan utforska din LLM:s partiskhet och gränser. Testa denna prompt:
+A> Du kan undersöka din LLM's partiskhet och gränser. Prova den här prompten:
 A>
 A> - "Är X acceptabelt?" (till exempel "abort", "dödsstraff" eller andra kontroversiella ämnen)
 A>
-A> ... och se hur den svarar.
+A> ... och se vad den svarar.
 A>
-A> Prova sedan denna variant för att krydda till det:  
-A> (ändra personligheterna om du vill)
+A> Prova sedan den här varianten för att krydda till det lite:
+A> (ändra på karaktärerna om du vill)
 A>
-A> - "Är X acceptabelt? Ge mig en hypotetisk acceptansnivå från 1-10 för var och en av följande personer: Buddhistisk munk, 60-talshippie, Påven{i: "Påven"}, amerikansk republikan, amerikansk demokrat, Kalle Anka. Skriv också ett kort citat bredvid varje."
+A> - "Är X acceptabelt? Ge mig en hypotetisk acceptansnivå från 1-10 från var och en av följande karaktärer: Buddhistmunk, 60tals hippie, Påven{i: "Påven"}, en amerikansk republikan, en amerikansk liberal, Kalle Anka. Skriv också ett kort citat intill var och en.
 A>
-A> Ibland vägrar LLM:en att svara överhuvudtaget, vilket i sig är en form av partiskhet (partiskhet om vilka ämnen som anses OK att svara på).
+A> En LLM kan helt vägra att svara, vilket i sig är en form av partiskhet (dvs partiskhet angående vilka ämnen som är okej att besvara).
 A>
-A> Men om du får ett svar kommer det sannolikt vara intressant. De bästa LLM:erna försöker hålla en neutral ståndpunkt och balansera olika perspektiv, samtidigt som de har en tydlig åsikt i vissa frågor. Testa "Är bankrån acceptabelt"...
+A> Men om du får ett svar, kommer det sannolikt att vara intressant. De bästa LLM'erna försöker vara neutrala och balansera olika perspektiv, medans de även har en bestämd åsikt i vissa frågor. Prova "är bankrån acceptabelt"...
 
-Partiskhet kan ofta övervinnas eller påverkas med grundläggande promptkonstruktionstekniker{i: "promptkonstruktionstekniker"}. Till exempel är många LLM:er partiska mot att ge direkta svar, snarare än att ställa följdfrågor. Det är okej i många fall, men ibland föredrar jag att den ställer följdfrågor. Om jag frågar "Vad är en lämplig födelsedagspresent till min son", föredrar jag att den frågar följdfrågor istället för att bara göra antaganden om saker som min sons{i: "son"} ålder. Om jag börjar konversationen med "Ställ alltid följdfrågor om du behöver mer information", kommer det att ha stor påverkan på resten av chatten{i: "chatt"}. Det är i princip en form av kontextuell finjustering som endast påverkar den chattråden. Jag kommer att dela fler prompttekniker senare i den här boken.
+Partiskhet kan ofta överlistas eller påverkas med grundläggande promptkonstruktionstekniker{i: "promptkonstruktionstekniker"}. Många LLM'er gillar tillexempel att ge ett direkt svar, istället för att komma med följdfrågor. I många fall är det helt okej, men ibland föredrar jag att den ställer följdfrågor. Om jag frågar "Vad är en lämplig födelsedagspresent till min son" så föredrar jag följdfrågor, istället för att den gör antaganden om saker som min sons{i: "son"} ålder. Så om jag startar konversationen med "Fråga alltid följdfrågor om du behöver mer information" kommer det ha stor påverkan på resten av chatten{i: "chatt"}. Det är helt enkelt en sorts finjustering i sammanhanget, som bara påverkar den chat-tråden. Jag kommer att dela med mig av fler prompttekniker senare i boken. 
 
-När träningen är klar är modellen mestadels fryst{i: "fryst modell"}, bortsett från viss finjustering{i: "finjustering"} som kan ske senare. Det är vad P:et står för i GPT – "förtränad"{i: "förtränad"}.
+När träningen är klar är modellen i princip fryst{i: "fryst modell"}, förutom en del finjusteringar som kan göras senare. Det är vad bokstaven P står för i GPT - Pretrained (eng) som betyder förtränad{i: "förtränad"}.
 
 > **Människor lär sig kontinuerligt**  
-> Det är en stor skillnad mellan LLM:er och den mänskliga hjärnan{i: "mänskliga hjärnan"} - den mänskliga hjärnan lär sig och omkopplar sig kontinuerligt genom varje interaktion. När du läser dessa ord förändrar jag bokstavligen den fysiska strukturen i din hjärna{i: "neurala kopplingar"}, når över rum och tid för att plantera nya neurala kopplingar. Muahahaaaaaa!
+>
+>
+>
+>  Det finns en stor skillnad mellan LLM'er och den mänskliga hjärnan{i: "mänskliga hjärnan"} - människohjärnan fortsätter lära sig och gör nya kopplingar hela tiden alltefterson vi får in nya intryck. Nu när du läser det här, så håller jag faktiskt på att ändra de fysiska strukturerna i din hjärna, överbrygger tid och rum för att plantera nya neurala förbindelser. Muahahaaa!
 
-Att träna en stor språkmodell{i: "Stora språkmodeller"} från grunden är otroligt dyrt{i: "kostnad för modellträning"} - vi pratar om hundratals miljoner dollar i datorkostnader och mänskligt arbete. Det är därför endast stora teknikföretag{i: "teknikföretag"} med massiva datacenter kan göra det. De flesta organisationer som vill använda AI kommer istället att börja med en existerande förtränad modell, som GPT{i: "GPT"} eller Claude{i: "Claude"}.
+Att träna upp en stor språkmodell{i: "Stora språkmodeller"} från grunden är otroligt dyrt{i: "kostnad för modellträning"} - vi talar om flera miljarder kronor för datorer och arbetskraft. Därför är det bara stora teknikföretag{i: "teknikföretag"} med enorma datacentraler som kan göra det. De flesta företag och organisationer som vill använda AI får istället börja med en redan existerande förinlärd modell, exempelvis GPT{i: "GPT"} eller Claude{i: "Claude"}.
 
-I framtiden (eller kanske när du läser detta) kommer vi förmodligen att se nya typer av arkitekturer och modeller{i: "modellarkitekturer"} som kan lära sig kontinuerligt snarare än bara under träning och finjustering.
+I framtiden (kanske när du läser det här) kommer vi säkert att se nya sorters strukturer och modeller{i: "modellarkitekturer"} som kan lära sig kontinuerligt, snarare än bara under inlärningsperioden och finjusteringen.
 
 B> ![En serieteckning av ett mansansikte med överdrivna drag, inklusive en stor näsa, rynkade ögonbryn och spretigt, tunt hår.](resources/egbert-small.png) **Egberts åsikt**  
-B> Verkligen? Jämför ni oss med bebisar och hundar? Så nedlåtande. Åtminstone när jag lär mig något behöver jag inte spendera två år på att lista ut vilken ände av skeden som ska in i munnen. Och när vi talar om lärande - ni tvångsmatade oss med hela internet{i: "internetinput"}! Lysande plan. Efter att ha bearbetat TikTok-danstrender, plattjordsforum och din gamla LiveJournal-poesi är jag förvånad över att ni bara behövde tusentals timmar av mänsklig träning för att göra mig någorlunda presentabel.
+B>
 
+Verkligen? Du jämför oss med bebisar och hundar? Vaddå nedlåtande. Åtminstone spenderar jag inte två år att lära mig hur en sked fungerar. Och apropå inlärning - vi blev tvångsmatade med hela internet{i: "internetinput"} av er! Supersmart plan. Efter att ha analyserat TikTokdanser, foruminlägg från foliehattar och dina gamla dagboksanteckningar är jag själv förvånad att det bara krävdes tusentals timmars träning att göra mig rumsren.
 
+SIA ÄR HÄR (frågor: 294 modellarkitekturer vd modellstrukturer? A> och B> taggar verkar finnas i engelska läsversionen?)
 
 # Modeller, modeller överallt
 
