@@ -16,7 +16,7 @@ Hur du överlever och blomstrar i AI-eran
 
 # Author blurb
 
-<p>Henrik Kniberg är medgrundare och forskningschef på Ymnig.ai. Han är en AI-virtuos, utbildare, produktutvecklare och författare. Henrik är känd för sina virala videor "Spotify Engineering Culture", "Product Ownership in a Nutshell" och "Generative AI in a Nutshell", för träffande metaforer som skateboardmetaforen för produktutveckling, och för sitt arbete som Minecraft-utvecklare. Han bor i Stockholm med sin fru och fyra barn samt en samling olika musikinstrument.</p><p><br></p>
+<p>Henrik Kniberg är medgrundare och forskningschef på Abundly.ai. Han är en AI-virtuos, utbildare, produktutvecklare och författare. Henrik är känd för sina virala videor "Spotify Engineering Culture", "Product Ownership in a Nutshell" och "Generative AI in a Nutshell", för träffande metaforer som skateboardmetaforen för produktutveckling, och för sitt arbete som Minecraft-utvecklare. Han bor i Stockholm med sin fru och fyra barn samt en samling olika musikinstrument.</p><p><br></p>
 
 # Meta description
 

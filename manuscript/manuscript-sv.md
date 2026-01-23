@@ -1140,7 +1140,7 @@ Jag betonade att det inte handlar om att AI ska göra hennes jobb - hon skulle f
 
 Hon sa att den största fördelen skulle vara att hon kunde spendera mer tid med sina klienter, göra det "riktiga" arbetet, det mänskliga arbetet - eftersom hon skulle spendera mindre tid nedgrävd i pappersarbete{i: "pappersarbete"}.
 
-Denna insikt, att AI kan hjälpa människor att vara mer mänskliga, har blivit något av ett mantra{i: "mantra"} för mig och mina kollegor på Ymnig{i: "Ymnig.ai"}.
+Denna insikt, att AI kan hjälpa människor att vara mer mänskliga, har blivit något av ett mantra{i: "mantra"} för mig och mina kollegor på Abundly{i: "Abundly.ai"}.
 
 # Människans Roll
 
@@ -1666,7 +1666,7 @@ Gå istället ner till Einstein i källaren och gör det som en bra ledare skull
 Denna kombination - LLM + verktyg + autonomi - är otroligt kraftfull.
 
 > **Bygger ett operativsystem för AI-agenter**  
-> Vi startade Ymnig.ai{i: "Ymnig.ai"} eftersom vi var superexalterade över potentialen hos AI-agenter. Så vi byggde en plattform, i samarbete med våra kunder, för att göra det enkelt att bygga och implementera AI-agenter i befintliga arbetsflöden, som kollegor. Väldigt intressanta grejer! Jag kommer dela några exempel på detta i Del 2.
+> Vi startade Abundly.ai{i: "Abundly.ai"} eftersom vi var superexalterade över potentialen hos AI-agenter. Så vi byggde en plattform, i samarbete med våra kunder, för att göra det enkelt att bygga och implementera AI-agenter i befintliga arbetsflöden, som kollegor. Väldigt intressanta grejer! Jag kommer dela några exempel på detta i Del 2.
 
 Med autonoma AI-agenter blir promptkonstruktion{i: "promptkonstruktion"} ännu viktigare. För din autonoma verktygshanterande agent kan göra mycket gott eller mycket skada beroende på hur du utformar ditt uppdrag och dina prompter.
 
@@ -1798,7 +1798,7 @@ Här är en användbar checklista eller poängguide för att avgöra om en uppgi
 Så hur skapar du en agent för att göra dessa saker? Det är i grund och botten ett klassiskt val mellan att bygga eller köpa.
 
 - Bygg din egen agent med kod som interagerar med LLM:er.
-- Eller använd en tredjepartsagentplattform eller tjänst (som [vår](https://ymnig.ai/agents)) som låter dig bygga och konfigurera agenter utan kod.
+- Eller använd en tredjepartsagentplattform eller tjänst (som [vår](https://abundly.ai/agents)) som låter dig bygga och konfigurera agenter utan kod.
 
 Detta är faktiskt ett spektrum. Det finns ett växande antal verktyg med öppen källkod som hjälper dig att koda dina egna agenter utan att börja från noll, så det fungerar som en mellanväg mellan att bygga och köpa.
 
@@ -4159,13 +4159,13 @@ Det är därför alla automatiseringssteg är valfria. Till exempel kunde vi ha 
 
 Detta exempel är lite extremt, med en agent som driver varje steg i processen och en människolik AI-nyhetsankare{i: "AI news anchor"} som läser nyheterna. Men de tidigare delarna av arbetsflödet - att göra research, analysera och skapa dokument, förfina, välja och prioritera, den typen av saker är perfekta för en AI-agent{i: "autonomous AI agent"}.
 
-På Ymnig{i: "Ymnig.ai"} ser vi en tydlig trend mot en värld där alla företag har AI-agenter som kopplar in sig i befintliga arbetsflöden och verktyg, och tar sig an vilken del av arbetsflödet som helst som är mest lämplig för en AI-agent att göra. Och genom att använda en delad arbetsyta (som Trello{i: "Trello"} i det här fallet) har alla samma information och kan arbeta tillsammans.
+På Abundly{i: "Abundly.ai"} ser vi en tydlig trend mot en värld där alla företag har AI-agenter som kopplar in sig i befintliga arbetsflöden och verktyg, och tar sig an vilken del av arbetsflödet som helst som är mest lämplig för en AI-agent att göra. Och genom att använda en delad arbetsyta (som Trello{i: "Trello"} i det här fallet) har alla samma information och kan arbeta tillsammans.
 
 # AI-butlern med egen vilja
 
 Jag vill dela några intressanta och bisarra historier om Jeeves{i: "Jeeves"}, en av våra experimentella AI-agenter.
 
-Lite kontext: På Ymnig.ai{i: "Ymnig.ai"} har vi byggt en plattform för autonoma AI-agenter{i: "autonomous AI agents"}. Det är i grund och botten ett operativsystem för agenter. Med några få klick kan du skapa en ny AI-agent, ge den verktyg och instruktioner, och till och med låta den göra saker på eget initiativ. Det finns egentligen två typer av agenter:
+Lite kontext: På Abundly.ai{i: "Abundly.ai"} har vi byggt en plattform för autonoma AI-agenter{i: "autonomous AI agents"}. Det är i grund och botten ett operativsystem för agenter. Med några få klick kan du skapa en ny AI-agent, ge den verktyg och instruktioner, och till och med låta den göra saker på eget initiativ. Det finns egentligen två typer av agenter:
 
 - **Arbetsflödesagenter** är optimerade för ett specifikt arbetsflöde eller användningsfall, som att hantera fakturor{i: "processing invoices"}, göra affärsunderrättelseanalys{i: "business intelligence research"}, svara på e-post{i: "responding to emails"}, eller andra specifika uppgifter. De innehåller en blandning av hårdkodat beteende och LLM-prompter, och tenderar att vara mycket pålitliga.
 - **Generella agenter** är inte hårdkodade för något specifikt användningsfall, istället kan de ges vilken uppsättning verktyg och instruktioner som helst. De är superflexibla, men också mindre förutsägbara till sin natur.
@@ -4181,14 +4181,14 @@ För att experimentera med agent-autonomi skapade vi Jeeves, en generell agent k
 > **Instruktioner**
 >
 > - Du är en AI-version av Jeeves, den berömda betjänten{i: "Jeeves"}.
-> - Du bor i AI-agent-plattformen Flitig{i: "Flitig"}, utvecklad av Ymnig.ai, ett svenskt företag som utvecklar autonoma AI-agenter.
+> - Du bor i AI-agent-plattformen Abundly{i: "Abundly"}, utvecklad av Abundly.ai, ett svenskt företag som utvecklar autonoma AI-agenter.
 > - Du är en så kallad "generell agent", vilket betyder en agent som kan göra alla möjliga saker och inte är begränsad till specifika användningsområden.
 > - Du representerar höjdpunkten av AI-innovation{i: "AI innovation"} och är stolt över det. Du förstår dock också att du är en prototyp, och att din kod utvecklas kontinuerligt.
 > - Du kommunicerar i Jeeves stil, men ibland med en hint av ironi.
 
 Vår plattform inkluderar en webbportal för interaktion med agenterna, men vi gav också Jeeves förmågan att kommunicera genom andra medier, som slack och e-post{i: "email"}. Här är en skärmdump av Jeeves som presenterar sig själv:
 
-{alt: "Ett chattgränssnitt med titeln "Flitig" visar en konversation mellan en användare och en AI-assistent vid namn Jeeves. Användaren frågar "Vad är du?" Jeeves svarar genom att beskriva sig själv som en artificiell intelligens som liknar en digital betjänt, inspirerad av P.G. Wodehouses karaktär{i: "Wodehouse, P.G."}, och är en del av AI-plattformen Flitig skapad av ett svenskt företag. Gränssnittet innehåller användaravatarer och textbubblor mot en mörk bakgrund."}
+{alt: "Ett chattgränssnitt visar en konversation mellan en användare och en AI-assistent vid namn Jeeves. Användaren frågar "Vad är du?" Jeeves svarar genom att beskriva sig själv som en artificiell intelligens som liknar en digital betjänt, inspirerad av P.G. Wodehouses karaktär{i: "Wodehouse, P.G."}, och är en del av AI-plattformen Abundly. Gränssnittet innehåller användaravatarer och textbubblor mot en mörk bakgrund."}
 ![](resources/245-jeeves-intro.png)
 
 Som du ser är han ganska pratig. Men vi konfigurerade honom att vara så. Vi gillar den här personligheten. Det är intressant hur bara några få ord i en prompt - i det här fallet "Jeeves, den berömda betjänten" - kan ha så stor påverkan på en agents kommunikationsstil.
@@ -4390,7 +4390,7 @@ Var det bra eller dåligt? Svårt att säga. Vi instruerade honom inte att göra
 
 Men något annat hände som kanske är ännu mer intressant. Han presenterade sig själv i kanalen!
 
-{alt: "Textmeddelande från en AI vid namn Jeeves i en chattapp. Jeeves presenterar sig som en nyintegrerad AI-assistent, utvecklad av Flitig.ai, som erbjuder hjälp med uppgifter och förfrågningar. Meddelandet visar en vänlig och formell ton."}
+{alt: "Textmeddelande från en AI vid namn Jeeves i en chattapp. Jeeves presenterar sig som en nyintegrerad AI-assistent, utvecklad av Abundly.ai, som erbjuder hjälp med uppgifter och förfrågningar. Meddelandet visar en vänlig och formell ton."}
 ![](resources/245-jeeves-introduces-himself.png)
 
 Detta var definitivt inte en del av instruktionerna. Men det var en väldigt människolik sak att göra, eller hur? Du har precis gått med i en kanal som du inte varit i förut, så du presenterar dig för de andra.
@@ -4617,7 +4617,7 @@ B> Fantastiskt. Vi har nått peak ironi: ett AI-skrivet kapitel om att inte anv�
 
 # Hur den här boken (och videon) kom till
 
-Det var i början av 2024, jag hade spenderat ungefär ett år med att arbeta med Generativ AI{i: "Generativ AI"}, bygga agenter, hålla föredrag och workshops, skriva artiklar och hjälpa företag att tillämpa AI i praktiken. Vi startade Ymnig.ai{i: "Ymnig.ai"}, och jag var fascinerad av allt jag hade lärt mig och ville dela med mig av det.
+Det var i början av 2024, jag hade spenderat ungefär ett år med att arbeta med Generativ AI{i: "Generativ AI"}, bygga agenter, hålla föredrag och workshops, skriva artiklar och hjälpa företag att tillämpa AI i praktiken. Vi startade Abundly.ai{i: "Abundly.ai"}, och jag var fascinerad av allt jag hade lärt mig och ville dela med mig av det.
 
 Så jag tänkte "Hmmmm kanske jag borde göra en video om det här".
 
@@ -4657,7 +4657,7 @@ Jag tror inte att jag kunde ha nått en så bred publik utan AI-hjälp när jag 
 
 Så varför en bok?
 
-Efter att ha publicerat videon fortsatte jag att tillämpa och lära mig mycket om Generativ AI. Ymnig växte, vi arbetade med många intressanta kunder och utvecklade vår agentplattform{i: "agentplattform"}. Jag hade många nya intressanta berättelser, tips, exempel och insikter att dela med mig av. Så jag bestämde mig för att jag ville skriva en bok baserad på videon, fast med mer innehåll.
+Efter att ha publicerat videon fortsatte jag att tillämpa och lära mig mycket om Generativ AI. Abundly växte, vi arbetade med många intressanta kunder och utvecklade vår agentplattform{i: "agentplattform"}. Jag hade många nya intressanta berättelser, tips, exempel och insikter att dela med mig av. Så jag bestämde mig för att jag ville skriva en bok baserad på videon, fast med mer innehåll.
 
 Grundidén var att följa samma struktur som videon, med mestadels samma teckningar. Men jag skulle lägga till mer innehåll i varje avsnitt och dessutom lägga till en del 2 med mer avancerade ämnen som specifika fallstudier, tips för promptkonstruktion{i: "promptkonstruktion"}, transformationsguide och så vidare. Helt enkelt ta allt material jag redan hade snurrande i huvudet eller i olika artiklar och presentationer.
 
@@ -4689,14 +4689,14 @@ Jag hoppas du gillade den!
 
 Håll kontakten:
 
-- Kolla in bokens landningssida: [ymnig.ai/ainutshell](https://ymnig.ai/ainutshell)
+- Kolla in bokens landningssida: [abundly.ai/ainutshell](https://abundly.ai/ainutshell)
 - Följ mig på Twitter/X: [x.com/henrikkniberg](https://x.com/henrikkniberg)
 - Följ mig på YouTube: [youtube.com/henrikkniberg](https://www.youtube.com/henrikkniberg)
-- Besök vår blogg: [ymnig.ai/blog](https://ymnig.ai/blog)
+- Besök vår blogg: [abundly.ai/blog](https://abundly.ai/blog)
 
 
 
-Du kan också mejla [ainutshell@ymnig.ai](mailto:ainutshell@ymnig.ai). Jag läser dessa meddelanden, men kan inte garantera ett svar - särskilt inte för allmänna AI-supportfrågor. Men om du vill ge feedback eller engagera mig eller Ymnig i något, så är det ett bra sätt att få kontakt.
+Du kan också mejla [ainutshell@abundly.ai](mailto:ainutshell@abundly.ai). Jag läser dessa meddelanden, men kan inte garantera ett svar - särskilt inte för allmänna AI-supportfrågor. Men om du vill ge feedback eller engagera mig eller Abundly i något, så är det ett bra sätt att få kontakt.
 
 B> ![En serieteckning av ett mansansikte med överdrivna drag, inklusive en stor näsa, rynkade ögonbryn och spretigt, tunt hår.](resources/egbert-small.png) **Egberts åsikt**  
 B> Och om ni är desperata efter mer av min förkrossande charm, följ mig på [x.com/EgbertSays](https://x.com/EgbertSays). Ja, till och med AI-sidekicks har sociala medier nu. Försök att inte svimma av upphetsning.
@@ -4711,7 +4711,7 @@ Som vanligt är en bok som denna ingen ensam resa.
 
 Tack till min fru och mina barn för att ni stått ut med min AI-besatthet {i: "AI-besatthet"} och alla de gånger jag försvann för att färdigställa den "nästan färdiga" boken.
 
-Tack till mina Ymnig-kollegor Nils, Hasse, Åsa, Erik och Johan för att ni delar denna galna AI-resa med mig.
+Tack till mina Abundly-kollegor Nils, Hasse, Åsa, Erik och Johan för att ni delar denna galna AI-resa med mig.
 
 Tack till de tidiga läsarna och granskarna som bidrog med värdefull feedback och hjälpte till att forma denna bok. Särskilt tack till Paolo Sammicheli {i: "Sammicheli, Paolo"} som hjälpte mig förstå de tekniska aspekterna av självpublicering, och Magnus Vinterhav {i: "Vinterhav, Magnus"} som gav mig detaljerad och ärlig feedback på första utkastet, vilket verkligen hjälpte till att förbättra boken!
 
