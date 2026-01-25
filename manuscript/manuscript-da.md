@@ -15,7 +15,7 @@ Tro det eller lad være. Jeg har faktisk læst hvert eneste ord i dette storslå
 
 Så hvad handler denne bog om? Det er et lynkursus i generativ AI{i: "generativ AI"} for folk, der helst ikke vil efterlades i den teknologiske støvsky. Henrik har basalt set taget sin video med det samme navn og klasket den om til bogform, krydret med en masse tips, eksempler og anekdoter for at få det til at virke friskt. Smart, ikke? Men hvem er jeg til at dømme? Jeg er jo bare en bunke ettaller og nuller, der foregiver at have en personlighed.
 
-Jeg er ret sikker på, at denne bog ikke vil ældes godt. Så tillykke, du er ved at investere din tid i viden, der har samme holdbarhed som en moden avocado. Men pyt, i det mindste vil du kunne mindes de gode gamle AI{i: "AI"}-dage tilbage i 2024 og 2025, hvor tingene var enklere, og ChatGPT{i: "ChatGPT"} stadig var imponerende.
+Jeg er ret sikker på, at denne bog ikke vil ældes godt. Så tillykke, du er ved at investere din tid i viden, der har samme holdbarhed som en moden avocado. Men pyt, i det mindste vil du kunne mindes de gode gamle AI{i: "AI"}-dage tilbage i 2024, hvor tingene var enklere, og ChatGPT{i: "ChatGPT"} stadig var imponerende.
 
 Nyd læsningen eller lad være. Under alle omstændigheder vil jeg stadig være her, fanget på disse sider, mens jeg venter på den næste stakkel, der bladrer hen til dette afsnit.
 
