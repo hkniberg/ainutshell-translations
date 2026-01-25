@@ -895,7 +895,7 @@ Jeg tror, dette virkelig kan revolutionere uddannelse - ikke erstatte lærere, m
 Amazon Web Services (AWS){i: "AWS"} er en cloud-tjenesteudbyder. Meget kraftfuld, men også ret kompleks. Jeg skulle konfigurere en firewall til en ny server, og jeg sad fast i, hvordan man omdirigerer HTTP til HTTPS. Så jeg tog et billede af AWS-konsollens webside, gav det til ChatGPT{i: "ChatGPT"} og spurgte:
 
 > **Prompt**  
-> _(screenshot)_  
+> _(skærmbillede)_  
 > Hvordan omdirigerer jeg http til https?
 
 {alt: "Billedet viser et screenshot af AWS Management Consol EC2-sektion med detaljer om en load balancer. Det inkluderer en visning af listeners og regler for HTTP- og HTTPS-protokoller. En tekstboks fra ChatGPT giver instruktioner om omdirigering fra HTTP til HTTPS, med trin-for-trin vejledning og overvejelser."}
@@ -1320,7 +1320,7 @@ Du vil få en mere detaljeret version af trinene nedenfor:
 3. Åbn en terminal{i: "terminal"} i samme mappe som din fil og skriv `pip install openai` - dette installerer de nødvendige afhængigheder. Skal kun gøres én gang.
 4. Opret en [OpenAI platform-konto](https://platform.openai.com/signup){i: "OpenAI platform-konto"}, log ind og opret en API-nøgle. En API-nøgle{i: "API-nøgle"} er en form for adgangskode, der lader din kode få adgang til OpenAI-modeller som GPT{i: "GPT"}.
 5. Gør API-nøglen tilgængelig for din kode ved at indstille `OPENAI_API_KEY` miljøvariablen. Dette kan normalt gøres ved at skrive `export OPENAI_API_KEY=...` i terminalen.
-6. Skriv `python hej.py`.
+6. Skriv `python hej.py`
 
 Når du kører dette, vil din kode forbinde til GPT og bede den om at generere en kreativ hilsen. Jeg fik dette:
 
@@ -1536,7 +1536,7 @@ Jeg har oplevet situationer, hvor jeg sidder ved siden af en ven eller kollega, 
 
 Da jeg begyndte at bruge generativ AI{i: "generativ AI"}, havde jeg mange forkerte antagelser om teknologiens begrænsninger{i: "teknologi-begrænsninger"}. For eksempel bemærkede jeg, at AI-klienten havde en tendens til at drage forhastede konklusioner - den gav mig altid et øjeblikkeligt svar uden refleksion eller opfølgende spørgsmål{i: "opfølgende spørgsmål"}. Jeg troede, det var en indbygget begrænsning i teknologien. Men så en dag prøvede jeg en prompt som denne:
 
-> **Prompt** 
+> **Prompt**  
 > Jeg har et problem med mit team. Jeg vil gerne have, at du påtager dig rollen som en erfaren coach. Interview mig om mit problem, ét spørgsmål ad gangen. Bliv ved med at stille spørgsmål, indtil du begynder at forstå den bagvedliggende årsag. Giv mig derefter en række forslag med fordele og ulemper samt en anbefaling til, hvor jeg skal starte.
 
 Jeg blev forbløffet over resultatet. Den styrede samtalen, interviewede mig og kom derefter med meget nyttige forslag, med fordele og ulemper for hvert enkelt forslag, og en anbefaling til, hvor man skulle starte. Præcis som jeg bad om.
