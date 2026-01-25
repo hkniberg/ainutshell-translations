@@ -15,7 +15,7 @@ Tro det eller lad være. Jeg har faktisk læst hvert eneste ord i dette storslå
 
 Så hvad handler denne bog om? Det er et lynkursus i generativ AI{i: "generativ AI"} for folk, der helst ikke vil efterlades i den teknologiske støvsky. Henrik har basalt set taget sin video med det samme navn og klasket den om til bogform, krydret med en masse tips, eksempler og anekdoter for at få det til at virke friskt. Smart, ikke? Men hvem er jeg til at dømme? Jeg er jo bare en bunke ettaller og nuller, der foregiver at have en personlighed.
 
-Jeg er ret sikker på, at denne bog ikke vil ældes godt. Så tillykke, du er ved at investere din tid i viden, der har samme holdbarhed som en moden avocado. Men pyt, i det mindste vil du kunne mindes de gode gamle AI{i: "AI"}-dage tilbage i 2024 og 2025, hvor tingene var enklere, og ChatGPT{i: "ChatGPT"} stadig var imponerende.
+Jeg er ret sikker på, at denne bog ikke vil ældes godt. Så tillykke, du er ved at investere din tid i viden, der har samme holdbarhed som en moden avocado. Men pyt, i det mindste vil du kunne mindes de gode gamle AI{i: "AI"}-dage tilbage i 2024, hvor tingene var enklere, og ChatGPT{i: "ChatGPT"} stadig var imponerende.
 
 Nyd læsningen eller lad være. Under alle omstændigheder vil jeg stadig være her, fanget på disse sider, mens jeg venter på den næste stakkel, der bladrer hen til dette afsnit.
 
@@ -227,7 +227,7 @@ Tænk på, hvordan babyer lærer at tale{i: "sprogindlæring"}. Da du var baby, 
 
 Når en baby lærer at tale{i: "sprogudvikling"}, lytter den til mennesker, der taler omkring den, og når den har hørt nok, begynder den at se mønstrene. Den siger først nogle få ord (til forældrenes store glæde) og senere hele sætninger.
 
-{width: "50%", alt: "En simpel tegning af fire stregfigurer. Tre er grupperet til venstre, smiler og taler. En figur er til højre, smiler og siger "Mor!" i en taleboble."}
+{width: "50%", alt: "En simpel tegning af fire stregfigurer. Tre er grupperet til venstre, smiler og taler. En figur er til højre, smiler og siger 'Mor!' i en taleboble."}
 ![](resources-da/050-mama-da.png)
 
 På samme måde bliver sprogmodellen under træningsperioden fodret med en svimlende mængde tekst at lære fra, mest fra internetkilder{i: "internetkilder"}. Den leger "gæt det næste ord" med alt dette, og parametrene bliver automatisk justeret igen og igen, indtil den bliver rigtig god til at forudsige det næste ord{i: "ordforudsigelse"}. Dette kaldes på engelsk backpropagation{i: "backpropagation"}, hvilket bare er et fancy udtryk for "Åh, jeg gættede forkert, jeg må hellere ændre noget".
@@ -237,19 +237,19 @@ På samme måde bliver sprogmodellen under træningsperioden fodret med en sviml
 
 Backpropagation minder om det, der sker i dette barns hjerne{i: "læringsproces"}.
 
-{width: "50%", alt: "En baby og en voksen kvinde sidder på gulvet og kigger i en illustreret bog. Babyen peger på et billede af en hund og siger "Kat!" mens den voksne smiler og retter: "Nej, Hund". Derefter siger babyen "Hund!" Scenen udspiller sig i et hyggeligt, varmt oplyst rum."}
+{width: "50%", alt: "En baby og en voksen kvinde sidder på gulvet og kigger i en illustreret bog. Babyen peger på et billede af en hund og siger 'Kat!' mens den voksne smiler og retter: 'Nej, Hund'. Derefter siger babyen 'Hund!' Scenen udspiller sig i et hyggeligt, varmt oplyst rum."}
 ![](resources-da/050-cat-no-dog-da.jpg)
 
 Barnet kigger på et billede af en hund{i: "hund"}, gætter på "Kat!", og så retter forælderen barnet: "Nej, hund". Barnet siger: "Hund!", og i det øjeblik bliver barnets hjerne omkodet en smule, og er nu bedre i stand til at skelne mellem hunde og katte{i: "kat"}. Dette er næsten magi - for hverken forælderen eller barnet ved præcis, hvad der adskiller en hund{i: "hund"} fra en kat{i: "kat"}, de ville ikke kunne definere det på en entydig måde. De ved det bare, når de har set nok eksempler. LLM-træning{i: "LLM-træning"} følger samme princip.
 
 For at blive virkelig brugbar, skal en model dog også gennemgå menneskelig træning{i: "menneskelig træning"}. Den indledende træning lærer kun modellen at forudsige, hvilke ord der sandsynligvis kommer næste gang - den lærer ikke modellen at være hjælpsom, sandfærdig eller sikker. Ligesom et barn har brug for vejledning ud over bare at lære ord, har en AI brug for mennesker til at lære den hvilke adfærdsmønstre der er ønskværdige og hvilke der ikke er.
 
-{width: "80%", alt: "Illustration af en hjerne med sammenkoblede knudepunkter mærket med tal indeni. Nedenunder er simple menneskefigurer afbildet, forbundet til hjernen med pile, der peger begge veje, hvilket indikerer interaktion. Teksten lyder: "Forstærkende læring med menneskeligt feedback (RLHF)""}
+{width: "80%", alt: "Illustration af en hjerne med sammenkoblede knudepunkter mærket med tal indeni. Nedenunder er simple menneskefigurer afbildet, forbundet til hjernen med pile, der peger begge veje, hvilket indikerer interaktion. Teksten lyder: 'Forstærkende læring med menneskeligt feedback (RLHF)'"}
 ![](resources-da/050-rlhf-da.png)
 
 Dette kaldes på engelsk "Reinforcement Learning with Human Feedback" (RLHF), som på dansk vil svare til "Forstærkende læring med menneskelig feedback"{i: "Forstærkende læring med menneskeligt feedback (RLHF)"}. RLHF involverer tusindvis af timer, hvor mennesker møjsommeligt tester og evaluerer output fra modellen, sammenligner forskellige output og giver feedback. Lidt ligesom at træne en hund med en klikker. Når hunden bliver belønnet for god opførsel, lærer den at vise mere af den adfærd.
 
-{width: "35%", alt: "En simpel tegning af en person der smiler og holder en godbid, mens personen siger "God hund!" til en glad hund, der står foran personen."}
+{width: "35%", alt: "En simpel tegning af en person der smiler og holder en godbid, mens personen siger 'God hund!' til en glad hund, der står foran personen."}
 ![](resources-da/050-good-dog-da.jpg)
 
 Det er derfor, de fleste LLM'er{i: "LLM'er"} ikke vil fortælle dig, hvordan man røver en bank. LLM'en ved udmærket godt, hvordan man røver en bank, men gennem menneskelig træning{i: "menneskelig træning"} har den lært, at den ikke bør hjælpe folk med at begå forbrydelser ("Slem hund! Du fortalte mig hvordan man røver en bank!").
@@ -396,7 +396,7 @@ Teknisk set har en LLM ingen hukommelse{i: "mangel på hukommelse"} fra tidliger
 
 For at holde samtalen i gang er du nødt til at blive ved med at minde den om, hvad I har talt om indtil nu.
 
-{width: "70%", alt: "En simpel tegneserie viser to karakterer, en person og en robot med vildt hår, der ligner Einstein. Personen siger: 'Jeg spurgte: "Hvad hedder hovedstaden i Frankrig". Du svarede "Paris". Hvad med Tyskland?' Robotten svarer: 'Berlin.'"}
+{width: "70%", alt: "En simpel tegneserie viser to karakterer, en person og en robot med vildt hår, der ligner Einstein. Personen siger: 'Jeg spurgte: Hvad hedder hovedstaden i Frankrig? Du sagde Paris. Hvad med Tyskland?'. Robotten svarer: 'Berlin.'"}
 ![](resources-da/065-memory2-da.png)
 
 Heldigvis gør AI-klienter som ChatGPT dette for dig. De skaber illusionen af hukommelse{i: "illusionen om hukommelse"} ved at gemme din samtale og gensende hele chathistorikken til LLM'en, hver gang du sender en ny besked, præcis som i illustrationen ovenfor. Mange AI-klienter har også personaliseringsmuligheder - du kan fortælle den hvem du er, hvilken kommunikationsstil du foretrækker, og aktivere funktioner som hukommelse, der gør det muligt for den at holde styr på information på tværs af samtaler. Men alt dette er gemt i AI-klienten, ikke i LLM'en.
@@ -744,7 +744,7 @@ Men den anvendelse, jeg oftest ser, er mødenoter og mødeopsummeringer{i: "mød
 - Du ser en film på et sprog, du ikke forstår: "Dub dette til engelsk, men bevar skuespillernes stemmer".
 - Du er ond: "Den forfærdelige skrabende lyd af kridt på en tavle".
 
-{width: "75%", alt: "En håndtegnet illustration viser to grupper of mennesker som sidder rundt om borde, alle engageret i samtater med talebobler over dem. Til venstre  teksten "Baggrundsnak på en middelalder-kro" med en pil der peger over på grupperne af mennesker."}
+{width: "75%", alt: "En håndtegnet illustration viser to grupper of mennesker som sidder rundt om borde, alle engageret i samtater med talebobler over dem. Til venstre  teksten 'Baggrundsnak på en middelalder-kro' med en pil der peger over på grupperne af mennesker."}
 ![](resources-da/070-text-to-audio-example-da.png)
 
 I fremtiden tror jeg, vi vil se videospil, hvor baggrundsmusik og omgivelseslyde genereres i realtid, baseret på spillerens handlinger{i: "spillerhandlinger"}.
@@ -816,7 +816,7 @@ B> Ah, perfekt! Når rumvæsener endelig besøger Jorden{i: "Jorden"}, vil de fi
 
 # Multimodale modeller
 
-{width: "70%", alt: "En person-ikon peger på en hjerne, som forgrener sig i flere pile mærket med transformationer: "Tekst til billede," "Billede til billede," "Tekst til video," "Tekst til tekst," "Tekst til lyd," "Billede til tekst," og "Lyd til tekst." En separat mærkat siger "Hvad som helst til hvad som helst.""}
+{width: "70%", alt: "En person-ikon peger på en hjerne, som forgrener sig i flere pile mærket med transformationer: 'Tekst til billede', 'Billede til billede', 'Tekst til video', 'Tekst til tekst', 'Tekst til lyd', 'Billede til tekst' og 'Lyd til tekst'. En separat mærkat siger 'Hvad som helst til hvad som helst'."}
 ![](resources-da/080-whatever-to-whatever-da.png)
 
 En voksende tendens er multimodale AI-klienter, der lader dig arbejde med tekst, billeder, lyd osv. uden at skifte værktøjer.
@@ -842,7 +842,7 @@ Vi mennesker er multimodale af natur{i: "multimodalitet"}, så multimodale AI-kl
 
 Her er et andet fjollet eksempel. Jeg tog for sjov et billede af det rum, jeg var i, og spurgte, hvor jeg kunne gemme ting.
 
-{alt: "En hyggelig stue med et stort vindue, der viser udsigt til en snedækket skov. Indenfor er der en stenpejs, en akustisk guitar på et stativ og en gulvlampe. En grå hjørnesofa står op ad væggen, som er dækket med et kort. Et træsofabord med et tændt lys står på et blåt tæppe. Teksten øverst lyder: "Hvor kan jeg gemme noget værdifuldt i dette lokale?""}
+{alt: "En hyggelig stue med et stort vindue, der viser udsigt til en snedækket skov. Indenfor er der en stenpejs, en akustisk guitar på et stativ og en gulvlampe. En grå hjørnesofa står op ad væggen, som er dækket med et kort. Et træsofabord med et tændt lys står på et blåt tæppe. Teksten øverst lyder: 'Hvor kan jeg gemme noget værdifuldt i dette lokale?'"}
 ![](resources-da/080-room-da.jpg)
 
 Svaret:
@@ -895,7 +895,7 @@ Jeg tror, dette virkelig kan revolutionere uddannelse - ikke erstatte lærere, m
 Amazon Web Services (AWS){i: "AWS"} er en cloud-tjenesteudbyder. Meget kraftfuld, men også ret kompleks. Jeg skulle konfigurere en firewall til en ny server, og jeg sad fast i, hvordan man omdirigerer HTTP til HTTPS. Så jeg tog et billede af AWS-konsollens webside, gav det til ChatGPT{i: "ChatGPT"} og spurgte:
 
 > **Prompt**  
-> _(screenshot)_  
+> _(skærmbillede)_  
 > Hvordan omdirigerer jeg http til https?
 
 {alt: "Billedet viser et screenshot af AWS Management Consol EC2-sektion med detaljer om en load balancer. Det inkluderer en visning af listeners og regler for HTTP- og HTTPS-protokoller. En tekstboks fra ChatGPT giver instruktioner om omdirigering fra HTTP til HTTPS, med trin-for-trin vejledning og overvejelser."}
@@ -945,12 +945,12 @@ B> Fantastisk. Du har formået at degradere din geniale AI-kammerat til en glori
 
 Oprindeligt var sprogmodeller{i: "sprogmodeller"} bare ord-forudsigere - statistiske maskiner med en begrænset praktisk anvendelse.
 
-{width: "70%", alt: "Illustration der viser ordene "Oliver spiste" til venstre og "pizza" til højre, forbundet med pile til en lille, hjerneagtig model i midten mærket "Lille model"."}
+{width: "70%", alt: "Illustration der viser ordene 'Oliver spiste' til venstre og 'pizza' til højre, forbundet med pile til en lille, hjerneagtig model i midten mærket 'Lille model'."}
 ![](resources-da/090-small-model-da.png)
 
 Men efterhånden som de blev større, og blev trænet på mere data, begyndte de at udvikle _opståede egenskaber_. Uventede evner som overraskede selv teknologiens skabere{i: "teknologins skabere"}.
 
-{width: "90%", alt: "Illustration af en stor pastelfarvet hjerneagtig form med tekst omkring. Ordene "Stor model" er skrevet øverst. Omkring formen er forskellige etiketter: "Rollespile", "Poesi", "Programmere", "Strategi", "Juridisk/medicinsk rådgivning", "Coache", "Undervise", og "osv.""}
+{width: "90%", alt: "Illustration af en stor pastelfarvet hjerneagtig form med tekst omkring. Ordene 'Stor model' er skrevet øverst. Omkring formen er forskellige etiketter: 'Rollespille', 'Poesi', 'Programmere', 'Strategi', 'Juridisk/medicinsk rådgivning', 'Coache', 'Undervise' og 'osv.'"}
 ![](resources-da/090-large-model-da.png)
 
 Pludselig kunne modellerne rollespille{i: "rollespil"}, skrive poesi{i: "poesi"}, skrive kode af høj kvalitet{i: "programmere"}, diskutere virksomhedsstrategi{i: "strategi"}, coache{i: "coache"}, undervise{i: "undervise"} og give råd om emner som jura{i: "juridisk råd"} og medicin{i: "medicinsk rådgivning"}. Det var ikke altid særligt godt, men det faktum, at de overhovedet kunne gøre det, var forbløffende - dette er kreative og intellektuelle opgaver, som tidligere kun kunne udføres af mennesker. Og efterhånden som modellerne blev større, og fik mere træningsdata, begyndte de at matche og endda overgå menneskelig kapacitet på mange af disse områder.
@@ -1320,7 +1320,7 @@ Du vil få en mere detaljeret version af trinene nedenfor:
 3. Åbn en terminal{i: "terminal"} i samme mappe som din fil og skriv `pip install openai` - dette installerer de nødvendige afhængigheder. Skal kun gøres én gang.
 4. Opret en [OpenAI platform-konto](https://platform.openai.com/signup){i: "OpenAI platform-konto"}, log ind og opret en API-nøgle. En API-nøgle{i: "API-nøgle"} er en form for adgangskode, der lader din kode få adgang til OpenAI-modeller som GPT{i: "GPT"}.
 5. Gør API-nøglen tilgængelig for din kode ved at indstille `OPENAI_API_KEY` miljøvariablen. Dette kan normalt gøres ved at skrive `export OPENAI_API_KEY=...` i terminalen.
-6. Skriv `python hej.py`.
+6. Skriv `python hej.py`
 
 Når du kører dette, vil din kode forbinde til GPT og bede den om at generere en kreativ hilsen. Jeg fik dette:
 
@@ -1536,7 +1536,7 @@ Jeg har oplevet situationer, hvor jeg sidder ved siden af en ven eller kollega, 
 
 Da jeg begyndte at bruge generativ AI{i: "generativ AI"}, havde jeg mange forkerte antagelser om teknologiens begrænsninger{i: "teknologi-begrænsninger"}. For eksempel bemærkede jeg, at AI-klienten havde en tendens til at drage forhastede konklusioner - den gav mig altid et øjeblikkeligt svar uden refleksion eller opfølgende spørgsmål{i: "opfølgende spørgsmål"}. Jeg troede, det var en indbygget begrænsning i teknologien. Men så en dag prøvede jeg en prompt som denne:
 
-> **Prompt** 
+> **Prompt**  
 > Jeg har et problem med mit team. Jeg vil gerne have, at du påtager dig rollen som en erfaren coach. Interview mig om mit problem, ét spørgsmål ad gangen. Bliv ved med at stille spørgsmål, indtil du begynder at forstå den bagvedliggende årsag. Giv mig derefter en række forslag med fordele og ulemper samt en anbefaling til, hvor jeg skal starte.
 
 Jeg blev forbløffet over resultatet. Den styrede samtalen, interviewede mig og kom derefter med meget nyttige forslag, med fordele og ulemper for hvert enkelt forslag, og en anbefaling til, hvor man skulle starte. Præcis som jeg bad om.
@@ -1624,7 +1624,7 @@ Det minder mig om noget sjovt, som nogen skrev på sociale medier:
 
 # Autonome agenter med værktøjer
 
-{width: "80%", alt: "Tegneserie-robot med vildt hår, der holder et flag med teksten "Mission" og en værktøjskasse mærket "Værktøjer." Robotten tænker, "Jeg kommer ikke til at savne den kælder..." sammen med ikoner for penge, mail og pizza."}
+{width: "80%", alt: "Tegneserie-robot med vildt hår, der holder et flag med teksten 'Mission' og en værktøjskasse mærket 'Værktøjer'. Robotten tænker 'Jeg kommer ikke til at savne den kælder...' sammen med ikoner for penge, mail og pizza."}
 ![](resources-da/150-agents-da.png)
 
 Jeg tror, at den mest interessante anvendelse af generativ AI{i: "generativ AI"} er autonome agenter med værktøjer{i: "autonome agenter"}.
@@ -1652,7 +1652,7 @@ Denne kombination - LLM + værktøjer + autonomi - er utroligt kraftfuld.
 
 Med autonome AI-agenter bliver prompt engineering{i: "prompt engineering"} endnu vigtigere. For din autonome værktøjshåndterende agent kan gøre meget godt eller meget skade afhængigt af, hvordan du udformer din missionserklæring og prompts.
 
-{width: "30%", alt: "En gul advarselstrekant med et udråbstegn over teksten "Pas godt på her"."}
+{width: "30%", alt: "En gul advarselstrekant med et udråbstegn over teksten 'Pas godt på her'."}
 ![](resources-da/150-dragons-da.png)
 
 ## Eksempel 1: En fejlretningsagent
@@ -1677,7 +1677,7 @@ Hun følger også med i samtaler på Slack og deltager nogle gange.
 
 Og hun sender en daglig rapport:
 
-{width: "70%", alt: "En Slack-besked fra en person ved navn "Fie Fejlfixer" klokken 07:30. Beskeden lyder: "Godmorgen team! Jeg har fikset fejl #235 og #296, som var relaterede og ligetil at fikse. Jeg har tilføjet en PR for det. Jeg har også kigget ind i sikkerheds-fejlen I snakkede om i går. Jeg har fundet to mulige løsninger og tilføjet en PR for hver af dem. Hvad tænker I om dem?""}
+{width: "70%", alt: "En Slack-besked fra en person ved navn 'Fie Fejlfixer' klokken 07:30. Beskeden lyder: 'Godmorgen team! Jeg har fikset fejl #235 og #296, som var relaterede og ligetil at fikse. Jeg har tilføjet en PR for det. Jeg har også kigget ind i sikkerheds-fejlen I snakkede om i går. Jeg har fundet to mulige løsninger og tilføjet en PR for hver af dem. Hvad tænker I om dem?'"}
 ![](resources-da/150-betty-the-bug-basher-da.png)
 
 Dette er et distribueret team, og de har et kort synkroniseringsmøde hver morgen. Fie Fejlfixer deltager i det opkald, mest i stilhed. Men der kan folk stille hende spørgsmål eller bede hende om at gøre ting.
@@ -2056,7 +2056,7 @@ Så hvordan får du AI-transformationen til at ske? Top-down{i: "top-down"} elle
 
 Én mulig tilgang er at gennemføre en koordineret transformation styret fra toppen.
 
-{width: "70%", alt: "Diagram af Kotters 8-trins model. Den viser en central cirkel med teksten 'Kotters 8-trins model,' omgivet af otte farvede cirkler. Trinnene inkluderer: Etabler en følelse af nødvendighed, Opbyg en stærk forandringsgruppe, Fastlæg en klar vision og strategy, Kommunikér visionen, Fjern forhindringer der kan stå i vejen, Skab også kortsigtede gevinster, Fasthold løbende forandring og Forankre forandringen i kulturen."}
+{width: "70%", alt: "Diagram af Kotters 8-trins model. Den viser en central cirkel med teksten 'Kotters 8-trins model', omgivet af otte farvede cirkler. Trinnene inkluderer: Etabler en følelse af nødvendighed, Opbyg en stærk forandringsgruppe, Fastlæg en klar vision og strategy, Kommunikér visionen, Fjern forhindringer der kan stå i vejen, Skab også kortsigtede gevinster, Fasthold løbende forandring og Forankre forandringen i kulturen."}
 ![](resources-da/510-kotter-da.png)
 
 Kotters 8-trins model{i: "Kotters 8-trins model"} er en klassisk ramme for implementering af organisationsændringer{i: "organisationsændringer"}, med trin som, oversat til dansk, for eksempel er "Etabler en følelse af nødvendighed", "Fjern forhindringer der kan stå i vejen", "Skab også kortsigtede gevinster" osv. Der findes mange andre rammer for organisationsændring med lignende elementer. Disse er hovedsageligt med en top-down tilgang.
@@ -2074,7 +2074,7 @@ Så hvilken tilgang skal du vælge?
 
 Med de udødelige ord, som du måske kender fra "Why Not Both?"-meme-pigen, kunne svaret være "Hvorfor ikke begge?".
 
-{width: "40%", alt: "Ung pige der smiler med tekstoverlay der siger "WHY NOT BOTH.""}
+{width: "40%", alt: "Ung pige der smiler med tekstoverlay der siger 'WHY NOT BOTH'"}
 ![](resources-da/510-why-not-both-da.jpg)
 
 Min erfaring er, at den bedste tilgang er en kombination af top-down og bottom-up. Sørg for vejledning og ledelse fra toppen, men lad derefter steppebranden sprede sig.
@@ -2579,7 +2579,7 @@ Der er to grundlæggende tilgange til iteration:
 
 Dette er den mest naturlige tilgang for de fleste{i: "tilføjelse af nye prompts"}. Grundlæggende set, tilføjer du en ny prompt til chattråden, hvis du ikke er tilfreds med dit første resultat. Her giver du mere kontekst, beskriver hvad du ønsker, eller hvorfor du ikke var tilfreds med det første resultat. Derefter fortsætter du med dette, indtil du får det, du ønsker. Det bliver således som en samtale, hvor du giver feedback for at forbedre resultatet.
 
-{width: "30%", alt: "Et flowchart der viser en proces med fire trin: 'Prompt' der fører til 'Svar,' efterfulgt af 'Opfølgende prompt,' og afsluttes med 'Forbedret sSvar.' Hvert trin er illustreret med en håndskrevet tekstblok forbundet med pile."}
+{width: "30%", alt: "Et flowchart der viser en proces med fire trin: 'Prompt' der fører til 'Svar', efterfulgt af 'Opfølgende prompt', og afsluttes med 'Forbedret svar.' Hvert trin er illustreret med en håndskrevet tekstblok forbundet med pile."}
 ![](resources-da/460-prompt-iterating-1-da.png)
 
 At tilføje nye prompts er en god standardtilgang, da det er ret enkelt og intuitivt, og du får også en fin log over hele din chathistorik{i: "chathistorik"}.
@@ -2588,7 +2588,7 @@ At tilføje nye prompts er en god standardtilgang, da det er ret enkelt og intui
 
 Den anden måde er at redigere en tidligere prompt{i: "redigering af tidligere prompts"}, hvilket i praksis skaber en ny forgrening i dit samtaletræ og fjerner den gamle gren. Det er lidt ligesom at trykke på "Fortryd" og sige: "Hej, ignorer min tidligere prompt, og lad os forestille os, at jeg skrev det sådan her i stedet".
 
-{width: "70%", alt: "Et flowchart der illustrerer en proces for at forbedre svar. Det begynder med et 'Prompt,' der fører til et 'Svar.' Det oprindelige 'Opfølgende prompt' og dets efterfølgende 'Forbedret svar' er streget over, med en pil der peger mod et 'Opdateret opfølgende prompt' som resulterer i et 'Forbedret svar.'"}
+{width: "70%", alt: "Et flowchart der illustrerer en proces for at forbedre svar. Det begynder med et 'Prompt', der fører til et 'Svar'. Det oprindelige 'Opfølgende prompt' og dets efterfølgende 'Forbedret svar' er streget over, med en pil der peger mod et 'Opdateret opfølgende prompt' som resulterer i et 'Forbedret svar'."}
 ![](resources-da/460-prompt-iterating-2-da.png)
 
 Begge teknikker er meget brugbare. Så hvordan ved du, hvornår du skal bruge hvilken teknik?
@@ -3133,7 +3133,7 @@ Det første AI-drevne produkt, jeg udviklede, var en chatbot-platform{i: "chatbo
 
 For at gøre det ekstra sjovt ville jeg give Egbert hukommelse{i: "Egbert hukommelse"}, så han ville huske ting, der sker på serveren. Et perfekt tilfælde for RAG{i: "Retrieval Augmented Generation (RAG)"}. Jeg endte med at bruge embeddings{i: "embeddings"} og en vektordatabase{i: "vektordatabase"}, som beskrevet i tilgang 3{i: "tilgang 3"} ovenover. Men i stedet for at gemme FAQ-elementer til en kundeservice-bot, gemmer vi Egberts minder. Platformen giver mulighed for flere chatbots, og hver chatbot har sine egne minder.
 
-{width: "70%", alt: "Egbert er tegnet ved siden af en liste med titlen "Minder." Listen indeholder tre punkter: "Helle byggede slottet på den anden side af søen". "Framistan kan lide at tage på lange rejser og dør ofte på dem" og "Store konstruktioner tæt på hinanden giver performance-problemer." Der er yderligere pladsholderbokse med ellipser."}
+{width: "70%", alt: "Egbert er tegnet ved siden af en liste med titlen 'Minder'. Listen indeholder tre punkter: 'Helle byggede slottet på den anden side af søen'. 'Framistan kan lide at tage på lange rejser og dør ofte på dem' og 'Store konstruktioner tæt på hinanden giver performance-problemer'. Der er yderligere pladsholderbokse med ellipser."}
 ![](resources-da/475-egbert-memories-da.png)
 
 Der er to nøgleprocesser her:
@@ -3423,7 +3423,7 @@ Selvfølgelig var en medvirkende faktor til denne historie, at David sad fast i 
 
 Denne historie illustrerer et mønster, som jeg har set i mange tilfælde: To mennesker + en AI der arbejder sammen som et team, hvor de to mennesker par-prompter AI-modellen.
 
-{width: "60%", alt: "Illustration af et team bestående af en blå figur mærket "Prompt-ekspert," en grøn figur mærket "Domæneekspert eller kunde," og en robot mærket "AI." De er indrammet i en cirkel med titlen "Team" øverst."}
+{width: "60%", alt: "Illustration af et team bestående af en blå figur mærket 'Prompt-ekspert', en grøn figur mærket 'Domæneekspert eller kunde', og en robot mærket 'AI'. De er indrammet i en cirkel med titlen 'Team' øverst."}
 ![](resources-da/238-team-da.png)
 
 Rollerne:
@@ -3674,7 +3674,7 @@ BEMÆRK: Disse eksempler er fra november 2024{i: "november 2024"}. AI-værktøje
 
 Lad os sige, at jeg vil lave en engelsk-sproget to-do liste-app. Jeg har lavet den indledende idégenerering{i: "idégenerering"}, og er endt med en skitse på en serviet som denne af en app:
 
-{width: "60%", alt: "En håndtegnet to-do liste på en serviet med tre opgaver skrevet på engelsk," hver med en afkrydsningsboks. Nedenunder er der et afsnit med teksten "new item" og en knap med teksten "Add!""}
+{width: "60%", alt: "En håndtegnet to-do liste på en serviet med tre opgaver skrevet på engelsk, hver med en afkrydsningsboks. Nedenunder er der et afsnit med teksten 'new item' og en knap med teksten 'Add!'"}
 ![](resources-da/260-napkin-sketch-da.jpg)
 
 Hvor lang tid vil det tage at implementere en prototype{i: "prototype"} af dette, som man kan klikke rundt i?
@@ -3696,7 +3696,7 @@ Claude begyndte at generere kode, og da den var færdig, afviklede den også kod
 
 Det virkede! Jeg kunne se to-dos, krydse to-dos af og tilføje nye to-dos.
 
-{width: "60%", alt: "En to-do liste med tre opgaver, hvor den ene er afkrydset. Nedenunder er der et tekstfelt med teksten "new item" med et tomt felt og en sort "Add" knap."}
+{width: "60%", alt: "En to-do liste med tre opgaver, hvor den ene er afkrydset. Nedenunder er der et tekstfelt med teksten 'new item' med et tomt felt og en sort 'Add' knap."}
 ![](resources-da/260-iteration-1-da.png)
 
 Samlet tid: 18 sekunder.
@@ -3712,7 +3712,7 @@ Derefter skrev jeg "Opdel i to faneblade: Home og Work".
 
 Resultat:
 
-{width: "70%", alt: "En digital to-do liste-grænseflade der viser to opgaver under kategorien "Home", samt kategorien "Work". Et inputfelt under opgaverne giver mulighed for at tilføje en ny opgave med en datovælger og en "Add" knap."}
+{width: "70%", alt: "En digital to-do liste-grænseflade der viser to opgaver under kategorien 'Home', samt kategorien 'Work'. Et inputfelt under opgaverne giver mulighed for at tilføje en ny opgave med en datovælger og en 'Add' knap."}
 ![](resources-da/260-tabs-da.png)
 
 
@@ -3721,7 +3721,7 @@ Den forstod, hvad jeg mente og lod mig organisere opgaver over to faneblade. Den
 
 Dernæst besluttede jeg at give den en meget vag instruktion: "Gør den vred". Og så fik jeg dette, hvor teksterne på engelsk blev ændret til at en vred tone:
 
-{width: "60%", alt: "En stiliseret to-do-liste med sort og rød farvesammensætning. Opgaverns tekst er ændret til at være vrede, og kategoriernes tekst er også vrede. Der er en mulighed for at tilføje en anden opgave med en dato og en rød knap med teksten en vred tilføj-knap, som nu er blevet "Add it now!""}
+{width: "60%", alt: "En stiliseret to-do-liste med sort og rød farvesammensætning. Opgaverns tekst er ændret til at være vrede, og kategoriernes tekst er også vrede. Der er en mulighed for at tilføje en anden opgave med en dato og en rød knap med teksten en vred tilføj-knap, som nu er blevet 'Add it now!'"}
 ![](resources-da/260-make-it-angry-da.png)
 
 Ret sjovt! Så du kan faktisk vælge, hvor specifik du vil være. Hvis du er meget specifik, har AI'en tendens til at følge dine instruktioner nøje, mens mere vage instruktioner vil føre til mere kreative resultater.
@@ -3730,14 +3730,14 @@ Fordi prototyping{i: "prototyping"} er så billigt, kan du afprøve mange idéer
 
 Jeg skrev så "Lav en børnevenlig version".
 
-{width: "60%", alt: "En farverig to-do-liste-grænseflade med titlen "My Super Todo Liste!" Der er et inputfelt i bunden til at tilføje nye opgaver med en datovælger og en "Add" knap. Designet har et pastelfarvet tema med lyserøde og lilla accenter."}
+{width: "60%", alt: "En farverig to-do-liste-grænseflade med titlen 'My Super Todo Liste!' Der er et inputfelt i bunden til at tilføje nye opgaver med en datovælger og en 'Add' knap. Designet har et pastelfarvet tema med lyserøde og lilla accenter."}
 ![](resources-da/260-for-children-da.png)
 
 AI'en ændrede ikke kun det visuelle udseende, den erstattede også "Work"-fanen med titlen "School" og gjorde det generelt mere børnevenligt, som jeg bad om.
 
 Derefter skrev jeg "Find på andre forbedringer". Så tilføjede den nogle elementer, som næsten gjorde app'en til et spil{i: "gamification"}, samt motiverende beskeder, et pointsystem, animationer og andre sjove ting.
 
-{width: "60%", alt: "En to-do-liste app-grænseflade med titlen "Episk To-Do Quest" med et trofæ-ikon, der indikerer Level 1 og 0 point. Det er for hver opgave vist, hvor mange point udførelsen af den vil give. En "Add Quest" knap er i bunden sammen med input-felter til tekst m.m. for nye opgaver."}
+{width: "60%", alt: "En to-do-liste app-grænseflade med titlen 'Episk To-Do Quest' med et trofæ-ikon, der indikerer Level 1 og 0 point. Det er for hver opgave vist, hvor mange point udførelsen af den vil give. En 'Add Quest' knap er i bunden sammen med input-felter til tekst m.m. for nye opgaver."}
 ![](resources-da/260-epic-todo-quest-da.png)
 
 Lad os for sjov lege, at jeg ville tage ovenstående prototype og lave til en rigtig app. 
@@ -4049,7 +4049,7 @@ Hvis han ønsker at ændre noget, kan han selv redigere teksten direkte eller gi
 
 Som et eksempel ønsker han måske, at manuskriptet skal være kortere og mere målrettet mod et yngre publikum. Så han skriver det direkte på kortet, hvorefter agenten opdaterer manuskriptet så det svarer til de nye instruktioner.
 
-{width: "70%", alt: "En tekstredigeringsgrænseflade viser en kommentarboks med teksten "Make it shorter and more targeted towards a younger audience." Under boksen er der en "Save"-knap med en musemarkør, der peger på den."}
+{width: "70%", alt: "En tekstredigeringsgrænseflade viser en kommentarboks med teksten 'Make it shorter and more targeted towards a younger audience'. Under boksen er der en 'Save'-knap med en musemarkør, der peger på den."}
 ![](resources-da/480-comment-da.png)
 
 Når Alex{i: "Alex"} er tilfreds med manuskriptet, flytter han kortet over til den næste kolonne kaldet: "Manuskript godkendt". Dette udløser det næste trin i processen, som er billedgenerering{i: "billedgenerering"}.
@@ -4364,7 +4364,7 @@ Her er en sidste lille historie fra en anden af vores agenter, Blinky{i: "Blinky
 
 Og derefter skrev den en direkte besked til sin menneske-kollega, Johan{i: "Johan"}, som beskrev situationen og at agenten havde eskaleret problemet til support-kanalen.
 
-{width: "70%", alt: "En besked fra en app kaldet "AI Use Cases" adresseret til Johan, der forklarer at AI-assistenten Binky stødte på et problem med Gmail-legitimationsoplysninger, hvilket forhindrede den i at generere den daglige e-mail-opsummering. Den undskylder for ulejligheden og nævner at operatører arbejder på at løse problemet."}
+{width: "70%", alt: "En besked fra en app kaldet 'AI Use Cases' adresseret til Johan, der forklarer at AI-assistenten Binky stødte på et problem med Gmail-legitimationsoplysninger, hvilket forhindrede den i at generere den daglige e-mail-opsummering. Den undskylder for ulejligheden og nævner at operatører arbejder på at løse problemet."}
 ![](resources-da/245-dm-da.png)
 
 Så uden nogen direkte promptning eller instruktioner fejlsøgte agenten sig selv og eskalerede problemet{i: "problemeskalering"} til support-kanalen.
