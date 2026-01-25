@@ -816,7 +816,7 @@ B> Ah, perfekt! Når rumvæsener endelig besøger Jorden{i: "Jorden"}, vil de fi
 
 # Multimodale modeller
 
-{width: "70%", alt: "En person-ikon peger på en hjerne, som forgrener sig i flere pile mærket med transformationer: 'Tekst til billede', 'Billede til billede', 'Tekst til video', 'Tekst til tekst', 'Tekst til lyd', 'Billede til tekst', og 'Lyd til tekst'. En separat mærkat siger 'Hvad som helst til hvad som helst'."}
+{width: "70%", alt: "En person-ikon peger på en hjerne, som forgrener sig i flere pile mærket med transformationer: 'Tekst til billede', 'Billede til billede', 'Tekst til video', 'Tekst til tekst', 'Tekst til lyd', 'Billede til tekst' og 'Lyd til tekst'. En separat mærkat siger 'Hvad som helst til hvad som helst'."}
 ![](resources-da/080-whatever-to-whatever-da.png)
 
 En voksende tendens er multimodale AI-klienter, der lader dig arbejde med tekst, billeder, lyd osv. uden at skifte værktøjer.
@@ -950,7 +950,7 @@ Oprindeligt var sprogmodeller{i: "sprogmodeller"} bare ord-forudsigere - statist
 
 Men efterhånden som de blev større, og blev trænet på mere data, begyndte de at udvikle _opståede egenskaber_. Uventede evner som overraskede selv teknologiens skabere{i: "teknologins skabere"}.
 
-{width: "90%", alt: "Illustration af en stor pastelfarvet hjerneagtig form med tekst omkring. Ordene 'Stor model' er skrevet øverst. Omkring formen er forskellige etiketter: 'Rollespille', 'Poesi', 'Programmere', 'Strategi', 'Juridisk/medicinsk rådgivning', 'Coache', 'Undervise', og 'osv.'"}
+{width: "90%", alt: "Illustration af en stor pastelfarvet hjerneagtig form med tekst omkring. Ordene 'Stor model' er skrevet øverst. Omkring formen er forskellige etiketter: 'Rollespille', 'Poesi', 'Programmere', 'Strategi', 'Juridisk/medicinsk rådgivning', 'Coache', 'Undervise' og 'osv.'"}
 ![](resources-da/090-large-model-da.png)
 
 Pludselig kunne modellerne rollespille{i: "rollespil"}, skrive poesi{i: "poesi"}, skrive kode af høj kvalitet{i: "programmere"}, diskutere virksomhedsstrategi{i: "strategi"}, coache{i: "coache"}, undervise{i: "undervise"} og give råd om emner som jura{i: "juridisk råd"} og medicin{i: "medicinsk rådgivning"}. Det var ikke altid særligt godt, men det faktum, at de overhovedet kunne gøre det, var forbløffende - dette er kreative og intellektuelle opgaver, som tidligere kun kunne udføres af mennesker. Og efterhånden som modellerne blev større, og fik mere træningsdata, begyndte de at matche og endda overgå menneskelig kapacitet på mange af disse områder.
@@ -1677,7 +1677,7 @@ Hun følger også med i samtaler på Slack og deltager nogle gange.
 
 Og hun sender en daglig rapport:
 
-{width: "70%", alt: "En Slack-besked fra en person ved navn 'Fie Fejlfixer' klokken 07:30. Beskeden lyder: "'Godmorgen team! Jeg har fikset fejl #235 og #296, som var relaterede og ligetil at fikse. Jeg har tilføjet en PR for det. Jeg har også kigget ind i sikkerheds-fejlen I snakkede om i går. Jeg har fundet to mulige løsninger og tilføjet en PR for hver af dem. Hvad tænker I om dem?'"}
+{width: "70%", alt: "En Slack-besked fra en person ved navn 'Fie Fejlfixer' klokken 07:30. Beskeden lyder: 'Godmorgen team! Jeg har fikset fejl #235 og #296, som var relaterede og ligetil at fikse. Jeg har tilføjet en PR for det. Jeg har også kigget ind i sikkerheds-fejlen I snakkede om i går. Jeg har fundet to mulige løsninger og tilføjet en PR for hver af dem. Hvad tænker I om dem?'"}
 ![](resources-da/150-betty-the-bug-basher-da.png)
 
 Dette er et distribueret team, og de har et kort synkroniseringsmøde hver morgen. Fie Fejlfixer deltager i det opkald, mest i stilhed. Men der kan folk stille hende spørgsmål eller bede hende om at gøre ting.
@@ -2579,7 +2579,7 @@ Der er to grundlæggende tilgange til iteration:
 
 Dette er den mest naturlige tilgang for de fleste{i: "tilføjelse af nye prompts"}. Grundlæggende set, tilføjer du en ny prompt til chattråden, hvis du ikke er tilfreds med dit første resultat. Her giver du mere kontekst, beskriver hvad du ønsker, eller hvorfor du ikke var tilfreds med det første resultat. Derefter fortsætter du med dette, indtil du får det, du ønsker. Det bliver således som en samtale, hvor du giver feedback for at forbedre resultatet.
 
-{width: "30%", alt: "Et flowchart der viser en proces med fire trin: 'Prompt' der fører til 'Svar,' efterfulgt af 'Opfølgende prompt', og afsluttes med 'Forbedret svar.' Hvert trin er illustreret med en håndskrevet tekstblok forbundet med pile."}
+{width: "30%", alt: "Et flowchart der viser en proces med fire trin: 'Prompt' der fører til 'Svar', efterfulgt af 'Opfølgende prompt', og afsluttes med 'Forbedret svar.' Hvert trin er illustreret med en håndskrevet tekstblok forbundet med pile."}
 ![](resources-da/460-prompt-iterating-1-da.png)
 
 At tilføje nye prompts er en god standardtilgang, da det er ret enkelt og intuitivt, og du får også en fin log over hele din chathistorik{i: "chathistorik"}.
@@ -2588,7 +2588,7 @@ At tilføje nye prompts er en god standardtilgang, da det er ret enkelt og intui
 
 Den anden måde er at redigere en tidligere prompt{i: "redigering af tidligere prompts"}, hvilket i praksis skaber en ny forgrening i dit samtaletræ og fjerner den gamle gren. Det er lidt ligesom at trykke på "Fortryd" og sige: "Hej, ignorer min tidligere prompt, og lad os forestille os, at jeg skrev det sådan her i stedet".
 
-{width: "70%", alt: "Et flowchart der illustrerer en proces for at forbedre svar. Det begynder med et 'Prompt', der fører til et 'Svar'. Det oprindelige 'Opfølgende prompt' og dets efterfølgende 'Forbedret svar' er streget over, med en pil der peger mod et 'Opdateret opfølgende prompt' som resulterer i et 'Forbedret svar.'"}
+{width: "70%", alt: "Et flowchart der illustrerer en proces for at forbedre svar. Det begynder med et 'Prompt', der fører til et 'Svar'. Det oprindelige 'Opfølgende prompt' og dets efterfølgende 'Forbedret svar' er streget over, med en pil der peger mod et 'Opdateret opfølgende prompt' som resulterer i et 'Forbedret svar'."}
 ![](resources-da/460-prompt-iterating-2-da.png)
 
 Begge teknikker er meget brugbare. Så hvordan ved du, hvornår du skal bruge hvilken teknik?
