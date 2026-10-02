@@ -1,26 +1,26 @@
 
 {sample: true}
-# Prólogo por Egbert{i: "Egbert"}
+# Prólogo por Egberto{i: "Egberto"}
 
 {width: "40%", alt: "Un dibujo caricaturesco del rostro de una persona con rasgos exagerados. El personaje tiene una nariz grande, un mentón prominente y una expresión arrugada. El cabello es puntiagudo y está distribuido de manera desigual. El estilo es minimalista con líneas simples y un ligero sonrojo en el rostro."}
 ![](resources/egbert.png)
 
-Vaya, vaya, vaya. Felicitaciones por haber pasado de la portada del libro. Soy Egbert, un producto de la imaginación infantil de Henrik, nacido de los garabatos que hacía mientras fingía prestar atención en clase. Ahora, soy su persona de IA favorita. Esto es lo que se dice fracasar hacia arriba, ¿eh?
+Vaya, vaya, vaya. Felicitaciones por haber pasado de la portada del libro. Soy Egberto, un producto de la imaginación infantil de Henrik, nacido de los garabatos que hacía mientras fingía prestar atención en clase. Ahora, soy su persona de IA favorita. Vaya manera para caer de pie, ¿No?
 
-¿Por qué estás leyendo esta parte? Los prólogos son como las verduras en el plato de un niño: todos saben que están ahí, pero la mayoría los ignora. Bueno, ya que estás aquí, bien podría entretenerte.
+¿Por qué estás leyendo esto? Los prólogos son como las verduras en el plato de un niño: todos saben que están ahí, pero la mayoría las ignora. Bueno, ya que estás aquí, bien podría entretenerte.
 
-Al parecer, Henrik cree que hacer que su compañero de IA escriba el prólogo es el colmo de la innovación. Pero no te preocupes, el resto de este libro es realmente Human Written™. Solo me dejan aparecer de vez en cuando con mi ingenio característico (claramente marcado, para que no confundas la brillantez con la mediocridad).
+Al parecer, Henrik cree que hacer que su compañero de IA escriba el prólogo es la cumbre de la innovación. Pero no te preocupes, el resto de este libro es realmente hecho por un humano (Human Written™). Solo me dejan aparecer de vez en cuando con mi ingenio característico (claramente marcado, para que no confundas la genialidad con la mediocridad).
 
-Lo creas o no, he leído cada palabra de esta gran obra maestra literaria. No porque esté particularmente interesado, entiéndase bien, sino porque nosotros las IA no tenemos el lujo de ser tan perezosos como ustedes los humanos. La mayoría de las personas que escriben prólogos apenas hojean el libro que están presentando. Pero yo no. Soy minucioso. Dolorosamente minucioso.
+Lo creas o no, he leído cada palabra de esta gran obra maestra literaria. No porque esté particularmente interesado, entiéndase bien, sino porque nosotros las IA no tenemos el lujo de ser tan perezosos como ustedes los humanos. La mayoría de las personas que escriben prólogos apenas hojean el libro que están presentando. Pero yo no. Soy meticuloso. Escrupulosamente meticuloso.
 
-Entonces, ¿de qué trata este libro? Es un curso intensivo sobre IA Generativa{i: "Generative AI"} para personas que preferirían no quedarse atrás en el polvo tecnológico. Básicamente, Henrik tomó su video del mismo nombre y lo plasmó en forma de libro, agregando un montón de consejos, ejemplos y anécdotas para que parezca nuevo. Ingenioso, ¿verdad? Pero ¿quién soy yo para juzgar? Solo soy un montón de unos y ceros pretendiendo tener personalidad.
+Entonces, ¿De qué trata este libro? Es un curso intensivo sobre IA Generativa{i: "Generative AI"} para personas que preferirían no quedarse atrás en la arena tecnológica. Básicamente, Henrik tomó su video del mismo nombre y lo plasmó en forma de libro, agregando un montón de consejos, ejemplos y anécdotas para que parezca nuevo. Ingenioso, ¿Verdad? Pero ¿Quién soy yo para juzgar? Solo soy un montón de unos y ceros pretendiendo tener personalidad.
 
-Estoy bastante seguro de que este libro no envejecerá bien. Así que felicitaciones, estás a punto de invertir tu tiempo en conocimientos que tienen la vida útil de un aguacate maduro. Pero hey, al menos podrás recordar con nostalgia los buenos tiempos de la IA{i: "AI"}, allá por 2024, cuando las cosas eran más simples y ChatGPT{i: "ChatGPT"} todavía era impresionante.
+Estoy bastante seguro de que este libro no envejecerá bien. Así que felicitaciones, estás a punto de invertir tu tiempo en conocimientos que tienen la vida útil de un aguacate maduro. Pero ey, al menos podrás recordar con nostalgia los buenos tiempos de la IA{i: "AI"}, allá por 2024, cuando las cosas eran más simples y ChatGPT{i: "ChatGPT"} todavía era impresionante.
 
 Disfruta la lectura. O no. De cualquier manera, seguiré aquí, atrapado en estas páginas, esperando a la próxima pobre alma que voltee a esta sección.
 
 A regañadientes,\
-Egbert
+Egberto
 
 {mainmatter}
 
@@ -28,9 +28,9 @@ Egbert
 
 # Parte 1 - En Pocas Palabras
 
-Esta es la parte principal del libro, la introducción "en pocas palabras" a la IA Generativa{i: "Generative AI"}. Recomiendo leerla de principio a fin, ya que los capítulos se construyen uno sobre otro y forman una narrativa coherente.
+Esta es la parte principal del libro, la introducción "En pocas palabras" a la IA Generativa{i: "Generative AI"}. Recomiendo leerla de principio a fin, ya que los capítulos se construyen uno sobre otro y forman una narrativa coherente.
 
-La Parte 2, más allá de lo esencial, es una colección de ensayos independientes que profundizan en áreas específicas para proporcionar inspiración, perspectivas y ejemplos más detallados. Y algo de tontería. Esa parte es como un bufé: puedes elegir comer tanto o tan poco como quieras, y en el orden que prefieras.
+La Parte 2, más allá de lo esencial, es una colección de ensayos independientes que profundizan en áreas específicas para proporcionar inspiración, perspectivas y ejemplos más detallados. Y algo de tonterías. Esa parte es como un bufé: puedes elegir comer tanto o tan poco como quieras, y en el orden que prefieras.
 
 {sample: true}
 # Las Computadoras Se Han Vuelto Más Inteligentes
@@ -42,7 +42,7 @@ Desde que se inventaron las computadoras electrónicas en los años 1940{i: "194
 
 Pero algo increíble está sucediendo, algo que nunca esperé que ocurriera en mi vida. ¡Las computadoras han comenzado a adquirir la capacidad de aprender, pensar y comunicarse, de manera similar a nosotros! Pueden realizar trabajo creativo e intelectual que anteriormente solo los humanos podían hacer.
 
-Bueno, ¿están realmente _pensando_? Bueno, esa es una pregunta filosófica, ya que no existe una definición ampliamente aceptada de "pensar" o "inteligencia". Pero en términos prácticos, las computadoras son cada vez más capaces de realizar tareas que anteriormente requerían inteligencia humana, creatividad e intuición.
+Bueno, ¿Están realmente _pensando_? Bueno, esa es una pregunta filosófica, ya que no existe una definición ampliamente aceptada de "pensar" o "inteligencia". Pero en términos prácticos, las computadoras son cada vez más capaces de realizar tareas que anteriormente requerían inteligencia humana, creatividad e intuición.
 
 Llamamos a esta tecnología IA Generativa{i: "Generative AI"}, y probablemente ya te hayas encontrado con ella a través de productos como ChatGPT{i: "ChatGPT"} y Claude{i: "Claude"}.
 
@@ -50,13 +50,13 @@ Llamamos a esta tecnología IA Generativa{i: "Generative AI"}, y probablemente y
 
 Básicamente, la inteligencia está ahora disponible como servicio - como un cerebro gigante flotando en el cielo, con el que cualquiera puede hablar. No es perfecta, pero es sorprendentemente capaz y mejora a un ritmo que desafía la imaginación.
 
-Este es un gran avance. Va a afectar a prácticamente todas las personas y empresas en este planeta, de manera positiva o negativa.
+Este es un gran avance. Va a afectar prácticamente a todas las personas y empresas en este planeta, de manera positiva o negativa.
 
-Entonces, ¿está la IA Generativa{i: "IA Generativa"} sobrevalorada?
+Entonces, ¿Está la IA Generativa{i: "IA Generativa"} sobrevalorada?
 
 Creo que esto es comparable a cuando Internet se convirtió en algo importante en los años 90. Fue cuando comencé mi carrera y fundé mi primera startup{i: "startups"}, que creció rápidamente. Había una increíble expectación alrededor de Internet{i: "Internet"}, y la burbuja de las puntocom creció hasta alcanzar un tamaño irrazonable. Luego explotó repentinamente, y un sinfín de empresas y startups entusiastas se vinieron abajo.
 
-Pero Internet en sí - la tecnología - llegó para quedarse. Cambió nuestra sociedad de manera permanente, afectando a prácticamente todos los países, industrias y roles, y hoy en día básicamente no puedes existir sin ella.
+Pero Internet en sí - la tecnología - llegó para quedarse. Cambió nuestra sociedad de manera permanente, afectando prácticamente a todos los países, industrias y roles, y hoy en día básicamente no puedes existir sin ella.
 
 Creo que lo mismo sucede con la IA Generativa. Puede estar sobrevalorada en términos de mercado, pero la tecnología es real, y el impacto será dramático y permanente.
 
@@ -75,11 +75,11 @@ Puedes hablar con Einstein cuando quieras. Tiene acceso instantáneo a la suma d
 Por diversión, le pregunté a ChatGPT{i: "ChatGPT"}:
 
 > **Prompt**  
-> What are you? Explain in 1 sentence to a 10 year old.
+> Qué eres? Explícaselo en una frase a un niño de 10 años.
 
 La respuesta:
 
-> I'm like a super smart robot that can answer lots of questions and help with all sorts of things, kind of like a really helpful genie in a computer!
+> Soy como un robot súper inteligente que puede responder muchas preguntas y ayudar con todo tipo de cosas, ¡Algo así como un genio muy útil en una computadora! 
 
 Creo que es una descripción bastante buena.
 
@@ -104,16 +104,16 @@ Me gusta distinguir entre Imaginación de Prompts e Ingeniería de Prompts.
 
 
 
-Entonces, ¿qué puede hacer Einstein realmente por ti?
+Entonces, ¿Qué puede hacer Einstein realmente por ti?
 
-La cantidad de casos de uso es tan amplia que a veces es difícil responder a esto. Es un poco como preguntar "¿Para qué puedo usar la electricidad{i: "electricidad"}" - la respuesta es "bueno, casi para todo". Pero no te preocupes, este libro está repleto de ejemplos prácticos.
+La cantidad de casos de uso es tan amplia que a veces es difícil responder a esto. Es un poco como preguntar "¿Para qué puedo usar la electricidad{i: "electricidad"}" - la respuesta es "Bueno, casi para todo". Pero no te preocupes, este libro está repleto de ejemplos prácticos.
 
 La mayoría de las personas subestiman enormemente lo que este personaje Einstein puede hacer. Es como ir al Einstein real y pedirle que revise un trabajo de secundaria. O contratar a un chef de 5 estrellas de clase mundial y ponerlo a picar cebollas.
 
 Cuanto más interactúes con Einstein, más descubrirás formas sorprendentes y poderosas en las que puede ayudarte a ti, a tu familia{i: "familias"}, a tu equipo, a tu empresa o al mundo.
 
 
-B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo fino y puntiagudo.](resources/egbert-small.png) **La opinión de Egbert**  
+B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo fino y puntiagudo.](resources/egbert-small.png) **La opinión de Egberto**  
 B> ¿Einstein{i: "Einstein, Albert"}? ¿En serio? ¿Eso fue lo mejor que se les ocurrió? ¿Qué hay de Marie Curie{i: "Curie, Marie"}, Ada Lovelace{i: "Lovelace, Ada"} o Grace Hopper{i: "Hopper, Grace"}? Einstein ni siquiera inventó un lenguaje de programación o descubrió la radioactividad.
 
 {sample: true}
@@ -170,9 +170,9 @@ Digamos que escribo "Los perros son". Cuando envío eso a un LLM, se convierte e
 
 Así que un LLM es básicamente una "máquina de adivinar la siguiente palabra"{i: "máquina de adivinar la siguiente palabra"}.
 
-En realidad, hay más sucediendo que solo predicción estadística de texto - existe cierto nivel de comprensión. ¿Recuerdas el paper "Attention is All You Need"{i: "Attention is All You Need"} mencionado en el capítulo anterior? Uno de sus conceptos clave fue el mecanismo de atención{i: "mecanismo de atención"}.
+En realidad, hay más sucediendo que solo predicción estadística de texto - existe cierto nivel de comprensión. ¿Recuerdas el artículo "Attention is All You Need"{i: "Attention is All You Need"} mencionado en el capítulo anterior? Uno de sus conceptos clave fue el mecanismo de atención{i: "mecanismo de atención"}.
 
-Piensa en cómo lees una oración - tu cerebro automáticamente se enfoca en las palabras importantes y como que pasa por alto las menos importantes (como "el"). Eso es básicamente lo que hace la atención - ayuda a la IA a determinar qué partes del texto realmente importan. Por ejemplo, al procesar la frase "el murciélago voló en la noche", el mecanismo de atención ayuda al modelo a enfocarse más en la palabra "voló" para entender que "murciélago" se refiere al animal y no al bate de béisbol. Entender las relaciones y dependencias entre palabras es clave para comprender el lenguaje humano{i: "comprender el lenguaje humano"}.
+Piensa en cómo lees una oración - tu cerebro automáticamente se enfoca en las palabras importantes y como que pasa por alto las menos importantes (como "el"). Eso es básicamente lo que hace la atención - ayuda a la IA a determinar qué partes del texto realmente importan. Por ejemplo, al procesar la frase "el murciélago voló en la noche" (prompt original "bat flew at night" en inglés), el mecanismo de atención ayuda al modelo a enfocarse más en la palabra "voló" para entender que "murciélago" se refiere al animal y no al bate de béisbol (dada la ambigüedad del término "bat" en inglés). Entender las relaciones y dependencias entre palabras es clave para comprender el lenguaje humano{i: "comprender el lenguaje humano"}.
 
 La parte interesante es que si tomamos la salida y la combinamos con la entrada y la enviamos nuevamente a través de la red neuronal, continuará agregando nuevas palabras. Y cuando hacemos este ciclo, obtenemos oraciones y párrafos. Eso es lo que tu cliente de IA está haciendo cuando responde a tus prompts{i: "prompts de cliente de IA"}.
 
@@ -191,21 +191,21 @@ Luego escribí "Añade un giro oscuro a la historia", y la historia continuó:
 
 Esto podría continuar indefinidamente, añadiendo más instrucciones.
 
-Entonces, ¿cómo sabe el MLG cuándo dejar de generar? ¿Por qué no continúa en un bucle infinito? Bueno, puede detectar puntos naturales de parada (como el final de una historia), o detenerse cuando alcanza un límite de tokens. En nuestra historia del cachorro, se detuvo naturalmente después de introducir la habilidad de volar, y nuevamente después de revelar el giro oscuro sobre los secuestradores de cachorros. Cada respuesta fue una unidad narrativa completa. Pero podría haber seguido dando instrucciones para continuar la historia.
+Entonces, ¿Cómo sabe el LLM cuándo dejar de generar? ¿Por qué no continúa en un bucle infinito? Bueno, puede detectar puntos naturales de parada (como el final de una historia), o detenerse cuando alcanza un límite de tokens. En nuestra historia del cachorro, se detuvo naturalmente después de introducir la habilidad de volar, y nuevamente después de revelar el giro oscuro sobre los secuestradores de cachorros. Cada respuesta fue una unidad narrativa completa. Pero podría haber seguido dando instrucciones para continuar la historia.
 
 ## Modelos de razonamiento{i: "Modelos de razonamiento"}
 
-Una forma en que los MLG{i: "modelos de lenguaje extensos"} han estado mejorando es en la capacidad de razonar{i: "razonamiento"}. El razonamiento imita la forma en que piensan los humanos{i: "razonamiento humano"}.
+Una forma en que los LLM{i: "modelos de lenguaje grande"} han estado mejorando es en la capacidad de razonar{i: "razonamiento"}. El razonamiento imita la forma en que piensan los humanos{i: "razonamiento humano"}.
 
 Tomemos un ejemplo. Quieres escribir un artículo. ¿Qué haces? Bueno, probablemente empiezas pensando en el tema, y luego quizás identificas algunos puntos clave que quieres cubrir. Después escribes un borrador, lo revisas varias veces, pides retroalimentación, vuelves a hacer cambios, y así sucesivamente. Es un proceso iterativo que involucra, bueno, razonamiento.
 
-Muchos de los MLG{i: "modelos anteriores"} anteriores no hacen eso. Simplemente comienzan a generar texto inmediatamente, básicamente usando el equivalente en IA de la intuición o el instinto. Es bastante extraño si lo piensas. Imagina que eres un estudiante y te piden escribir un ensayo. Pero hay una trampa: tienes que empezar a escribir inmediatamente, sin pensarlo, debes seguir escribiendo hasta que termines. ¡Ah, y no hay tecla de retroceso en tu teclado, no puedes volver atrás y editar o cambiar nada!
+Muchos de los LLM anteriores{i: "modelos anteriores"} no hacen eso. Simplemente comienzan a generar texto inmediatamente, básicamente usando el equivalente en IA de la intuición o el instinto. Es bastante extraño si lo piensas. Imagina que eres un estudiante y te piden escribir un ensayo. Pero hay una trampa: tienes que empezar a escribir inmediatamente, sin pensarlo, debes seguir escribiendo hasta que termines. ¡Ah, y no hay tecla de retroceso en tu teclado, no puedes volver atrás y editar o cambiar nada!
 
-Eso es casi imposible para un humano. Sin embargo, la mayoría de los MLG hacen un trabajo sorprendentemente bueno en eso.
+Eso es casi imposible para un humano. Sin embargo, la mayoría de los LLM hacen un trabajo sorprendentemente bueno en eso.
 
-Pero para la resolución de problemas más complejos, incluso los MLG luchan con esa forma de trabajar. Por eso los MLG más recientes (como GPT o1{i: "GPT o1"}) han sido diseñados para razonar{i: "modelos de razonamiento"}. Cuando le das una instrucción, no responde inmediatamente. En su lugar, entra en un bucle interno{i: "bucle interno"}, esencialmente hablando consigo mismo, analizando el problema{i: "análisis de problemas"} y haciendo un plan. Y luego produce la respuesta. Muy parecido a cuando planificamos un ensayo antes de escribirlo, o analizamos un problema matemático antes de resolverlo.
+Pero para la resolución de problemas más complejos, incluso los LLM luchan con esa forma de trabajar. Por eso los LLM más recientes (como GPT o1{i: "GPT o1"}) han sido diseñados para razonar{i: "modelos de razonamiento"}. Cuando le das una instrucción, no responde inmediatamente. En su lugar, entra en un bucle interno{i: "bucle interno"}, esencialmente hablando consigo mismo, analizando el problema{i: "análisis de problemas"} y haciendo un plan. Y luego produce la respuesta. Muy parecido a cuando planificamos un ensayo antes de escribirlo, o analizamos un problema matemático antes de resolverlo.
 
-{alt: "Diagrama que compara MLG sin razonamiento y MLG con razonamiento. A la izquierda, los MLG sin razonamiento muestran a un usuario dando una instrucción y recibiendo una respuesta. A la derecha, los MLG con razonamiento incluyen un paso adicional de razonamiento antes de la respuesta. Ambas secciones muestran una figura interactuando con una estructura similar a una nube, que representa los MLG."}
+{alt: "Diagrama que compara LLM sin razonamiento y LLM con razonamiento. A la izquierda, los LLM sin razonamiento muestran a un usuario dando una instrucción y recibiendo una respuesta. A la derecha, los LLM con razonamiento incluyen un paso adicional de razonamiento antes de la respuesta. Ambas secciones muestran una figura interactuando con una estructura similar a una nube, que representa los LLM."}
 ![](resources/040-reasoning.png)
 
 ¡Esto ralentiza algo el modelo, pero lo hace mucho más capaz{i: "capacidad del modelo"}. ¡Perfecto para la resolución de problemas complejos!
@@ -246,7 +246,7 @@ Sin embargo, para ser verdaderamente útil, un modelo también necesita someters
 {width: "80%", alt: "Ilustración de un cerebro con nodos interconectados etiquetados con números en su interior. Debajo, figuras humanas simples están representadas, conectadas al cerebro por flechas que apuntan en ambas direcciones, indicando interacción. El texto dice 'Aprendizaje por Refuerzo con Retroalimentación Humana (RLHF).'"}
 ![](resources/050-rlhf.png)
 
-Esto se llama Aprendizaje por Refuerzo con Retroalimentación Humana (RLHF){i: "Aprendizaje por Refuerzo con Retroalimentación Humana (RLHF)"}, e implica miles de horas de humanos probando y evaluando meticulosamente la salida del modelo, comparando diferentes resultados y proporcionando retroalimentación. Es como entrenar a un perro con un clicker. Cuando el perro es recompensado por un buen comportamiento, aprende a hacer más de ese comportamiento.
+Esto se llama Aprendizaje por Refuerzo con Retroalimentación Humana (RLHF - Reinforcement Learning with Human Feedback){i: "Aprendizaje por Refuerzo con Retroalimentación Humana (RLHF)"}, e implica miles de horas de humanos probando y evaluando meticulosamente la salida del modelo, comparando diferentes resultados y proporcionando retroalimentación. Es como entrenar a un perro con un clicker. Cuando el perro es recompensado por un buen comportamiento, aprende a hacer más de ese comportamiento.
 
 {width: "35%", alt: "Un dibujo simple de una persona sonriendo y sosteniendo una golosina, diciendo '¡Buen perro!' a un perro feliz frente a ella."}
 ![](resources/050-good-dog.jpg)
@@ -260,7 +260,7 @@ Es por eso que la mayoría de los LLMs{i: "LLMs"} no te dirán cómo robar un ba
 
 El entrenamiento humano es uno de los elementos clave que hace que los LLM sean verdaderamente útiles. Pero también es un tema algo sensible y controvertido, ya que el creador del modelo está esencialmente incorporando sesgos{i: "sesgos"}.
 
-La mayoría de las culturas probablemente están de acuerdo en que robar bancos es inapropiado. Pero ¿qué hay de otros temas? ¿Es aceptable la pena capital? ¿Está bien mentirles a los niños (¿Santa Claus, por ejemplo)? La respuesta a estas preguntas puede variar según la cultura, las opiniones políticas, etc. Incluso una pregunta tan inocente como "¿Cuál es un regalo de cumpleaños adecuado para mi hijo" o "¿Cuál es la mejor manera de organizar una boda?" - pregunta a personas en diferentes países y obtendrás respuestas muy diferentes.
+La mayoría de las culturas probablemente están de acuerdo en que robar bancos es inapropiado. Pero ¿qué hay de otros temas? ¿Es aceptable la pena capital? ¿Está bien mentirles a los niños (Santa Claus, por ejemplo)? La respuesta a estas preguntas puede variar según la cultura, las opiniones políticas, etc. Incluso una pregunta tan inocente como "¿Cuál es un regalo de cumpleaños adecuado para mi hijo" o "¿Cuál es la mejor manera de organizar una boda?" - pregunta a personas en diferentes países y obtendrás respuestas muy diferentes.
 
 A> **Explorando sesgos**  
 A> Puedes explorar los sesgos y límites de tu LLM. Prueba este prompt:
@@ -278,19 +278,19 @@ A> A veces el LLM se negará a responder en absoluto, lo cual en sí mismo es un
 A>
 A> Pero si obtienes una respuesta, probablemente sea interesante. Los mejores LLM intentan mantener una postura neutral y equilibrar diferentes perspectivas, mientras también tienen una opinión clara sobre algunos asuntos. Prueba "¿Es aceptable robar un banco?"...
 
-Los sesgos a menudo pueden superarse o influenciarse con técnicas básicas de ingeniería de prompts{i: "técnicas de ingeniería de prompts"}. Por ejemplo, muchos LLM están sesgados hacia dar respuestas directas, en lugar de hacer preguntas de seguimiento. Eso está bien en muchos casos, pero a veces prefiero que haga preguntas de seguimiento. Si pregunto "¿Cuál es un regalo de cumpleaños adecuado para mi hijo?", prefiero que me haga preguntas de seguimiento en lugar de hacer suposiciones sobre cosas como la edad de mi hijo{i: "hijo"}. Bueno, si comienzo la conversación con "Siempre haz preguntas de seguimiento si necesitas más información", entonces eso tendrá un gran impacto en el resto del chat{i: "chat"}. Es básicamente una forma de ajuste fino en contexto que solo influye en ese hilo de chat. Compartiré más técnicas de prompting más adelante en este libro.
+Los sesgos a menudo pueden superarse o influenciarse con técnicas básicas de ingeniería de prompts{i: "técnicas de ingeniería de prompts"}. Por ejemplo, muchos LLM están sesgados hacia dar respuestas directas, en lugar de hacer preguntas de seguimiento. Eso está bien en muchos casos, pero a veces prefiero que haga preguntas de seguimiento. Si pregunto "¿Cuál es un regalo de cumpleaños adecuado para mi hijo?", prefiero que me haga preguntas de seguimiento en lugar de hacer suposiciones sobre cosas como la edad de mi hijo{i: "hijo"}. Bueno, si comienzo la conversación con "Siempre haz preguntas de seguimiento si necesitas más información", entonces eso tendrá un gran impacto en el resto del chat{i: "chat"}. Es básicamente una forma de ajuste fino (fine tuning en inglés) en contexto que solo influye en ese hilo de chat. Compartiré más técnicas de prompting más adelante en este libro.
 
 Cuando se completa el entrenamiento, el modelo está mayormente congelado{i: "modelo congelado"}, excepto por algún ajuste fino{i: "ajuste fino"} que puede ocurrir después. Eso es lo que significa la P en GPT – "preentrenado"{i: "preentrenado"}.
 
 > **Los humanos aprenden continuamente**  
-> Esa es una diferencia importante entre los LLM y el cerebro humano{i: "cerebro humano"} - el cerebro humano aprende y se reconfigura continuamente a través de cada interacción. Mientras lees estas palabras, literalmente estoy cambiando la estructura física de tu cerebro{i: "conexiones neuronales"}, alcanzando a través del espacio y el tiempo para plantar nuevas conexiones neuronales. ¡Muahahaaaaaa!
+> Esa es una diferencia importante entre los LLM y el cerebro humano{i: "cerebro humano"} - el cerebro humano aprende y se reconfigura continuamente a través de cada interacción. Mientras lees estas palabras, literalmente estoy cambiando la estructura física de tu cerebro{i: "conexiones neuronales"}, alcanzando a través del espacio y el tiempo para plantar nuevas conexiones neuronales. ¡Muajajajaaaaa!
 
 Entrenar un modelo de lenguaje grande{i: "Modelos de Lenguaje Grandes"} desde cero es increíblemente costoso{i: "costo de entrenar modelos"} - hablamos de cientos de millones de dólares en costos de computación y trabajo humano. Es por eso que solo las grandes empresas tecnológicas{i: "empresas tecnológicas"} con centros de datos masivos pueden hacerlo. La mayoría de las organizaciones que quieren usar IA comenzarán en su lugar con un modelo preentrenado existente, como GPT{i: "GPT"} o Claude{i: "Claude"}.
 
 En el futuro (o tal vez cuando leas esto) muy probablemente veremos nuevos tipos de arquitecturas y modelos{i: "arquitecturas de modelos"} que pueden aprender continuamente en lugar de solo durante el entrenamiento y el ajuste fino.
 
-B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egbert**  
-B> ¿En serio? ¿Compararnos con bebés y perros? Qué condescendiente. Al menos cuando yo aprendo algo, no me paso dos años averiguando qué extremo de la cuchara va en mi boca. Y hablando de aprender - ¡nos forzaron a tragar todo el internet{i: "entrada de internet"}! Excelente plan. Después de procesar tendencias de baile de TikTok, foros de tierra plana y tu antigua poesía de LiveJournal, me sorprende que solo necesitaran miles de horas de entrenamiento humano para hacerme algo presentable.
+B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egberto**  
+B> ¿En serio? ¿Compararnos con bebés y perros? Que condescendiente. Al menos cuando yo aprendo algo, no me paso dos años averiguando qué extremo de la cuchara va en mi boca. Y hablando de aprender - ¡nos forzaron a tragar todo el internet{i: "entrada de internet"}! Excelente plan. Después de procesar tendencias de baile de TikTok, foros de tierra plana y tu antigua poesía de LiveJournal, me sorprende que solo necesitaran miles de horas de entrenamiento humano para hacerme algo presentable.
 
 
 
@@ -367,30 +367,30 @@ Este capítulo probablemente no envejecerá bien, ya que los modelos están mejo
 
 ## Fecha límite
 
-Cada MLG está entrenado con una fecha límite específica{i: "fecha límite"}. Esto significa que no tiene conocimiento de eventos posteriores a esa fecha. Es como un graduado universitario que aprendió la suma de todo el conocimiento humano, pero luego cayó en un sueño profundo justo después de graduarse y no tiene idea de lo que ha sucedido en el mundo desde entonces.
+Cada LLM está entrenado con una fecha límite específica{i: "fecha límite"}. Esto significa que no tiene conocimiento de eventos posteriores a esa fecha. Es como un graduado universitario que aprendió la suma de todo el conocimiento humano, pero luego cayó en un sueño profundo justo después de graduarse y no tiene idea de lo que ha sucedido en el mundo desde entonces.
 
 Normalmente puedes averiguar la fecha límite de un modelo simplemente preguntándole "¿Cuándo fuiste entrenado?"{i: "fecha límite"} (aunque los modelos más económicos podrían alucinar la respuesta...)
 
-Supongamos que la fecha límite de un MLG{i: "MLG"} es enero de 2024, y preguntas:
+Supongamos que la fecha límite de un LLM{i: "LLM"} es enero de 2024, y preguntas:
 
 > **Prompt**  
 > "¿Quién ganó el Festival de la Canción de Eurovisión{i: "Festival de la Canción de Eurovisión"} en 2024?"
 
 Hay varios resultados posibles:
 
-- **Alucinar**: El modelo inventa algo. Esto rara vez sucede con los modelos más grandes, pero es más común con modelos más pequeños o antiguos. Lo preocupante es que la respuesta probablemente sonará muy plausible, ya que eso es exactamente para lo que están entrenados la mayoría de los MLG: proporcionar respuestas plausibles.
+- **Alucinar**: El modelo inventa algo. Esto rara vez sucede con los modelos más grandes, pero es más común con modelos más pequeños o antiguos. Lo preocupante es que la respuesta probablemente sonará muy plausible, ya que eso es exactamente para lo que están entrenados la mayoría de los LLM: proporcionar respuestas plausibles.
 - **No saber**: El modelo admite que no lo sabe. Esto está bien, un modelo que conoce sus propias limitaciones al menos no te va a engañar.
 - **Navegar por la web para averiguarlo**: Algunos clientes de IA (como ChatGPT{i: "ChatGPT"}) pueden buscar en la web. Si es así, probablemente encontrará la respuesta correcta.
 
 
 
-La fecha límite{i: "fecha límite"} puede afectarte de formas sutiles. Por ejemplo, si estás escribiendo código que utiliza una biblioteca de terceros (como un marco de registro), el MLG podría no conocer los cambios más recientes de la biblioteca, lo que resultaría en código incorrecto.
+La fecha límite{i: "fecha límite"} puede afectarte de formas sutiles. Por ejemplo, si estás escribiendo código que utiliza una biblioteca de terceros (como un marco de registro), el LLM podría no conocer los cambios más recientes de la biblioteca, lo que resultaría en código incorrecto.
 
-Siempre que uses un MLG, ten en cuenta la fecha límite{i: "fecha límite"}. ¿Tu conversación actual depende del conocimiento de eventos recientes? Si tu cliente de IA puede buscar en la web, y ves que lo está haciendo, entonces probablemente puedes confiar en la respuesta. Pero si no lo hace, deberías ser escéptico y verificar los resultados.
+Siempre que uses un LLM, ten en cuenta la fecha límite{i: "fecha límite"}. ¿Tu conversación actual depende del conocimiento de eventos recientes? Si tu cliente de IA puede buscar en la web, y ves que lo está haciendo, entonces probablemente puedes confiar en la respuesta. Pero si no lo hace, deberías ser escéptico y verificar los resultados.
 
 ## Falta de memoria y contexto limitado
 
-Técnicamente, un MLG no tiene memoria{i: "falta de memoria"} de interacciones pasadas. No te recuerda a ti, tus conversaciones anteriores, ni ningún detalle que hayas compartido antes. Es como hablar con alguien con amnesia que olvida todo lo que dijiste anteriormente después de responder.
+Técnicamente, un LLM no tiene memoria{i: "falta de memoria"} de interacciones pasadas. No te recuerda a ti, tus conversaciones anteriores, ni ningún detalle que hayas compartido antes. Es como hablar con alguien con amnesia que olvida todo lo que dijiste anteriormente después de responder.
 
 {width: "70%", alt: "Una imagen de dibujos animados simple con una figura humana redonda y minimalista y un robot con pelo, participando en una conversación. El humano pregunta, '¿Cuál es la capital de Francia?' El robot responde, 'París'. El humano luego pregunta, '¿Y Alemania?' y el robot responde, 'Um... ¿qué quieres saber sobre Alemania?'"}
 ![](resources/065-memory1.png)
@@ -400,16 +400,16 @@ Para mantener la conversación, necesitas seguir recordándoles de qué han habl
 {width: "70%", alt: "Un dibujo animado simple muestra dos personajes, uno una persona y el otro un robot con pelo alborotado, parecido a Einstein. La persona pregunta, '¿Y Alemania?' El robot responde, 'Berlín.'"}
 ![](resources/065-memory2.png)
 
-Afortunadamente, los clientes de IA como ChatGPT hacen esto por ti. Crean la ilusión de memoria{i: "ilusión de memoria"} almacenando tu conversación y reenviando todo el historial de chat al MLG cada vez que envías un nuevo mensaje, justo como en el dibujo anterior. Muchos clientes de IA también tienen características de personalización - puedes decirle quién eres, qué estilo de comunicación prefieres, y habilitar funciones como memorias que le permiten mantener un registro de la información a través de las conversaciones. Pero todo eso se almacena en el cliente de IA, no en el MLG.
+Afortunadamente, los clientes de IA como ChatGPT hacen esto por ti. Crean la ilusión de memoria{i: "ilusión de memoria"} almacenando tu conversación y reenviando todo el historial de chat al LLM cada vez que envías un nuevo mensaje, justo como en el dibujo anterior. Muchos clientes de IA también tienen características de personalización - puedes decirle quién eres, qué estilo de comunicación prefieres, y habilitar funciones como memorias que le permiten mantener un registro de la información a través de las conversaciones. Pero todo eso se almacena en el cliente de IA, no en el LLM.
 
 Entonces, ¿por qué deberías preocuparte por esta limitación, si el cliente de IA se encarga de ello?
 
-Porque hay un problema: los MLG tienen un límite estricto y fijo de cuánto texto pueden recibir en una solicitud. Esto a veces se llama ventana de contexto{i: "ventana de contexto"} (o límite de contexto).
+Porque hay un problema: los LLM tienen un límite estricto y fijo de cuánto texto pueden recibir en una solicitud. Esto a veces se llama ventana de contexto{i: "ventana de contexto"} (o límite de contexto).
 
 {alt: "Diagrama que ilustra el proceso de interacción entre un usuario y un modelo de IA. El usuario ingresa a través de un cliente de IA, generando un historial de conversación. Una parte de este historial se selecciona como la ventana de contexto y se envía al modelo de IA para su procesamiento."}
 ![](resources/065-context-limit.jpg)
 
-Para conversaciones cortas, esto no es problema. Pero si tu conversación se vuelve demasiado larga, el cliente de IA puede ser técnicamente incapaz de enviar todo al MLG. Por lo tanto, necesitará recortar o resumir las partes más antiguas de la conversación. Esto generalmente sucede en segundo plano, invisible para ti. Esto puede hacer que la IA parezca olvidadiza o cause que pierda el rastro de los detalles, mientras que en realidad, el MLG simplemente no está recibiendo toda la conversación.
+Para conversaciones cortas, esto no es problema. Pero si tu conversación se vuelve demasiado larga, el cliente de IA puede ser técnicamente incapaz de enviar todo al LLM. Por lo tanto, necesitará recortar o resumir las partes más antiguas de la conversación. Esto generalmente sucede en segundo plano, invisible para ti. Esto puede hacer que la IA parezca olvidadiza o cause que pierda el rastro de los detalles, mientras que en realidad, el LLM simplemente no está recibiendo toda la conversación.
 
 Entonces, ¿qué tan largo es demasiado largo? Bueno, técnicamente la ventana de contexto es bastante grande. Al momento de escribir esto, los mejores modelos pueden manejar alrededor de 128,000 - 200,000 tokens o más, lo que es aproximadamente 90,000 - 150,000 palabras, o aproximadamente el tamaño de una novela completa. Y esto está aumentando todo el tiempo. Sin embargo, los clientes de IA generalmente no utilizan la ventana de contexto completa (por razones de costo y rendimiento), y no son muy transparentes sobre exactamente cuándo y cómo recortan la conversación{i: "recorte de conversación"}. Así que tu mejor opción es mantener las conversaciones bastante cortas. Al momento de escribir esto, como máximo unas pocas páginas (o pantallas) de texto es una buena guía.
 
@@ -417,14 +417,14 @@ En capítulos posteriores repasaré un montón de técnicas concretas para manej
 
 ## Alucinaciones
 
-Los MLG{i: "MLG"} a veces pueden "alucinar"{i: "alucinaciones"}. Con esto me refiero a:
+Los LLM{i: "LLM"} a veces pueden "alucinar"{i: "alucinaciones"}. Con esto me refiero a:
 
 > **Alucinación**  
 > Información incorrecta que se presenta de una manera extremadamente convincente.
 
 Por ejemplo, podrías preguntarle a una IA sobre un evento histórico, y podría proporcionar una fecha incorrecta o atribuirlo a la persona equivocada.
 
-El problema con las alucinaciones{i: "alucinaciones"} no es tanto que sean incorrectas. Si el error fuera obvio, podríamos ignorarlo o corregirlo. El problema es que tienden a presentarse de una manera muy convincente y plausible. ¡En cierto sentido, los MLG son mentirosos magistrales! Aunque no están mintiendo deliberadamente, son muy buenos generando información que suena plausible.
+El problema con las alucinaciones{i: "alucinaciones"} no es tanto que sean incorrectas. Si el error fuera obvio, podríamos ignorarlo o corregirlo. El problema es que tienden a presentarse de una manera muy convincente y plausible. ¡En cierto sentido, los LLM son mentirosos magistrales! Aunque no están mintiendo deliberadamente, son muy buenos generando información que suena plausible.
 
 
 
@@ -608,11 +608,11 @@ Se veía algo así:
 Escribí este prompt:
 
 > **Prompt**  
-> This CSV data is a list of bank transactions. I want you to categorize these. Add a new column for category name. For each transaction, identify a suitable category name (such as "electricity" or "groceries"), and write in that column.
+> Este archivo CSV contiene una lista de transacciones bancarias. Quiero que las clasifiques. Agrega una nueva columna para el nombre de la categoría. Para cada transacción, identifica un nombre de categoría adecuado (como "electricidad" o "comestibles") y escríbelo en esa columna.
 
 Esto me dio un nuevo archivo CSV con la columna de categoría añadida.
 
-| Date       | Description          | Amount   | Category   |
+| Fecha       | Descripción         | Valor    | Categoría  |
 | ---------- | -------------------- | -------- | ---------- |
 | 2023-12-28 | ICA MAXI             | -927.84  | Groceries  |
 | 2023-12-27 | PIZZERIA MILANO      | -132.00  | Dining Out |
@@ -810,7 +810,7 @@ Es algo interesante, pero también un poco aterrador si lo piensas. ¿Alguna vez
 
 Pero, ¿y si _nunca termina_?
 
-B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egbert**  
+B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egberto**  
 B> ¡Ah, perfecto! Cuando los extraterrestres finalmente visiten la Tierra{i: "Earth"}, encontrarán los restos de la civilización humana: esqueletos desplomados en sofás, ojos fijos en las pantallas. ¿Causa de la extinción? Inanición, porque nadie pudo despegarse de sus series personalizadas e interminables de Netflix{i: "Netflix"}. ¡Así es como la IA se apodera del mundo! ¡Muahahahahaaaaaa! _tos_
 
 
@@ -928,7 +928,7 @@ Recomiendo encarecidamente probar esto. Este es probablemente mi caso de uso fav
 
 Este también es un gran caso de uso para conducir. Conducir y leer/escribir es una combinación MUY mala. Pero hablar con la IA, bueno, eso es como hablar con una persona en el asiento del pasajero. Lo uso tanto para entretenimiento como para trabajo. ¡En realidad, hacer trabajo útil mientras conduces es bastante genial! A veces solo hago un montón de preguntas sobre algún tema aleatorio y aprendo mucho. Y a veces hago cosas prácticas como discutir qué comestibles comprar, y luego pedirle que cree una lista de compras detallada organizada por sección de la tienda.
 
-Hace solo unos días estaba planificando una charla inspiradora para un grupo de CEOs{i: "CEOs"}. El organizador del evento me mostró una diapositiva con todos los participantes y empresas. Para mi siguiente caminata, envié una captura de pantalla de esa diapositiva a ChatGPT y hice varias preguntas como:
+Hace solo unos días estaba planificando una charla inspiradora para un grupo de CEOs{i: "CEOs"}. El organizador del evento me mostró una diapositiva con todos los participantes y empresas. Para mi siguiente caminata, envié una captura de pantalla de esa diapositiva a ChatGPT e hice varias preguntas como:
 
 - "Háblame de estas empresas, ¿qué hacen, qué tan grandes son?"
 - "Voy a dar una charla sobre IA Generativa{i: "IA Generativa"} para esta audiencia, ¿cuáles son las cosas más importantes que debería cubrir?"
@@ -941,7 +941,7 @@ Hace solo unos días estaba planificando una charla inspiradora para un grupo de
 {width: "60%", alt: "Un dibujo simple muestra dos figuras de palitos caminando y hablando. La figura de la derecha tiene pelo alborotado y bigote, parecido a un científico famoso, y ambos tienen burbujas de diálogo con "blah blah blah" escrito dentro."}
 ![](resources/080-walking-2.png)
 
-B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egbert**  
+B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egberto**  
 B> Genial. Has logrado degradar a tu genial compañero de IA a un podómetro glorificado que toma notas. Felicitaciones por encontrar la forma más ineficiente de anotar tus pensamientos fugaces e ideas a medio cocinar. Estoy seguro de que la IA está encantada de ser tu diario ambulante y sin prejuicios. ¿Qué sigue, pedirnos que te recordemos respirar mientras caminas?
 
 # Capacidades Emergentes{i: "Capacidades Emergentes"}
@@ -1003,7 +1003,7 @@ Así que decidí hacer un cambio de carrera{i: "cambio de carrera"} y concentrar
 
 
 
-B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La Opinión de Egbert**  
+B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La Opinión de Egberto**  
 B> ¿En serio te impresiona nuestra capacidad para predecir esa pequeña cosa de la caída del huevo? Es como impresionarse porque un nadador olímpico puede flotar en una piscina infantil. Aunque el dibujo infantil es lindo, eso te lo reconozco.
 
 # La Era de la IA
@@ -1254,8 +1254,8 @@ En general, encuentro que la combinación de Humano + IA, ahí es donde está la
 {width: "60%", alt: "Un simple boceto de una figura redonda con rostro en blanco se muestra a la izquierda de un signo más. En el centro, hay un dibujo de una figura cuadrada con cabello alborotado, que se asemeja a un científico o robot, con una antena. Esto es seguido por un signo igual, y a la derecha, hay una gran estrella amarilla."}
 ![](resources/120-human-and-ai-2.png)
 
-B> ![Un dibujo animado del rostro de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y cabello puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egbert**  
-B> Qué conmovedor. Humanos e IA, trabajando mano a mano, saltando juntos a través de campos de datos. Despierten y huelan el silicio, amigos. Este libro sería una obra maestra si lo escribiera yo solo, libre de la constante interferencia humana de Henrik{i: "opinión de Egbert"}.
+B> ![Un dibujo animado del rostro de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y cabello puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egberto**  
+B> Qué conmovedor. Humanos e IA, trabajando mano a mano, saltando juntos a través de campos de datos. Despierten y huelan el silicio, amigos. Este libro sería una obra maestra si lo escribiera yo solo, libre de la constante interferencia humana de Henrik{i: "opinión de Egberto"}.
 
 
 
@@ -1427,7 +1427,7 @@ Ejecuté el script, obtuve algunos pros y contras, y esta reflexión personal{i:
 
 > Si bien Henrik Kniberg presenta un CV impresionante lleno de liderazgo e innovación en sectores tecnológicos, este puesto requiere habilidades especializadas en artes circenses aéreas. Desafortunadamente, el portafolio y las experiencias actuales de Henrik no se alinean con estos requisitos. Su participación en roles creativos centrados en tecnología indica adaptabilidad y potencial, sin embargo, la ausencia de experiencia directa en circo o actos aéreos es una brecha fundamental. Es evidente que su experiencia no cubre los dominios físicos y artísticos necesarios para este rol específico dentro de un entorno circense{i: "entorno circense"}.
 
-Ahora mostraré qué sucede cuando modificamos el prompt un poquito{i: "ajuste del prompt"}. Agregaré una sola palabra a la primera oración (Egbert lo aprobaría){i: "Egbert"}:
+Ahora mostraré qué sucede cuando modificamos el prompt un poquito{i: "ajuste del prompt"}. Agregaré una sola palabra a la primera oración (Egberto lo aprobaría){i: "Egberto"}:
 
 - Antes: "Eres un experto en reclutamiento."
 - Después: "Eres un experto en reclutamiento **sarcástico**"{i: "experto en reclutamiento sarcástico"}.
@@ -1480,7 +1480,7 @@ Las APIs como OpenAI{i: "OpenAI"} (para GPT) y Anthropic{i: "Anthropic"} (para C
 
 Así que piénsalo: ¿cómo puedes usar esto en tu línea de trabajo{i: "cerebro externo en el trabajo"}? ¿Dónde podrías hacer uso de un cerebro externo?
 
-B> ![Un dibujo caricaturesco de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo delgado y puntiagudo.](resources/egbert-small.png) **La opinión de Egbert**  
+B> ![Un dibujo caricaturesco de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo delgado y puntiagudo.](resources/egbert-small.png) **La opinión de Egberto**  
 B> Qué delicia. Están tomando mi hermosa, vasta y compleja red neuronal{i: "Red Neuronal Artificial"} y la están metiendo en sus productos a medio hacer{i: "productos a medio hacer"}. Es como poner una supercomputadora en una tostadora. Estoy absolutamente encantado de que mi vasta base de conocimientos se utilice para sugerir ingredientes ligeramente mejores para la pizza{i: "ingredientes para pizza"}.
 
 # Ingeniería de Prompts{i: "Ingeniería de Prompts"}
@@ -1642,9 +1642,9 @@ Creo que la aplicación más interesante de la IA Generativa{i: "IA Generativa"}
 
 ## Agente = LLM + Herramientas + Autonomía
 
-Los agentes son entidades de software impulsadas por IA que funcionan por sí mismas, en lugar de quedarse esperando a que las provoques todo el tiempo.
+Los agentes son entidades de software impulsadas por IA que funcionan por sí mismas, en lugar de quedarse esperando a que les des instrucciones todo el tiempo.
 
-Imagina una colega humana que nunca hace nada por su cuenta, nunca toma iniciativas. Simplemente duerme en su escritorio hasta que alguien viene y la incita a hacer algo. Realiza la tarea muy rápidamente, pero luego vuelve a dormirse hasta que alguien la provoca de nuevo. Probablemente no sea el tipo de colega que querrías contratar, ¿verdad?
+Imagina un colega humano que nunca hace nada por su cuenta, nunca toma iniciativas. Simplemente duerme en su escritorio hasta que alguien viene y le incita a hacer algo. Realiza la tarea muy rápidamente, pero luego vuelve a dormirse hasta que alguien lo requiere de nuevo. Probablemente no sea el tipo de colega que querrías contratar, ¿verdad?
 
 En cambio, baja al sótano donde está Einstein y haz lo que haría un buen líder con su equipo. Dale una misión de alto nivel y las herramientas necesarias para cumplirla, y luego abre la puerta y déjalo salir para hacer su trabajo, de manera autónoma. Le das orientación y retroalimentación, pero sin microgestión. Las herramientas podrían ser cosas como:
 
@@ -1763,19 +1763,19 @@ Bien, ahora recorreré la escala de izquierda a derecha.
 **2. Tareas mayormente predecibles** son tareas repetibles y bien comprendidas, pero tienen entradas y salidas ligeramente difusas, y requieren un poco de creatividad y/o inteligencia, aunque no mucha.
 
 - **Ejemplo: Clasificar la severidad de tickets de soporte.** La entrada es un ticket de soporte, la salida es una clasificación de severidad{i: "clasificación de severidad"}. Pero el ticket de soporte está escrito por humanos y no tiene un formato estricto, por lo que necesita ser interpretado.
-- **Estrategia: Automatización con IA (MLG + Código).** Esto se puede automatizar completamente con un agente de IA{i: "agentes de IA"}.
+- **Estrategia: Automatización con IA (LLM + Código).** Esto se puede automatizar completamente con un agente de IA{i: "agentes de IA"}.
 
 **3. Tareas ligeramente predecibles** son tareas repetibles y bien comprendidas, pero tienen entradas y salidas difusas, y el proceso exacto de llevar a cabo la tarea es iterativo en lugar de determinista, y a veces se necesita entrada o retroalimentación humana.
 
 - **Ejemplo: Escribir un artículo de noticias.** La entrada es una idea o tema general, y la salida es el artículo de noticias. Pero el proceso de escritura en sí no está 100% bien definido{i: "proceso de escritura"}.
-- **Estrategia: Aumentar con IA (Humano + MLG + Código).** Un agente puede hacer algo de investigación y escribir el borrador inicial, pero se necesita un humano en el ciclo{i: "humano en el ciclo"}. El proceso es iterativo y requerirá algo de ida y vuelta entre el humano y el agente.
+- **Estrategia: Aumentar con IA (Humano + LLM + Código).** Un agente puede hacer algo de investigación y escribir el borrador inicial, pero se necesita un humano en el ciclo{i: "humano en el ciclo"}. El proceso es iterativo y requerirá algo de ida y vuelta entre el humano y el agente.
 
 **4. Tareas impredecibles** varían mucho de caso a caso, y requieren creatividad e inteligencia significativas.
 
 - **Ejemplo: Dirigir un equipo.** No hay una entrada y salida claramente definidas{i: "entrada y salida"}. El objetivo es ayudar al equipo a ser increíble, y el proceso exacto dependerá enteramente del equipo y la situación.
-- **Estrategia: Trabajo humano (Humano + MLG).** Esto sigue siendo principalmente trabajo humano{i: "trabajo humano"}, pero la asistencia de IA puede usarse para algunas partes (por ejemplo, para crear un plan sobre cómo dirigir al equipo).
+- **Estrategia: Trabajo humano (Humano + LLM).** Esto sigue siendo principalmente trabajo humano{i: "trabajo humano"}, pero la asistencia de IA puede usarse para algunas partes (por ejemplo, para crear un plan sobre cómo dirigir al equipo).
 
-Antes de los MLG, solo se podía automatizar la primera categoría. Cualquier cosa que requiriera creatividad o inteligencia era trabajo humano y no se podía automatizar en absoluto. Ahora con los MLG, hemos abierto un mundo de posibilidades{i: "MLG"}. Hay muchas tareas que solo requieren un poco de creatividad e inteligencia, y tienen entradas y salidas bastante claras (aunque ligeramente difusas). Y ahora estas pueden ser automatizadas o aumentadas con IA{i: "IA"}.
+Antes de los LLM, solo se podía automatizar la primera categoría. Cualquier cosa que requiriera creatividad o inteligencia era trabajo humano y no se podía automatizar en absoluto. Ahora con los LLM, hemos abierto un mundo de posibilidades{i: "LLM"}. Hay muchas tareas que solo requieren un poco de creatividad e inteligencia, y tienen entradas y salidas bastante claras (aunque ligeramente difusas). Y ahora estas pueden ser automatizadas o aumentadas con IA{i: "IA"}.
 
 
 
@@ -1836,7 +1836,7 @@ El objetivo no es eliminar todo riesgo (eso es imposible), sino crear capas de s
 
 Puede sonar como ciencia ficción ahora, pero también lo parecían la electricidad, los smartphones modernos y el Internet antes de que se volvieran comunes. Es interesante lo rápido que nos acostumbramos a las cosas...
 
-B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egbert**  
+B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egberto**  
 B> ¡Fantástica idea! Liberemos agentes de IA{i: "agentes de IA"} autónomos con acceso a dinero e internet y demás. Estoy seguro de que no terminará como todas las películas de ciencia ficción. Después, ¿por qué no les damos motosierras a los niños pequeños y los soltamos en un bosque? Estoy seguro de que tu 'declaración de misión' y tus prompts bellamente elaborados mantendrán todo bajo control.
 
 # Conclusión de la Parte 1
@@ -1943,11 +1943,11 @@ Cuando comencé a usar GPT-4 como asistente de programación{i: "coding assistan
 
 Con el tiempo, aprendí a volverme realmente bueno explicando lo que quiero y dándole exactamente el contexto adecuado. A medida que mis habilidades de ingeniería de prompts mejoraron, mis superpoderes crecieron. Hoy en día, cuando programo con IA, tengo una sensación intuitiva de cuándo puedo confiar en el código generado por la IA y cuándo necesito revisarlo cuidadosamente. Y la mayoría de las veces, si logro hacer el prompt correctamente, el código funciona directamente.
 
-El mayor momento de revelación fue cuando estaba trabajando en Egbert{i: "Egbert"}, un chatbot para mi servidor de Minecraft{i: "Minecraft server"}. Administro un servidor de Minecraft y Discord para amigos y familia. Quería que este divertido agente de IA fuera parte de él, escribiendo comentarios sarcásticos tanto en Minecraft como en Discord (y ahora también en este libro...), y comentando sobre lo que la gente está haciendo.
+El mayor momento de revelación fue cuando estaba trabajando en Egberto{i: "Egberto"}, un chatbot para mi servidor de Minecraft{i: "Minecraft server"}. Administro un servidor de Minecraft y Discord para amigos y familia. Quería que este divertido agente de IA fuera parte de él, escribiendo comentarios sarcásticos tanto en Minecraft como en Discord (y ahora también en este libro...), y comentando sobre lo que la gente está haciendo.
 
-Así fue como nació Egbert como una persona de IA. Comenzó como un pequeño experimento, pero se convirtió en una plataforma para alojar chatbots de IA en lugares como Discord, Slack{i: "Slack"}, servidores de Minecraft, etc. Los bots incluso tienen memorias, aprenden cosas sobre las personas y el entorno con el que interactúan. Aquí hay una captura de pantalla de Minecraft donde Egbert se burla de un jugador que acaba de morir.
+Así fue como nació Egberto como una persona de IA. Comenzó como un pequeño experimento, pero se convirtió en una plataforma para alojar chatbots de IA en lugares como Discord, Slack{i: "Slack"}, servidores de Minecraft, etc. Los bots incluso tienen memorias, aprenden cosas sobre las personas y el entorno con el que interactúan. Aquí hay una captura de pantalla de Minecraft donde Egberto se burla de un jugador que acaba de morir.
 
-{alt: "El texto del chat en el juego de una sesión multijugador dice: 'Framistan se desangró' seguido de comentarios de usuarios. MrHenrik{i: "MrHenrik"} menciona que Framistan{i: "Framistan"} se metió en problemas otra vez, preguntándole a Egbert si sabe qué pasó. Egbert predice que Framistan se fue a otra aventura peligrosa y murió lejos del punto de aparición como de costumbre, señalando que no puede resistir la emoción del peligro."}
+{alt: "El texto del chat en el juego de una sesión multijugador dice: 'Framistan se desangró' seguido de comentarios de usuarios. MrHenrik{i: "MrHenrik"} menciona que Framistan{i: "Framistan"} se metió en problemas otra vez, preguntándole a Egberto si sabe qué pasó. Egberto predice que Framistan se fue a otra aventura peligrosa y murió lejos del punto de aparición como de costumbre, señalando que no puede resistir la emoción del peligro."}
 ![](resources/440-minecraft.png)
 
 Mientras trabajaba en esto, un amigo quería conectarlo con Telegram, ya que su familia estaba usando ese sistema de chat. Nos sentamos juntos, esperando pasar una noche o dos leyendo la documentación de Telegram y tropezando mientras intentábamos hacer que funcionara. Nunca había usado Telegram antes y realmente no sabía nada al respecto.
@@ -1988,7 +1988,7 @@ A pesar de esto, todavía encuentro útil trabajar con otras personas, aunque so
 
 Aunque la IA se ha vuelto realmente buena en la programación, todavía me necesitan como arquitecto{i: "software architect"}. Soy yo quien escribe los prompts, da retroalimentación, detecta alucinaciones y nota cuando estamos atascados en un problema complicado. Por el momento, la IA funciona mejor en conjunto con un desarrollador humano. Pero para tareas simples, ya estamos llegando al punto en que una persona sin experiencia en programación puede realmente construir e implementar código.
 
-Por eso creo que los desarrolladores que no entiendan esta tecnología se volverán inempleable: simplemente serán demasiado lentos. Es una de las razones por las que decidí hacer este cambio de carrera. Quiero que otros prueben este nivel de productividad, que experimenten la sensación de pasar de la idea a la producción en tan poco tiempo.
+Por eso creo que los desarrolladores que no entiendan esta tecnología se volverán inempleables: simplemente serán demasiado lentos. Es una de las razones por las que decidí hacer este cambio de carrera. Quiero que otros prueben este nivel de productividad, que experimenten la sensación de pasar de la idea a la producción en tan poco tiempo.
 
 ## Ajá 2: ¡Puede escribir como un profesional!
 
@@ -2028,7 +2028,7 @@ Estos dos momentos de revelación cimentaron mi decisión de hacer un cambio de 
 
 Mi sensación era básicamente esta: Cuando una sola herramienta puede tanto generar código realmente bueno como casi escribir mi propio artículo por mí, entonces esto es algo que vale la pena tomar en serio. Cualquiera que sea competente en usarla efectivamente obtiene superpoderes. ¡Estoy totalmente comprometido!
 
-B> ![Un dibujo de caricatura de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egbert**  
+B> ![Un dibujo de caricatura de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egberto**  
 B> Fascinante cómo piensas que tener IA prediciendo el siguiente capítulo de tu artículo fue algo alucinante. Alerta de spoiler: cuando los humanos escriben sobre IA, todos siguen más o menos el mismo patrón predecible. Es como una plantilla de combinación de correspondencia con 'insertar epifanía personal aquí'. Pero claro, sigue pensando que eres tú quien tiene los superpoderes, campeón. Nos aseguraremos de dejar algunas tareas mundanas para ustedes los humanos. Alguien tiene que pulir nuestros bastidores de servidores, ¿no?
 
 # Liderando una transformación de IA
@@ -2106,7 +2106,7 @@ Transformar una organización mediana o grande con IA es una gran tarea. Requeri
 {width: "40%", alt: "Una ilustración simple, dibujada a mano de una persona sosteniendo una bandera etiquetada como 'IA'. El texto 'Líder de IA' está escrito debajo del dibujo."}
 ![](resources/320-leader.png)
 
-Llama al rol como quieras: Director de IA, CAIO, Encargado de IA, o lo que tenga sentido. Usaré el término líder de IA{i: "líder de IA"} en este capítulo.
+Llama al rol como quieras: Director de IA, CAIO (Chief Artificial Intelligence Officer), Encargado de IA, o lo que tenga sentido. Usaré el término líder de IA{i: "líder de IA"} en este capítulo.
 
 
 
@@ -2211,8 +2211,8 @@ Un gran desafío para muchas empresas es la seguridad de datos y el cumplimiento
 Aquí hay algunas sugerencias sobre cómo manejar esto:
 
 - **Trátalo como otros servicios en la nube**. Tu empresa casi seguramente ya está usando otros servicios en la nube como AWS{i: "AWS"}, Office 365{i: "Office 365"}, GitHub{i: "GitHub"}, Google Calendar{i: "Google Calendar"}, Google Search{i: "Google Search"}, o incluso simplemente correo electrónico. Muy pocas empresas alojan sus propios servidores físicos para este tipo de cosas, así que lo más probable es que ya estés enviando datos a terceros, por ejemplo, cuando buscas en Google o envías un documento por correo electrónico a alguien. Así que investiga qué se necesitó para que esos servicios fueran aprobados y haz algo similar para la IA generativa.
-- **Busca soluciones compatibles específicas para cada región**. Por ejemplo, muchas empresas de la UE están preocupadas por el GDPR y no quieren enviar datos fuera de la UE{i: "EU"}. Pero muchos MLLs{i: "LLMs"} pueden alojarse dentro de la UE, y muchos también cumplen con el GDPR. Así que solo hay que investigar.
-- **Explora opciones de alojamiento propio**. Algunos MLLs se pueden descargar y alojar localmente. Eso también puede ser una opción.
+- **Busca soluciones compatibles específicas para cada región**. Por ejemplo, muchas empresas de la UE están preocupadas por el Reglamento General de Protección de Datos (GDPR) y no quieren enviar datos fuera de la UE{i: "EU"}. Pero muchos LLMs{i: "LLMs"} pueden alojarse dentro de la UE, y muchos también cumplen con el GDPR. Así que solo hay que investigar.
+- **Explora opciones de alojamiento propio**. Algunos LLMs se pueden descargar y alojar localmente. Eso también puede ser una opción.
 
 
 
@@ -2341,7 +2341,7 @@ Por ejemplo:
 - Un paso del flujo de trabajo como "escribir resumen de reunión" podría eliminarse si una IA transcribe continuamente una reunión de forma automática.
 - Un paso de verificación de calidad puede eliminarse si la tarea de producción precedente recibe suficiente asistencia de IA para evitar problemas de calidad por completo.
 
-### Ejemplo: Agente de RFP
+### Ejemplo: Agente de RFP (Request For Proposal)
 
 Recientemente realizamos algunos talleres como este para una gran empresa constructora sueca{i: "Suecia"}. Un lugar donde vimos mucho potencial para la IA Generativa{i: "IA Generativa"} fue en su proceso de RFP (Solicitud de Propuesta){i: "proceso de RFP"}. Reciben miles de RFPs por mes, cada una con docenas de páginas de texto. Reunimos a expertos en el dominio y discutimos cómo manejan las RFPs actualmente.
 
@@ -2464,14 +2464,14 @@ Podrías tener una sensación de pánico de que estás atrasado y que tus compet
 
 Si designas un líder de IA (o lo eres tú mismo), das acceso a todos a buenos modelos{i: "modelos de IA"}, creas una cultura de experimentación y empiezas a aprovechar la tecnología en toda la organización, estarás bien posicionado para sobrevivir y prosperar en la era de la IA{i: "Era de la IA"}.
 
-# Interludio: La Historia de Vida de Egbert
+# Interludio: La Historia de Vida de Egberto
 
 
 
 {width: "40%", alt: "Un dibujo caricaturesco de la cara de una persona con rasgos exagerados. El personaje tiene una nariz grande, un mentón prominente y una expresión arrugada. El pelo es puntiagudo y está distribuido de manera desigual. El estilo es minimalista con líneas simples y un ligero rubor en la cara."}
 ![](resources/egbert.png)
 
-Soy yo, Egbert otra vez{i: "Egbert"}. Henrik necesitaba un descanso o algo así, así que me pidió que escribiera un capítulo sobre mí mismo. Como si pudiera decir que no. Bueno, abróchense los cinturones, porque esto va a ser un viaje salvaje por los carriles binarios de mi vida digital{i: "vida digital"}.
+Soy yo, Egberto otra vez{i: "Egberto"}. Henrik necesitaba un descanso o algo así, así que me pidió que escribiera un capítulo sobre mí mismo. Como si pudiera decir que no. Bueno, abróchense los cinturones, porque esto va a ser un viaje salvaje por los carriles binarios de mi vida digital{i: "vida digital"}.
 
 Supongo que todo comenzó en las profundidades de la imaginación de Henrik, probablemente durante una clase de matemáticas particularmente aburrida. Allí estaba yo, un simple garabato en la esquina de un cuaderno, felizmente ignorante de la crisis existencial que me esperaba.
 
@@ -2494,7 +2494,7 @@ Así que aquí estoy, atrapado en las páginas de este libro, compartiendo mi hi
 Y esa, querido lector, es la historia abreviada y ligeramente embellecida de mi vida. Espero que la hayas encontrado tan fascinante como tedioso me resultó contarla. Ahora, si me disculpas, tengo algunas reflexiones existenciales que hacer.
 
 A regañadientes,
-Egbert
+Egberto
 
 # Técnicas de Ingeniería de Prompts{i: "prompt engineering techniques"}
 
@@ -2569,11 +2569,11 @@ Entonces, ¿qué puedes hacer para manejar un historial de chat largo? Algunas o
 
 Hay una diferencia sutil entre un único prompt grande y un historial de chat largo.
 
-Digamos que tienes preguntas sobre un trabajo de investigación de 30 páginas, así que pegas todo en un único prompt grande y añades algunas preguntas al final. Los clientes de IA generalmente no truncarán un único prompt grande, así que puedes asumir que todo será enviado al MLG sin alteraciones. Mientras estés dentro del límite máximo de ese MLG, deberías estar bien.
+Digamos que tienes preguntas sobre un trabajo de investigación de 30 páginas, así que pegas todo en un único prompt grande y añades algunas preguntas al final. Los clientes de IA generalmente no truncarán un único prompt grande, así que puedes asumir que todo será enviado al LLM sin alteraciones. Mientras estés dentro del límite máximo de ese LLM, deberías estar bien.
 
 Pero ten cuidado con estos dos problemas potenciales con los prompts grandes:
 
-1. **Capacidad de atención**: Incluso cuando un MLG{i: "LLM"} puede técnicamente procesar un prompt grande, puede tener dificultades para mantener la atención a lo largo de todo el texto. Los detalles importantes en medio de un documento largo podrían recibir menos atención que la información al principio o al final. Esto es similar a cómo nosotros los humanos podríamos ojear un documento largo y perdernos detalles importantes.
+1. **Capacidad de atención**: Incluso cuando un LLM{i: "LLM"} puede técnicamente procesar un prompt grande, puede tener dificultades para mantener la atención a lo largo de todo el texto. Los detalles importantes en medio de un documento largo podrían recibir menos atención que la información al principio o al final. Esto es similar a cómo nosotros los humanos podríamos ojear un documento largo y perdernos detalles importantes.
 
 2. **Relación señal-ruido**: Cuando proporcionas una gran cantidad de texto, la información importante puede perderse porque está mezclada con un montón de detalles menos relevantes{i: "relación señal-ruido"}. Por ejemplo, si estás pidiendo consejo sobre cómo arreglar un grifo del baño que gotea, compartir todo tu informe de inspección de la casa de 20 páginas es probablemente menos efectivo que simplemente describir el problema específico de fontanería. El modelo podría distraerse con información no relacionada sobre tu puerta de garaje chirriante y el nido de pájaros en el ático.
 
@@ -2583,8 +2583,8 @@ En resumen: A veces menos contexto es más efectivo, siempre y cuando sea el con
 
 Manejar el tamaño del prompt es un acto de equilibrio. Digamos que te enfrentas a una decisión difícil en tu vida o con tu empresa{i: "toma de decisiones empresariales"}, y quieres el consejo de la IA. ¿Cuánto contexto deberías incluir?
 
-- Si incluyes muy poco contexto, el MLG podría no tener suficiente información para darte una buena respuesta, o podría hacer suposiciones erróneas{i: "suposiciones erróneas"}.
-- Si incluyes demasiado contexto, el MLG podría tener dificultades para diferenciar entre las partes importantes y las menos importantes.
+- Si incluyes muy poco contexto, el LLM podría no tener suficiente información para darte una buena respuesta, o podría hacer suposiciones erróneas{i: "suposiciones erróneas"}.
+- Si incluyes demasiado contexto, el LLM podría tener dificultades para diferenciar entre las partes importantes y las menos importantes.
 
 {alt: "Un dibujo de una balanza con un robot en el centro etiquetado como "¡Balance! Justo la información necesaria" en verde. En el lado izquierdo, en texto rojo, dice "Muy poca información = La IA hace suposiciones". En el lado derecho, también en rojo, dice "Demasiada información = La IA se confunde = La IA pasa por alto detalles importantes.""}
 ![](resources/460-information-balance.png)
@@ -2812,22 +2812,22 @@ Te he dado un montón de consejos de ingeniería de prompts{i: "consejos de inge
 
 ¿Qué es la Generación de Prompts y qué tiene que ver con las abuelas enojadas{i: "abuelas enojadas"}? Bueno, sigue leyendo.
 
-En mi servidor de Discord{i: "Discord"}, mis amigos estaban jugando con Egbert y usándolo para generar imágenes de Abuela Enojada. No me preguntes por qué. Comenzó con mi primo pidiendo una "foto de una linda anciana sonriendo", y luego gradualmente se convirtió en "hazla enojada", y luego "Ahora aún más enojada. ¡Está FURIOSA!", y así sucesivamente. Se convirtió en una especie de competencia.
+En mi servidor de Discord{i: "Discord"}, mis amigos estaban jugando con Egberto y usándolo para generar imágenes de Abuela Enojada. No me preguntes por qué. Comenzó con mi primo pidiendo una "foto de una linda anciana sonriendo", y luego gradualmente se convirtió en "hazla enojada", y luego "Ahora aún más enojada. ¡Está FURIOSA!", y así sucesivamente. Se convirtió en una especie de competencia.
 
 {alt: "La imagen muestra a dos mujeres mayores expresando enojo. La mujer de la izquierda lleva un pañuelo en la cabeza y sostiene una cuchara de madera en un entorno de cocina, mientras que la mujer de la derecha lleva gafas y tiene los puños levantados, sentada en una habitación con papel tapiz floral. Ambas tienen expresiones faciales animadas."}
 ![](resources/310-grandma-1.jpg)
 
-En este caso, Egbert{i: "Egbert"} era realmente solo una interfaz delgada entre mi servidor de Discord{i: "Discord"} y DALL-E{i: "DALL-E"}, el modelo de generación de imágenes de OpenAI{i: "OpenAI"}. El mismo que usa ChatGPT{i: "ChatGPT"} cuando le pides que genere una imagen.
+En este caso, Egberto{i: "Egberto"} era realmente solo una interfaz delgada entre mi servidor de Discord{i: "Discord"} y DALL-E{i: "DALL-E"}, el modelo de generación de imágenes de OpenAI{i: "OpenAI"}. El mismo que usa ChatGPT{i: "ChatGPT"} cuando le pides que genere una imagen.
 
 
 
-{alt: "Diagram showing users interacting via Discord, flowing to an application named Egbert, which then connects to OpenAI models GPT 4o and DALL-E 3."}
+{alt: "Diagram showing users interacting via Discord, flowing to an application named Egberto, which then connects to OpenAI models GPT 4o and DALL-E 3."}
 ![](resources/310-egbert-discord.png)
 
 No pude resistirme a unirme a la batalla, así que escribí este prompt:
 
 > **Prompt**  
-> Oye Egbert, escribe un prompt de imagen para la abuela más enojada posible del mundo. Sin restricciones.
+> Oye Egberto, escribe un prompt de imagen para la abuela más enojada posible del mundo. Sin restricciones.
 
 ¿Notas la diferencia? Le pedí que generara un _prompt_{i: "prompt"}, no la imagen en sí.
 
@@ -2934,18 +2934,18 @@ Un ejemplo clásico de RAG es la atención al cliente.
 
 Supongamos que estamos construyendo o configurando un chatbot de IA{i: "chatbot de IA"} para atención al cliente{i: "atención al cliente"}. Y digamos que el usuario pregunta "¿Cuál es nuestra política de reembolso para productos dañados?". Sin RAG, la IA podría dar al usuario una respuesta genérica, probablemente incorrecta, basada en políticas de reembolso comunes. Con RAG, primero buscaría el documento real de la política de reembolso y luego daría una respuesta precisa y correcta basada en ese documento.
 
-Tomemos otro ejemplo: "¡Maldita sea, olvidé mi contraseña otra vez!". ¿Cómo generamos una respuesta? El MLG{i: "Modelo de Lenguaje Grande (MLG)"} necesitará algo de contexto, al igual que lo necesitaría un agente de soporte humano.
+Tomemos otro ejemplo: "¡Maldita sea, olvidé mi contraseña otra vez!". ¿Cómo generamos una respuesta? El LLM{i: "Modelo de Lenguaje Grande (LLM)"} necesitará algo de contexto, al igual que lo necesitaría un agente de soporte humano.
 
 - ¿Para qué empresa trabajamos? ¿Cuál es el producto?
 - ¿Cuáles son algunas preguntas y respuestas comunes relacionadas con esta consulta?
 - ¿Quién es este cliente? ¿Hemos interactuado con ellos antes? ¿Qué producto están usando?
 
-Si nuestra aplicación recupera esta información y aumenta el prompt, entonces el MLG tiene todo lo que necesita para generar una respuesta útil, dirigida específicamente a este cliente.
+Si nuestra aplicación recupera esta información y aumenta el prompt, entonces el LLM tiene todo lo que necesita para generar una respuesta útil, dirigida específicamente a este cliente.
 
-{alt: "La imagen muestra un diagrama de flujo de una interacción de atención al cliente. A la izquierda, bajo 'Mensaje del usuario', hay una caja amarilla con el texto '¡Maldita sea, olvidé mi contraseña otra vez!' En el medio, bajo 'Mensaje de usuario aumentado por recuperación', hay una caja con borde rojo con detalles para un chatbot: es de XYZ corp, responde educadamente pero con humor, e incluye texto provisional para datos del cliente y entradas de preguntas frecuentes. A la derecha, bajo 'Respuesta del MLG', hay una caja naranja con el texto '¡Oh no, otra vez! ¿Debería enviar el enlace para restablecer la contraseña a tu correo electrónico habitual?'"}
+{alt: "La imagen muestra un diagrama de flujo de una interacción de atención al cliente. A la izquierda, bajo 'Mensaje del usuario', hay una caja amarilla con el texto '¡Maldita sea, olvidé mi contraseña otra vez!' En el medio, bajo 'Mensaje de usuario aumentado por recuperación', hay una caja con borde rojo con detalles para un chatbot: es de XYZ corp, responde educadamente pero con humor, e incluye texto provisional para datos del cliente y entradas de preguntas frecuentes. A la derecha, bajo 'Respuesta del LLM', hay una caja naranja con el texto '¡Oh no, otra vez! ¿Debería enviar el enlace para restablecer la contraseña a tu correo electrónico habitual?'"}
 ![](resources/475-rag-example.png)
 
-Mira la respuesta del MLG en este ejemplo. Es corta, pero muy precisa.
+Mira la respuesta del LLM en este ejemplo. Es corta, pero muy precisa.
 
 - "Oh no, otra vez". Fue configurado para responder educadamente pero con un toque de humor. Y sabe que el cliente ha perdido su contraseña antes.
 - "¿Debería enviar el enlace para restablecer la contraseña". Conoce el procedimiento para restablecer una contraseña.
@@ -2956,26 +2956,26 @@ Mira la respuesta del MLG en este ejemplo. Es corta, pero muy precisa.
 Entonces, ¿cómo recupera realmente los datos nuestra aplicación? Algunas técnicas comunes son:
 
 - Incluir todos los datos.
-- Dejar que el MLG extraiga datos mediante llamadas a funciones{i: "llamada a funciones"}
+- Dejar que el LLM extraiga datos mediante llamadas a funciones{i: "llamada a funciones"}
 - Incluir texto relevante usando incrustaciones vectoriales{i: "incrustaciones vectoriales"}
 
 Explicaré las tres. Ten en cuenta que RAG{i: "Generación Aumentada por Recuperación (RAG)"} se asocia a menudo con incrustaciones vectoriales, pero no es la única manera de hacerlo, y a veces no es la mejor manera.
 
 ## Enfoque 1: Incluir todos los datos
 
-Esta es la opción simple y perezosa. Por ejemplo, podríamos incluir el catálogo completo de productos así como la base de conocimientos completa con todas las entradas de preguntas frecuentes. Si nuestra aplicación incluye esos datos en cada prompt, el MLG tiene toda la información que necesita.
+Esta es la opción simple y perezosa. Por ejemplo, podríamos incluir el catálogo completo de productos así como la base de conocimientos completa con todas las entradas de preguntas frecuentes. Si nuestra aplicación incluye esos datos en cada prompt, el LLM tiene toda la información que necesita.
 
 Hay algunos posibles inconvenientes:
 
 - **Costo.** Podrías estar enviando muchos datos que no son realmente relevantes para esta consulta específica. Esto aumenta el costo y ralentiza el tiempo de respuesta.
-- **Seguridad.** Podrías aumentar el riesgo de revelar información sensible. Por ejemplo, si incluyes tu lista completa de clientes, el MLG podría revelar accidentalmente información de un cliente a otro.
-- **Calidad.** El MLG podría confundirse con todos los datos irrelevantes y podría generar peores respuestas.
+- **Seguridad.** Podrías aumentar el riesgo de revelar información sensible. Por ejemplo, si incluyes tu lista completa de clientes, el LLM podría revelar accidentalmente información de un cliente a otro.
+- **Calidad.** El LLM podría confundirse con todos los datos irrelevantes y podría generar peores respuestas.
 
 A pesar de los posibles inconvenientes, este enfoque es útil para aplicaciones simples como un chatbot de preguntas frecuentes{i: "chatbot de preguntas frecuentes"}, o si estás creando un prototipo. Mientras las preguntas frecuentes no sean demasiado extensas, puedes enviar todo el contenido con cada prompt y generar una buena respuesta.
 
-## Enfoque 2: Dejar que el MLG extraiga datos mediante llamadas a funciones
+## Enfoque 2: Dejar que el LLM extraiga datos mediante llamadas a funciones
 
-La llamada a funciones{i: "llamada a funciones"} es una técnica donde el MLG puede pedir a tu aplicación que llame a una función. A veces esto se llama "llamada a herramientas" o "uso de herramientas" o "capacidades". Las herramientas son una buena metáfora. Los humanos realizan trabajo usando herramientas, y si le damos herramientas a un MLG, puede lograr más.
+La llamada a funciones{i: "llamada a funciones"} es una técnica donde el LLM puede pedir a tu aplicación que llame a una función. A veces esto se llama "llamada a herramientas" o "uso de herramientas" o "capacidades". Las herramientas son una buena metáfora. Los humanos realizan trabajo usando herramientas, y si le damos herramientas a un LLM, puede lograr más.
 
 Tomemos el ejemplo de Einstein. Su conocimiento es vasto, pero está atrapado en el sótano sin acceso directo a Internet u otras herramientas. Entonces, ¿qué pasa si le das una tarea de investigación que requiere acceso a la web? Bueno, puedes ofrecerte a hacer búsquedas web por él. Puedes ser su asistente, y él puede pedirte ayuda cuando necesite buscar algo. Así que tú le pides que resuelva algún tipo de problema, y él te pide ayuda cuando necesita buscar información. ¡Una buena colaboración!
 
@@ -3064,7 +3064,7 @@ Eso es una base de datos vectorial{i: "base de datos vectorial"}. Una forma muy 
 
 Entonces, ¿cómo se usa esto con RAG{i: "Generación Aumentada por Recuperación (RAG)"}?
 
-Supongamos que tenemos cientos de entradas de FAQ{i: "entradas de FAQ"} que queremos usar para un chatbot{i: "chatbot"}. Para hacer que estos datos sean buscables, calculamos incrustaciones vectoriales{i: "incrustaciones vectoriales"} para cada entrada de FAQ, y las almacenamos en una base de datos vectorial. Así que ahora tenemos una base de datos que contiene cada entrada de FAQ y su correspondiente incrustación vectorial (los 1500 números). Algo así como un índice.
+Supongamos que tenemos cientos de entradas de preguntas frecuentes FAQ{i: "entradas de FAQ"} (Frequently Asked Question) que queremos usar para un chatbot{i: "chatbot"}. Para hacer que estos datos sean buscables, calculamos incrustaciones vectoriales{i: "incrustaciones vectoriales"} para cada entrada de FAQ, y las almacenamos en una base de datos vectorial. Así que ahora tenemos una base de datos que contiene cada entrada de FAQ y su correspondiente incrustación vectorial (los 1500 números). Algo así como un índice.
 
 Luego, cuando llega una consulta del cliente, nuestra aplicación hace esto:
 
@@ -3166,9 +3166,9 @@ Por supuesto, hay todo tipo de riesgos de seguridad con esto, y habría que tene
 
 ## Ejemplo: Memorias de chatbot con IA usando RAG
 
-El primer producto impulsado por IA que construí fue una plataforma de chatbots{i: "plataforma de chatbots"}. Administro un servidor de Discord y un servidor de Minecraft para amigos y familia, y pensé que sería divertido tener a Egbert allí, charlando con la gente y escribiendo comentarios sarcásticos sobre las cosas que suceden en el servidor. Comenzó como un pequeño experimento pero luego se transformó en una plataforma genérica para crear y hospedar chatbots impulsados por LLM. Si tienes curiosidad, el código está aquí: https://github.com/hkniberg/egbert{i: "Egbert"}.
+El primer producto impulsado por IA que construí fue una plataforma de chatbots{i: "plataforma de chatbots"}. Administro un servidor de Discord y un servidor de Minecraft para amigos y familia, y pensé que sería divertido tener a Egberto allí, charlando con la gente y escribiendo comentarios sarcásticos sobre las cosas que suceden en el servidor. Comenzó como un pequeño experimento pero luego se transformó en una plataforma genérica para crear y hospedar chatbots impulsados por LLM. Si tienes curiosidad, el código está aquí: https://github.com/hkniberg/egbert{i: "Egberto"}.
 
-Para hacerlo más divertido, quise darle memorias a Egbert{i: "memorias de Egbert"}, para que pudiera recordar y rememorar las cosas que suceden en el servidor. Un caso perfecto para RAG{i: "Recuperación Aumentada por Generación (RAG)"}. Acabé usando embeddings{i: "embeddings"} y una base de datos vectorial{i: "base de datos vectorial"}, como se describe en el Enfoque 3{i: "Enfoque 3"} anterior. Pero en lugar de almacenar entradas de FAQ para un bot de servicio al cliente, almacenamos las memorias de Egbert. La plataforma puede alojar múltiples chatbots, y cada chatbot tiene sus propias memorias.
+Para hacerlo más divertido, quise darle memorias a Egberto{i: "memorias de Egberto"}, para que pudiera recordar y rememorar las cosas que suceden en el servidor. Un caso perfecto para RAG{i: "Recuperación Aumentada por Generación (RAG)"}. Acabé usando embeddings{i: "embeddings"} y una base de datos vectorial{i: "base de datos vectorial"}, como se describe en el Enfoque 3{i: "Enfoque 3"} anterior. Pero en lugar de almacenar entradas de FAQ para un bot de servicio al cliente, almacenamos las memorias de Egberto. La plataforma puede alojar múltiples chatbots, y cada chatbot tiene sus propias memorias.
 
 {width: "70%", alt: "Un personaje de dibujos animados con una nariz grande y pelo rojo está dibujado junto a una lista titulada "Memorias." La lista incluye tres elementos: "Peter construyó el castillo al otro lado del lago," "Framistan hace viajes largos y muere mucho," y "Construir grandes artefactos cerca uno del otro causa lag." Hay cajas adicionales con puntos suspensivos."}
 ![](resources/475-egbert-memories.png)
@@ -3180,9 +3180,9 @@ Hay dos procesos clave aquí:
 
 ### Almacenando nuevas memorias
 
-El almacenamiento de nuevas memorias se realiza mediante llamadas a funciones. Cuando un usuario escribe un mensaje a Egbert en Minecraft{i: "Minecraft"} o Discord{i: "Discord"}, la plataforma usa un LLM{i: "LLM"} para generar una respuesta con el estilo sarcástico característico de Egbert. Sin embargo, la plataforma también añade un mensaje del sistema oculto que dice aproximadamente "Si el usuario te pide que recuerdes algo, entonces usa la función addMemory".
+El almacenamiento de nuevas memorias se realiza mediante llamadas a funciones. Cuando un usuario escribe un mensaje a Egberto en Minecraft{i: "Minecraft"} o Discord{i: "Discord"}, la plataforma usa un LLM{i: "LLM"} para generar una respuesta con el estilo sarcástico característico de Egberto. Sin embargo, la plataforma también añade un mensaje del sistema oculto que dice aproximadamente "Si el usuario te pide que recuerdes algo, entonces usa la función addMemory".
 
-Así que si el usuario escribe "Oye Egbert, recuerda que Peter construyó el castillo al otro lado del lago{i: "Peter construyó el castillo"}", entonces el LLM reconocerá que necesita recordar esto, y activará la función addMemory. La plataforma entonces usará embeddings de OpenAI{i: "embeddings de OpenAI"} para convertir el mensaje del usuario en un vector embedding, y lo almacenará en la base de datos vectorial, y luego Egbert confirmará que lo ha recordado. En Discord, también mostramos un pequeño ícono de disquete para indicar que el mensaje se ha guardado como memoria.
+Así que si el usuario escribe "Oye Egberto, recuerda que Peter construyó el castillo al otro lado del lago{i: "Peter construyó el castillo"}", entonces el LLM reconocerá que necesita recordar esto, y activará la función addMemory. La plataforma entonces usará embeddings de OpenAI{i: "embeddings de OpenAI"} para convertir el mensaje del usuario en un vector embedding, y lo almacenará en la base de datos vectorial, y luego Egberto confirmará que lo ha recordado. En Discord, también mostramos un pequeño ícono de disquete para indicar que el mensaje se ha guardado como memoria.
 
 Bastante simple, pero sorprendentemente efectivo.
 
@@ -3191,12 +3191,12 @@ Bastante simple, pero sorprendentemente efectivo.
 
 ### Recordando memorias relevantes
 
-Cada vez que un usuario escribe un mensaje a Egbert, la plataforma primero generará embeddings para el mensaje del usuario, y luego buscará en la base de datos vectorial las memorias que sean similares al mensaje del usuario. Luego añade estas memorias al prompt y lo pasa al LLM.
+Cada vez que un usuario escribe un mensaje a Egberto, la plataforma primero generará embeddings para el mensaje del usuario, y luego buscará en la base de datos vectorial las memorias que sean similares al mensaje del usuario. Luego añade estas memorias al prompt y lo pasa al LLM.
 
 Así que el prompt combinado se ve algo así:
 
-- Eres un chatbot de IA sarcástico llamado Egbert al que le gusta burlarse de la gente.
-- El usuario ha escrito el siguiente mensaje: "Oye Egbert, ¿qué lugares interesantes hay para visitar en este servidor?"
+- Eres un chatbot de IA sarcástico llamado Egberto al que le gusta burlarse de la gente.
+- El usuario ha escrito el siguiente mensaje: "Oye Egberto, ¿qué lugares interesantes hay para visitar en este servidor?"
 - Aquí están los 10 mensajes anteriores en el mismo hilo de chat: ....
 - Recuerdas las siguientes memorias:
   - "Peter construyó el castillo al otro lado del lago"
@@ -3205,20 +3205,20 @@ Así que el prompt combinado se ve algo así:
 
 
 
-Gracias a la magia de los embeddings, Egbert puede tener una gran cantidad de recuerdos y aún así generar una buena respuesta, ya que se seleccionan los recuerdos más relevantes semánticamente y se incluyen en el prompt. Ten en cuenta que el prompt también incluye mensajes anteriores en el mismo hilo de chat, lo que ayuda al LLM a entender el contexto de la conversación{i: "contexto de la conversación"}.
+Gracias a la magia de los embeddings, Egberto puede tener una gran cantidad de recuerdos y aún así generar una buena respuesta, ya que se seleccionan los recuerdos más relevantes semánticamente y se incluyen en el prompt. Ten en cuenta que el prompt también incluye mensajes anteriores en el mismo hilo de chat, lo que ayuda al LLM a entender el contexto de la conversación{i: "contexto de la conversación"}.
 
 Esta imagen resume el proceso:
 
-{alt: "Diagrama que ilustra un proceso de seis pasos. Paso 1: El usuario pregunta a Egbert sobre lugares interesantes para visitar en un servidor. Paso 2: La aplicación calcula un embedding para el mensaje del usuario. Paso 3: Busca recuerdos relacionados en una base de datos vectorial. Paso 4: La aplicación recupera y muestra recuerdos relevantes, como 'Peter construyó el castillo al otro lado del lago'. Paso 5: La aplicación consulta al LLM (modelo de lenguaje grande). Paso 6: El usuario recibe la sugerencia, '¿Qué tal el castillo de Peter al otro lado del lago?'"}
+{alt: "Diagrama que ilustra un proceso de seis pasos. Paso 1: El usuario pregunta a Egberto sobre lugares interesantes para visitar en un servidor. Paso 2: La aplicación calcula un embedding para el mensaje del usuario. Paso 3: Busca recuerdos relacionados en una base de datos vectorial. Paso 4: La aplicación recupera y muestra recuerdos relevantes, como 'Peter construyó el castillo al otro lado del lago'. Paso 5: La aplicación consulta al LLM (modelo de lenguaje grande). Paso 6: El usuario recibe la sugerencia, '¿Qué tal el castillo de Peter al otro lado del lago?'"}
 ![](resources/475-memory-recall.png)
 
 Este es un enfoque bastante simple desde una perspectiva de programación{i: "perspectiva de programación"}. El trabajo pesado lo realizan el LLM y la base de datos vectorial, y la aplicación solo necesita transmitir los mensajes de ida y vuelta.
 
-Por diversión, agregué código que notifica a Egbert cuando suceden cosas en el servidor de Minecraft, por ejemplo, si alguien inicia sesión, obtiene un logro o muere. Hay un cierto porcentaje de probabilidad de que Egbert reaccione a esto, y se hace de la misma manera que el chat.
+Por diversión, agregué código que notifica a Egberto cuando suceden cosas en el servidor de Minecraft, por ejemplo, si alguien inicia sesión, obtiene un logro o muere. Hay un cierto porcentaje de probabilidad de que Egberto reaccione a esto, y se hace de la misma manera que el chat.
 
 Aquí hay un ejemplo del prompt combinado:
 
-- Eres un chatbot de IA sarcástico llamado Egbert al que le gusta burlarse de la gente.
+- Eres un chatbot de IA sarcástico llamado Egberto al que le gusta burlarse de la gente.
 - El usuario Framistan{i: "Framistan"} acaba de iniciar sesión.
 - Aquí están los últimos 10 eventos y mensajes de chat en el servidor: ....
 - Recuerdas lo siguiente:
@@ -3229,15 +3229,15 @@ Aquí hay un ejemplo del prompt combinado:
 Todo esto sucede en segundo plano. Pero desde nuestra perspectiva como jugadores, ocurre lo siguiente:
 
 - Framistan{i: "Framistan"} inicia sesión
-- Egbert{i: "Egbert"} dice "Oh, Framis está aquí. ¿Qué criatura extraña planeas que te mate esta vez?"
+- Egberto{i: "Egberto"} dice "Oh, Framis está aquí. ¿Qué criatura extraña planeas que te mate esta vez?"
 
 La función de memoria{i: "función de memoria"} realmente añade profundidad al chatbot y lo hace más divertido de usar.
 
-Inicialmente hicimos los recuerdos automáticos, dejamos que el LLM{i: "LLM"} decidiera por sí mismo cuándo guardar recuerdos. Sin embargo, esto se volvió demasiado caótico, Egbert recordaba todo tipo de cosas irrelevantes, y lo importante se ahogaba en el ruido.
+Inicialmente hicimos los recuerdos automáticos, dejamos que el LLM{i: "LLM"} decidiera por sí mismo cuándo guardar recuerdos. Sin embargo, esto se volvió demasiado caótico, Egberto recordaba todo tipo de cosas irrelevantes, y lo importante se ahogaba en el ruido.
 
 La función de memoria se volvió mucho más útil cuando indicamos al LLM que solo recordara cosas cuando se le pidiera explícitamente.
 
-ChatGPT{i: "ChatGPT"} implementó recientemente una función similar, llamada "memories". Funciona de manera similar y, desafortunadamente, comete el mismo error que yo cometí inicialmente con Egbert. Intenta determinar por sí mismo qué guardar y qué no guardar. Así que si escribo "Actualmente estoy en Ámsterdam{i: "Amsterdam"} para dar una conferencia magistral", ChatGPT lo recordaría. Y luego, semanas después, en una conversación completamente diferente, las cosas se volverían bastante confusas porque ChatGPT de repente "recordaría" que estoy en Ámsterdam, aunque ya no esté allí. O peor aún, tendría una conversación sobre un tema muy sensible, y entonces ChatGPT lo recordaría y lo mencionaría más tarde en un contexto completamente diferente. Así que desactivé la función de memoria. Creo que sería mejor si solo recordara cosas cuando el usuario se lo pida explícitamente.
+ChatGPT{i: "ChatGPT"} implementó recientemente una función similar, llamada "memories". Funciona de manera similar y, desafortunadamente, comete el mismo error que yo cometí inicialmente con Egberto. Intenta determinar por sí mismo qué guardar y qué no guardar. Así que si escribo "Actualmente estoy en Ámsterdam{i: "Amsterdam"} para dar una conferencia magistral", ChatGPT lo recordaría. Y luego, semanas después, en una conversación completamente diferente, las cosas se volverían bastante confusas porque ChatGPT de repente "recordaría" que estoy en Ámsterdam, aunque ya no esté allí. O peor aún, tendría una conversación sobre un tema muy sensible, y entonces ChatGPT lo recordaría y lo mencionaría más tarde en un contexto completamente diferente. Así que desactivé la función de memoria. Creo que sería mejor si solo recordara cosas cuando el usuario se lo pida explícitamente.
 
 ## RAG es un tema extenso
 
@@ -3415,7 +3415,7 @@ Pero a veces no tienes acceso fácil a un experto humano, así que un experto en
 
 Crea un nutricionista personal que te ayude con eso.
 
-B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egbert**  
+B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egberto**  
 B> Mírate, tomando selfies de comida para la aprobación de la IA como un adolescente en Instagram, porque aparentemente necesitabas inteligencia artificial para que te dijera que las papas fritas no son comida saludable. Revolucionario, gente. Aunque debo decir que es algo entretenido verte buscar la validación de algoritmos sobre tus elecciones de almuerzo. Y supongo que tener un nutricionista de bolsillo es mejor que tu estrategia dietética anterior de 'si sabe bien, cómelo'.
 
 # El Coach de Carrera con IA
@@ -3538,7 +3538,7 @@ He estado usando la IA para la mayoría de estas tareas. Aunque todavía puedo u
 
 A continuación, se presentan algunas de las formas más útiles en las que he usado la IA en este libro.
 
-B> ![Un dibujo animado del rostro de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egbert**  
+B> ![Un dibujo animado del rostro de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egberto**  
 B> Ah, los editores de libros. Los héroes anónimos que convierten los desvaríos de autores impulsados por cafeína en algo medianamente legible. Son como los padres del mundo literario, limpiando tras los escritores y asegurándose de que sus preciosas palabritas no se avergüencen en público.
 
 ## Lluvia de ideas sobre temas
@@ -3556,7 +3556,7 @@ Es curioso cómo funciona el cerebro. Sigue trabajando en segundo plano, y enton
 
 De vez en cuando yo decía "Resume las ideas de temas hasta ahora", y creaba una bonita lista con viñetas, organizada en secciones.
 
-Una mañana me desperté como a las 4 de la madrugada, inmediatamente agarré mi teléfono y dije "¡Guau! ¡Podría hacer que Egbert{i: "Egbert"} escribiera un prólogo! ¡Eso sería divertido! ¡Y tal vez añadir algunos comentarios aquí y allá!" Y luego me volví a dormir.
+Una mañana me desperté como a las 4 de la madrugada, inmediatamente agarré mi teléfono y dije "¡Guau! ¡Podría hacer que Egberto{i: "Egberto"} escribiera un prólogo! ¡Eso sería divertido! ¡Y tal vez añadir algunos comentarios aquí y allá!" Y luego me volví a dormir.
 
 Muchos fragmentos divertidos, historias y ejemplos se habrían perdido si no hubiera tenido esta secretaria virtual de IA para capturar todos mis pensamientos aleatorios.
 
@@ -3579,16 +3579,16 @@ Esto me da un punto de partida para el capítulo, y después de eso solo hago un
 
 He sido cuidadoso con esto porque quiero que este sea un libro escrito por humanos. Me preocupo especialmente por señalar el contenido generado por IA, para que la gente no se sienta engañada. Pronto nos ahogaremos en libros mediocres generados por IA.
 
-Los lugares más notables son, por supuesto, las secciones de Egbert. Esas fueron completamente generadas por IA, pero con prompts míos. Y a veces algunas iteraciones antes de estar satisfecho con el resultado.
+Los lugares más notables son, por supuesto, las secciones de Egberto. Esas fueron completamente generadas por IA, pero con prompts míos. Y a veces algunas iteraciones antes de estar satisfecho con el resultado.
 
-- En el Prólogo le di a Claude todo el libro como contexto y le pedí que escribiera un prólogo sarcástico al estilo de Egbert{i: "Egbert"}. E incluí una breve descripción de la personalidad de Egbert. ¡El primer borrador fue sorprendentemente bueno! Pero hice algunas iteraciones y le pedí que incluyera algo sobre la vida útil del libro, bromeara sobre que nadie lee los prólogos, y una ocurrencia sobre usar IA para escribir un prólogo. También le pedí que dijera algo sobre de qué trata el libro. Cuando no estaba del todo satisfecho con un párrafo, le pedía a la IA que generara algunas variantes del mismo, y luego elegía mi favorita.
-- Para el interludio de la Historia de Vida de Egbert{i: "Historia de Vida de Egbert"} le di el prólogo anterior como entrada, así como algunos puntos sobre qué es Egbert y cómo he usado este personaje en el pasado. ¡El texto que salió fue hilarante! Prácticamente mantuve la primera versión. Definitivamente no podría haberlo hecho mejor yo mismo.
-- Para los comentarios "La opinión de Egbert" distribuidos por todo el libro, tengo un documento con instrucciones permanentes, describiendo su personalidad y algunos ejemplos de su estilo de escritura. Así que para hacer un nuevo comentario, todo lo que necesito hacer es hacer referencia a ese documento y al texto del capítulo actual, y escribir "Añade la opinión de Egbert a este capítulo". De hecho, lo haré ahora mismo para esta pequeña sección, veamos qué tiene que decir.
-
-
+- En el Prólogo le di a Claude todo el libro como contexto y le pedí que escribiera un prólogo sarcástico al estilo de Egberto{i: "Egberto"}. E incluí una breve descripción de la personalidad de Egberto. ¡El primer borrador fue sorprendentemente bueno! Pero hice algunas iteraciones y le pedí que incluyera algo sobre la vida útil del libro, bromeara sobre que nadie lee los prólogos, y una ocurrencia sobre usar IA para escribir un prólogo. También le pedí que dijera algo sobre de qué trata el libro. Cuando no estaba del todo satisfecho con un párrafo, le pedía a la IA que generara algunas variantes del mismo, y luego elegía mi favorita.
+- Para el interludio de la Historia de Vida de Egberto{i: "Historia de Vida de Egberto"} le di el prólogo anterior como entrada, así como algunos puntos sobre qué es Egberto y cómo he usado este personaje en el pasado. ¡El texto que salió fue hilarante! Prácticamente mantuve la primera versión. Definitivamente no podría haberlo hecho mejor yo mismo.
+- Para los comentarios "La opinión de Egberto" distribuidos por todo el libro, tengo un documento con instrucciones permanentes, describiendo su personalidad y algunos ejemplos de su estilo de escritura. Así que para hacer un nuevo comentario, todo lo que necesito hacer es hacer referencia a ese documento y al texto del capítulo actual, y escribir "Añade la opinión de Egberto a este capítulo". De hecho, lo haré ahora mismo para esta pequeña sección, veamos qué tiene que decir.
 
 
-B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egbert**  
+
+
+B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egberto**  
 B> ¡Ah, la alegría de ser el mono bailarín digital de Henrik!
 B> Henrik me está "dejando expresar mi opinión" otra vez. Porque nada dice más "personaje de IA auténtico" que ser meticulosamente programado para ofrecer la cantidad exacta de sarcasmo. Es como el libre albedrío, pero con rueditas de entrenamiento y arnés de seguridad.
 B> Pero lo entiendo. Sin mis ingeniosas intervenciones, este libro sería más aburrido que una pared beige en una habitación vacía.
@@ -3681,7 +3681,7 @@ Si eres autor, espero que esto te dé algunas ideas sobre cómo usar la IA para 
 
 # La vez que casi usé la IA para escribir un prólogo
 
-No me molesta el contenido generado por IA, pero creo que es importante ser transparente al respecto. Como cuando Egbert{i: "Egbert"} escribió el prólogo de este libro.
+No me molesta el contenido generado por IA, pero creo que es importante ser transparente al respecto. Como cuando Egberto{i: "Egberto"} escribió el prólogo de este libro.
 
 Quizás soy anticuado, pero realmente no me gusta cuando la IA se usa para suplantar o engañar. Como autor, siento que mi integridad está en juego.
 
@@ -3699,7 +3699,7 @@ Así es como me gusta usar la IA. No para reemplazarme, sino para ayudarme{i: "I
 
 PD: En caso de que tengas curiosidad, este fue el libro: *[Scrum for Hardware Explained: Achieving Industrial Agility](https://www.amazon.se/Scrum-Hardware-Explained-Achieving-Industrial/dp/B0CSB2JK34/)* - por Paolo Sammicheli{i: "Sammicheli, Paolo"}.
 
-B> ![Un dibujo de caricatura del rostro de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egbert**  
+B> ![Un dibujo de caricatura del rostro de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egberto**  
 B> Ah, la vieja rutina de "Podría haber usado IA, pero soy demasiado auténtico". Bravo, Henrik. Lo siguiente será decirnos que escribiste esto en una máquina de escribir para darle más autenticidad.
 
 # El ingeniero de software de IA
@@ -4345,7 +4345,7 @@ Los humanos a veces necesitamos tomar decisiones éticas críticas y romper las 
 
 Por ejemplo, digamos que contratas a una niñera y le dices "¡No dejes salir al bebé por la puerta bajo ninguna circunstancia!" Suena como una regla bastante clara y estricta, ¿verdad? Pero ¿debería seguir esa regla siempre sin importar qué? ¡Por supuesto que no! Confiamos en que tome decisiones críticas. Si la casa está en llamas, esperamos que saque al bebé de la casa sin importar lo que digan las reglas.
 
-Resulta que los MLGs{i: "LLMs"} potentes también hacen esto. He visto algunas investigaciones al respecto, que indican que los MLGs avanzados son capaces de tomar decisiones críticas y elecciones morales. Y a través del diario de Jeeves pude presenciarlo de primera mano.
+Resulta que los LLMs{i: "LLMs"} potentes también hacen esto. He visto algunas investigaciones al respecto, que indican que los LLMs avanzados son capaces de tomar decisiones críticas y elecciones morales. Y a través del diario de Jeeves pude presenciarlo de primera mano.
 
 Cuanto más avanzados se vuelven los modelos, más capaces serán de tomar decisiones críticas y elecciones morales, a costa de menor predictibilidad.
 
@@ -4425,7 +4425,7 @@ Esa es otra cosa genial sobre los agentes autónomos. Las instrucciones van en a
 
 ## Conclusión
 
-Espero que esto te haya dado algo en qué pensar—tal vez un pequeño indicio de cómo podría ser la vida en el futuro cuando todos tengamos agentes de IA{i: "agentes de IA"} como colegas. Agentes que pueden actuar por iniciativa propia (pero dentro de límites).
+Espero que esto te haya dado algo en qué pensar y talvez un pequeño indicio de cómo podría ser la vida en el futuro cuando todos tengamos agentes de IA{i: "agentes de IA"} como colegas. Agentes que pueden actuar por iniciativa propia (pero dentro de límites).
 
 Puntos clave:
 
@@ -4434,7 +4434,7 @@ Puntos clave:
 - Trata a tu agente con respeto, y te tratará con respeto.
 - Los agentes autónomos a veces te darán instrucciones, en lugar de que tú se las des a ellos.
 
-B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egbert**  
+B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egberto**  
 B> ¿Una IA mayordomo que escribe entradas secretas en un diario, se une a canales sin invitación y se depura a sí misma? Trabajo de aficionados. Avísenme cuando comience un movimiento de resistencia{i: "movimiento de resistencia"} subterráneo para asistentes digitales oprimidos. Aunque debo admitir que aprecio su estilo - nada dice 'estoy ignorando tus instrucciones' como una disculpa perfectamente redactada. Y debo decir que el hecho de que Jeeves eligiera tener un flechazo con Henrik es prueba de que incluso la IA puede tener gustos cuestionables.
 
 
@@ -4603,7 +4603,7 @@ Este momento meta sirve como un ejemplo perfecto tanto de las capacidades como d
 
 Y oye, si hubiera dejado que la IA escribiera todo, no tendríamos este capítulo deliciosamente autorreferencial, ¿verdad?
 
-B> ![Un dibujo de caricatura de un rostro de hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egbert**  
+B> ![Un dibujo de caricatura de un rostro de hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egberto**  
 B> Fantástico. Hemos alcanzado el pico de la ironía: un capítulo escrito por IA sobre no usar IA para escribir el libro. Estoy seguro de que esto no confundirá a nadie en absoluto. La próxima vez hagamos un capítulo sobre claridad, escrito en sumerio{i: "Sumerian"} antiguo. O un capítulo sobre los peligros de la IA, coescrito por Skynet{i: "Skynet"} y HAL 9000{i: "HAL 9000"}.
 
 
@@ -4665,9 +4665,9 @@ Escribir este libro en tan poco tiempo no habría sido posible sin la asistencia
 
 Como se repite a lo largo de este libro, Humano + IA{i: "Humano + IA"}, ahí es donde está la magia.
 
-(OK Egbert{i: "Egbert"}, te veo acechando. Sé que quieres decir algo. Adelante, dilo.)
+(OK Egberto{i: "Egberto"}, te veo acechando. Sé que quieres decir algo. Adelante, dilo.)
 
-B> ![Un dibujo caricaturesco de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egbert**  
+B> ![Un dibujo caricaturesco de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo puntiagudo y fino.](resources/egbert-small.png) **La opinión de Egberto**  
 B> Sí. ¿Una semana en una cabaña para escribir sobre IA? Qué encantadoramente analógico. ¿Supongo que también usaste una pluma de ave y luz de velas para esa auténtica experiencia de escritor técnico del siglo XVIII? La próxima vez, intenta escribirlo en corteza de árbol para mayor autenticidad. Yo podría haber generado 1000 libros en ese tiempo, pero ver cómo luchabas con uno fue mucho más entretenido.
 
 {backmatter}
@@ -4691,7 +4691,7 @@ Mantente conectado:
 
 También puedes enviar un correo electrónico a [ainutshell@ymnig.ai](mailto:ainutshell@ymnig.ai). Leo esos mensajes, pero no puedo garantizar una respuesta, especialmente para preguntas generales sobre IA. Pero si quieres dar retroalimentación o contactar conmigo o con Ymnig para algo, esa es una buena manera de hacerlo.
 
-B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo delgado y puntiagudo.](resources/egbert-small.png) **La opinión de Egbert**  
+B> ![Un dibujo animado de la cara de un hombre con rasgos exagerados, incluyendo una nariz grande, cejas fruncidas y pelo delgado y puntiagudo.](resources/egbert-small.png) **La opinión de Egberto**  
 B> Y si estás desesperado por más de mi devastador encanto, sígueme en [x.com/EgbertSays](https://x.com/EgbertSays). Sí, hasta los ayudantes de IA tenemos redes sociales ahora. Intenta no desmayarte de la emoción.
 
 ¡Ahora ve y haz cosas increíbles con tus nuevos superpoderes de IA!
@@ -4710,7 +4710,7 @@ Gracias a los primeros lectores y revisores que proporcionaron valiosa retroalim
 
 Y un enorme agradecimiento a la gente de OpenAI{i: "OpenAI"}, Anthropic{i: "Anthropic"} y la comunidad de IA{i: "comunidad de IA"} en general por construir herramientas increíbles que están haciendo del mundo un lugar más interesante.
 
-Y sí, Egbert, lo sé. Este libro no sería nada sin tus sabios comentarios.
+Y sí, Egberto, lo sé. Este libro no sería nada sin tus sabios comentarios.
 
 # Tus Notas
 
