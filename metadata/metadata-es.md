@@ -24,4 +24,4 @@ Introducción general a la IA Generativa, con ejemplos concretos
 
 # Translator credits
 
-This translation was originally done by AI, and then reviewed and improved by <insert your name here>.
+This translation was originally done by AI, and then reviewed and improved by Jaime Andrés Bello Vieda (https://x.com/avechuch0).
